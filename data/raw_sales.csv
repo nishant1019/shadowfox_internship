@@ -1,0 +1,1231 @@
+Order ID,Order Date,Region,Category,Product,Quantity,Unit Price,Discount,Unit Cost
+ORD-10582,08-May-2025,West,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-11076,24-May-2025,south,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-11129,2025-08-08,West,Office Supplies,Notebook Set,7.0,450.0,0.05,190
+ORD-10986,2025-01-07,North,Accessories,USB-C Hub,2.0,1800.0,0.15,980
+ORD-10635,2025-09-08,East,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10724,2025-10-19,East,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10123,2025-01-08,West,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10445,2025-02-05,North,Technology,Wireless Mouse,5.0,1200.0,0.2,650
+ORD-10142,2025-06-09,North,Furniture,Bookshelf,2.0,6200.0,0.2,4100
+ORD-10524,2025-04-08,East,Furniture,Office Chair,2.0,8500.0,0.05,5600
+ORD-10099,2025-10-15,West,Accessories,Webcam,2.0,3200.0,0.05,1900
+ORD-11099,2025-07-05,East,Accessories,Webcam,1.0,3200.0,0.2,1900
+ORD-10978,07-Dec-2025,West,Accessories,Headphones,3.0,4500.0,0.1,2600
+ORD-10546,2025-12-11,West,Office Supplies,Printer Paper Box,3.0,1600.0,0.2,1050
+ORD-10012,2025-05-13,West,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10880,2025-02-09,East,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10264,2025-06-15,West ,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10688,2025-04-14,North,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10520,2025-02-16,South,Technology,Mechanical Keyboard,3.0,4200.0,0.15,2500
+ORD-10499,2025-12-18,EAST,Furniture,Bookshelf,1.0,6200.0,0.1,4100
+ORD-10836,2025-06-27, North ,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10937,2025-08-16,West,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10089,27-Oct-2025,South,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10177,2025-09-01,North,Technology,Wireless Mouse,1.0,1200.0,0.05,650
+ORD-10783,2025-11-17,East,Office Supplies,Notebook Set,7.0,450.0,0.15,190
+ORD-10606,2025-07-07,North,Office Supplies,Notebook Set,4.0,450.0,0.2,190
+ORD-10999,2025-12-07,South,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10034,2025-03-24,South,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10416,2025-04-27,East,Office Supplies,Notebook Set,8.0,,0.0,190
+ORD-10820,17-Dec-2025,North,Accessories,Headphones,1.0,4500.0,0.15,2600
+ORD-10388,2025-11-01, North ,Technology,Wireless Mouse,3.0,1200.0,0.05,650
+ORD-10158,2025-11-19,West,Office Supplies,Desk Organizer,4.0,850.0,0.15,420
+ORD-10917,20-Sep-2025,North,Office Supplies,Desk Organizer,5.0,850.0,0.15,420
+ORD-11035,2025-03-14,West,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10358,2025-06-24,South,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10151,2025-01-12,West,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-10892,14-Jul-2025,East,Office Supplies,Printer Paper Box,6.0,1600.0,0.05,1050
+ORD-10616,2025-12-18,South,Technology,Wireless Mouse,5.0,1200.0,0.15,650
+ORD-10949,2025-09-20,South,Technology,Wireless Mouse,5.0,1200.0,0.05,650
+ORD-11173,05-Dec-2025,West,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10641,2025-09-28,South ,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-10950,2025-06-04,south,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-11152,2025-08-20,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10764,10-May-2025,West,Technology,Mechanical Keyboard,1.0,4200.0,0.15,2500
+ORD-10279,2025-03-11,West,Furniture,Office Chair,1.0,8500.0,0.2,5600
+ORD-10488,2025-01-05,SOUTH,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10072,2025-08-07,north,Technology,Mechanical Keyboard,3.0,4200.0,0.1,2500
+ORD-10074,2025-09-25,South,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10013,2025-07-20,East,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10220,2025-10-13,North,Furniture,Standing Desk,1.0,19500.0,0.2,13800
+ORD-11037,2025-04-15,West,Accessories,Webcam,2.0,3200.0,0.1,1900
+ORD-10183,2025-12-24,north,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10094,2025-11-08,West,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10379,2025-09-10,West,Office Supplies,Notebook Set,7.0,450.0,0.15,190
+ORD-10440,20-Jan-2025,East,Technology,Wireless Mouse,4.0,1200.0,0.0,650
+ORD-10752,2025-01-28,South,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-11080,2025-07-11,West,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10153,2025-10-07,North,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10960,2025-06-27,North,Office Supplies,Notebook Set,3.0,450.0,0.05,190
+ORD-10729,2025-10-27,West,Office Supplies,Desk Organizer,1.0,850.0,0.2,420
+ORD-10016,2025-09-15,SOUTH,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10561,21-Dec-2025,East,Accessories,Headphones,2.0,4500.0,0.1,2600
+ORD-10894,2025-09-19,North,Office Supplies,Printer Paper Box,5.0,1600.0,0.2,1050
+ORD-11145,2025-07-07,South ,Technology,Wireless Mouse,5.0,1200.0,0.1,650
+ORD-10899,2025-10-13,West,Furniture,Standing Desk,2.0,19500.0,0.2,13800
+ORD-11067,2025-08-04,North,Office Supplies,Notebook Set,4.0,450.0,0.15,190
+ORD-10387,27-Mar-2025,South,Office Supplies,Notebook Set,2.0,450.0,0.15,190
+ORD-11006,10-Jan-2025,North,Furniture,Standing Desk,2.0,19500.0,0.2,13800
+ORD-10038,2025-10-16,West,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10230,2025-01-21,West,Furniture,Bookshelf,1.0,6200.0,0.2,4100
+ORD-10435,2025-11-06,South,Accessories,Headphones,2.0,4500.0,0.2,2600
+ORD-10811,2025-07-08,East,Furniture,Standing Desk,2.0,19500.0,0.1,13800
+ORD-10716,2025-07-16,North,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10258,2025-01-20,South,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-11045,2025-11-13,West,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-10720,2025-04-16,South,Office Supplies,Desk Organizer,4.0,850.0,0.2,420
+ORD-10110,2025-09-04,East,Accessories,USB-C Hub,3.0,1800.0,0.05,980
+ORD-10708,19-Aug-2025,South,Accessories,Headphones,1.0,4500.0,0.1,2600
+ORD-11196,2025-06-27,South,Technology,Wireless Mouse,2.0,1200.0,0.2,650
+ORD-11014,2025-10-13,West,Accessories,Headphones,3.0,4500.0,0.2,2600
+ORD-11171,2025-10-06,West,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10505,2025-04-05,South,Office Supplies,Notebook Set,6.0,450.0,0.2,190
+ORD-10885,2025-06-26,South,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10274,2025-02-02,West ,Office Supplies,Desk Organizer,5.0,850.0,0.1,420
+ORD-10261,2025-09-26,East,Technology,"Monitor 24""",2.0,11500.0,0.05,8200
+ORD-10841,2025-06-15,West,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10673,2025-10-20,South,Office Supplies,Notebook Set,4.0,450.0,0.2,190
+ORD-10494,2025-10-12,South,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-11055,2025-05-05,west,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10827,04-Apr-2025,South,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10613,2025-06-26,west,Office Supplies,Printer Paper Box,6.0,1600.0,0.2,1050
+ORD-10166,24-Jun-2025,East,Office Supplies,Desk Organizer,5.0,850.0,0.05,420
+ORD-10572,02-Oct-2025,EAST,Office Supplies,Printer Paper Box,5.0,1600.0,0.2,1050
+ORD-10497,09-May-2025,West ,Office Supplies,Printer Paper Box,6.0,1600.0,0.1,1050
+ORD-10032,2025-11-18,North,Technology,"Monitor 24""",2.0,11500.0,0.1,8200
+ORD-10180,2025-12-24,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.1,1050
+ORD-11034,24-Apr-2025,North,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-10614,11-Jun-2025,South,Technology,Mechanical Keyboard,1.0,4200.0,0.1,2500
+ORD-10627,2025-02-12,East,Furniture,Bookshelf,1.0,6200.0,0.2,4100
+ORD-10149,27-Nov-2025,West,Technology,Wireless Mouse,4.0,1200.0,0.05,650
+ORD-10701,2025-03-22,North,Technology,Wireless Mouse,4.0,,0.15,650
+ORD-10745,2025-06-28,East,Office Supplies,Notebook Set,2.0,450.0,0.2,190
+ORD-10188,2025-02-18,East,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10617,07-Apr-2025,South,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10001,2025-06-21,West,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10376,03-Feb-2025, North ,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10503,2025-11-11,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.1,1050
+ORD-10060,2025-12-28,South,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-10805,03-Apr-2025,South,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10735,2025-11-06,South,Accessories,USB-C Hub,3.0,1800.0,0.05,980
+ORD-10726,2025-08-25,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.2,1050
+ORD-10956,09-May-2025,South,Accessories,Webcam,2.0,3200.0,0.15,1900
+ORD-11081,21-Sep-2025,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.05,1050
+ORD-10242,2025-07-16,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-10938,2025-10-16,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.1,1050
+ORD-10782,2025-11-02,East,Technology,Mechanical Keyboard,2.0,4200.0,0.05,2500
+ORD-10868,2025-03-22,South,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-11155,27-Feb-2025,South,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-11188,2025-10-28,West,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-11052,2025-03-20,South,Office Supplies,Desk Organizer,,850.0,0.1,420
+ORD-11124,22-Feb-2025,South,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10430,2025-08-10,South,Furniture,Standing Desk,2.0,19500.0,0.2,13800
+ORD-10529,23-Nov-2025,West,Office Supplies,Notebook Set,2.0,450.0,0.1,190
+ORD-10846,16-Mar-2025,North,Office Supplies,Notebook Set,7.0,450.0,0.2,190
+ORD-10106,2025-08-11,South,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10059,18-Nov-2025,west,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10896,27-Mar-2025,North,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-10170,2025-07-08,South,Furniture,Bookshelf,2.0,6200.0,0.15,4100
+ORD-10712,06-Jan-2025,South,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-11054,11-Nov-2025,west,Accessories,Webcam,2.0,3200.0,0.2,1900
+ORD-10265,2025-01-28,North,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10057,2025-12-06,South,Accessories,USB-C Hub,3.0,1800.0,0.2,980
+ORD-10197,2025-06-13,South,Accessories,USB-C Hub,4.0,1800.0,0.2,980
+ORD-11139,2025-10-17,South,Office Supplies,Notebook Set,2.0,450.0,0.15,190
+ORD-10954,2025-12-26,East,Technology,"Monitor 24""",2.0,11500.0,0.1,8200
+ORD-10179,2025-01-12,South,Office Supplies,Printer Paper Box,4.0,1600.0,0.1,1050
+ORD-10422,2025-03-09,South,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10948,2025-08-01,East,Office Supplies,Desk Organizer,5.0,850.0,0.1,420
+ORD-10489,2025-09-13,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-11182,2025-05-04,East,Office Supplies,Notebook Set,3.0,450.0,0.15,190
+ORD-10876,2025-08-11,East,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10056,2025-05-07,North,Technology,Wireless Mouse,5.0,1200.0,0.2,650
+ORD-10187,05-Feb-2025,West,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10223,2025-11-07,East,Accessories,Headphones,3.0,4500.0,0.1,2600
+ORD-10518,2025-02-20,East,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10487,2025-10-15,South,Technology,Wireless Mouse,1.0,1200.0,0.05,650
+ORD-10478,2025-06-21,West,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10781,2025-06-03,North,Technology,Wireless Mouse,1.0,1200.0,0.05,650
+ORD-10778,2025-04-01,North,Technology,Wireless Mouse,3.0,1200.0,0.1,650
+ORD-10840,28-Mar-2025,North,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-11068,2025-10-26,East,Accessories,Webcam,3.0,3200.0,0.05,1900
+ORD-10759,2025-09-03,South,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-11128,06-Dec-2025,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.1,1050
+ORD-10277,2025-08-12,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.05,1050
+ORD-10856,2025-03-08,West,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-11119,2025-12-08,North,Technology,Wireless Mouse,5.0,1200.0,0.05,650
+ORD-11067,2025-08-04,North,Office Supplies,Notebook Set,4.0,450.0,0.15,190
+ORD-11048,2025-05-15,West,Accessories,USB-C Hub,,1800.0,0.0,980
+ORD-10903,27-Jun-2025,North,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10736,2025-08-09,North,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-11023,2025-11-22,South,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10810,2025-08-10,West,Office Supplies,Desk Organizer,5.0,850.0,0.05,420
+ORD-10222,2025-06-13,South,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-10053,2025-12-22,South,Technology,Wireless Mouse,4.0,1200.0,0.1,650
+ORD-11009,04-Jun-2025,West,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10224,2025-12-16, North ,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10397,2025-08-10,South,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10839,07-Feb-2025,North,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10703,13-Oct-2025,North,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10690,2025-06-15,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10293,2025-09-27,West,Technology,Wireless Mouse,4.0,1200.0,0.15,650
+ORD-11065,05-Dec-2025,North,Office Supplies,Notebook Set,1.0,450.0,0.05,190
+ORD-10269,2025-11-24,West ,Technology,Wireless Mouse,4.0,1200.0,0.05,650
+ORD-10015,2025-09-28,South,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-10344,2025-09-10,SOUTH,Technology,Mechanical Keyboard,3.0,,0.2,2500
+ORD-10516,2025-01-15,North,Office Supplies,Printer Paper Box,3.0,1600.0,0.15,1050
+ORD-10081,04-Jun-2025,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10844,2025-12-06,South,Office Supplies,Notebook Set,5.0,450.0,0.05,190
+ORD-10601,2025-11-18,East,Furniture,Office Chair,2.0,8500.0,0.15,5600
+ORD-10107,2025-09-19,North,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-11029,2025-07-11,West,Office Supplies,Notebook Set,4.0,450.0,0.1,190
+ORD-10675,2025-12-21,South,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10932,2025-03-13, North ,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10935,2025-03-09,South,Office Supplies,Desk Organizer,3.0,850.0,0.2,420
+ORD-11053,2025-11-13,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10936,21-Nov-2025,South,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10439,2025-10-03,South,Office Supplies,Printer Paper Box,3.0,1600.0,0.05,1050
+ORD-11073,2025-07-23,west,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10331,2025-06-12,East,Accessories,Headphones,1.0,4500.0,0.05,2600
+ORD-10289,04-Mar-2025,West,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10413,2025-08-18,North,Accessories,Webcam,3.0,3200.0,0.15,1900
+ORD-10743,09-May-2025,West,Technology,"Monitor 24""",2.0,11500.0,0.2,8200
+ORD-10360,2025-03-07,West,Office Supplies,Desk Organizer,3.0,850.0,0.1,420
+ORD-11008,2025-08-12,west,Office Supplies,Notebook Set,6.0,450.0,0.15,190
+ORD-10598,10-Jan-2025,West,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10399,2025-12-25,West,Office Supplies,Printer Paper Box,4.0,1600.0,0.15,1050
+ORD-10800,2025-02-17,West,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-11191,2025-11-21,West,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10138,2025-08-14,WEST,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10796,2025-10-03,South,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10589,2025-11-13,South,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-10526,2025-12-18,North,Office Supplies,Notebook Set,5.0,450.0,0.05,190
+ORD-10801,2025-04-01,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-11036,2025-11-26,East,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10434,2025-03-24,South,Technology,Wireless Mouse,4.0,1200.0,0.15,650
+ORD-11116,2025-10-03,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10116,2025-11-15,West,Office Supplies,Notebook Set,4.0,450.0,0.2,190
+ORD-11193,2025-05-08,East,Office Supplies,Printer Paper Box,3.0,1600.0,0.0,1050
+ORD-10822,2025-08-05,South,Office Supplies,Printer Paper Box,2.0,1600.0,0.05,1050
+ORD-10209,2025-05-15,East,Technology,Mechanical Keyboard,3.0,4200.0,0.05,2500
+ORD-10400,2025-10-27,West,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-11178,2025-10-09,West,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-10023,2025-04-07,North,Office Supplies,Printer Paper Box,5.0,1600.0,0.1,1050
+ORD-10630,2025-02-27,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-10643,2025-05-28,West,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10313,2025-09-14,East,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-10863,2025-10-08,North,Furniture,Standing Desk,1.0,19500.0,0.2,13800
+ORD-10959,2025-12-22,WEST,Office Supplies,Printer Paper Box,3.0,1600.0,0.05,1050
+ORD-11192,2025-12-16,North,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10433,2025-06-26,WEST,Office Supplies,Printer Paper Box,3.0,1600.0,0.15,1050
+ORD-10382,2025-04-24,South,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10834,2025-04-28,North,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10760,2025-04-15,East,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10244,2025-01-02,West,Technology,Mechanical Keyboard,1.0,4200.0,0.1,2500
+ORD-10025,2025-08-05,West,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-10005,2025-09-17,East,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-11005,21-Feb-2025,West,Office Supplies,Notebook Set,4.0,450.0,0.2,190
+ORD-10226,2025-11-23,North,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10471,2025-05-11,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10711,2025-05-11,South,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-11031,13-Jan-2025,North,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10566,2025-10-17,west,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10369,2025-06-03,South,Accessories,USB-C Hub,3.0,1800.0,0.2,980
+ORD-10656,2025-02-05,West,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10821,2025-08-19,East,Accessories,USB-C Hub,1.0,1800.0,0.15,980
+ORD-10200,2025-10-09, North ,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10806,02-Dec-2025,West,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-11079,2025-03-23,North,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10511,2025-10-22,East,Technology,Mechanical Keyboard,1.0,4200.0,0.15,2500
+ORD-11021,2025-11-09,North,Office Supplies,Printer Paper Box,6.0,1600.0,0.1,1050
+ORD-10515,2025-05-08,North,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10372,2025-10-18,West,Office Supplies,Notebook Set,1.0,450.0,0.2,190
+ORD-10802,13-Apr-2025,West,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10504,2025-10-07,North,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10137,2025-11-15,North,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10646,2025-06-28,South,Furniture,Bookshelf,2.0,6200.0,0.1,4100
+ORD-10798,2025-10-19,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.1,1050
+ORD-10852,01-May-2025,North,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10545,2025-12-19,West,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10233,2025-12-05,West,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10667,2025-04-09,South,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10974,2025-07-25,South,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10584,2025-11-08,North,Office Supplies,Notebook Set,8.0,450.0,0.1,190
+ORD-10525,2025-11-23,South ,Furniture,Office Chair,2.0,8500.0,0.1,5600
+ORD-10240,11-Dec-2025, East,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-11097,2025-10-14,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10164,2025-08-04,East,Office Supplies,Printer Paper Box,4.0,1600.0,0.1,1050
+ORD-10823,11-Feb-2025,South,Office Supplies,Desk Organizer,4.0,,0.1,420
+ORD-10634,2025-06-13,West,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10722,2025-10-08,South,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10213,2025-01-22,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10118,2025-04-22,North,Office Supplies,Desk Organizer,5.0,850.0,0.1,420
+ORD-10596,2025-02-12,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-11059,2025-07-23,East,Office Supplies,Printer Paper Box,6.0,1600.0,0.1,1050
+ORD-10847,2025-06-09,South,Technology,Wireless Mouse,4.0,1200.0,0.0,650
+ORD-11142,2025-07-19,West,Furniture,Office Chair,1.0,8500.0,0.2,5600
+ORD-10660,15-Feb-2025,North,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10395,2025-07-08,West,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10969,28-May-2025,West,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10461,2025-11-26,WEST,Office Supplies,Notebook Set,3.0,450.0,0.0,190
+ORD-10832,12-Dec-2025,East,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10303,2025-03-26,West,Office Supplies,Notebook Set,1.0,450.0,0.05,190
+ORD-10161,2025-08-19,South,Office Supplies,Desk Organizer,1.0,850.0,0.1,420
+ORD-10558,2025-09-23,East,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10523,2025-12-07,East,Office Supplies,Printer Paper Box,2.0,1600.0,0.05,1050
+ORD-11161,2025-12-06,East,Office Supplies,Desk Organizer,5.0,850.0,0.15,420
+ORD-10853,2025-07-26,WEST,Furniture,Bookshelf,2.0,,0.0,4100
+ORD-10114,2025-12-27,South,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10898,03-Jan-2025,South,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10012,2025-05-13,West,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10871,2025-11-18,North,Office Supplies,Desk Organizer,5.0,850.0,0.1,420
+ORD-10987,2025-05-08,West,Office Supplies,Notebook Set,3.0,450.0,0.0,190
+ORD-10920,2025-12-12,South,Technology,Wireless Mouse,4.0,1200.0,0.05,650
+ORD-10202,15-Aug-2025,North,Accessories,USB-C Hub,4.0,1800.0,0.05,980
+ORD-10895,2025-02-12,North,Office Supplies,Notebook Set,1.0,450.0,0.15,190
+ORD-10079,26-Oct-2025,West,Accessories,USB-C Hub,1.0,1800.0,0.05,980
+ORD-10715,2025-09-23,East,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10989,2025-04-23,West,Office Supplies,Notebook Set,1.0,450.0,0.15,190
+ORD-10695,23-Dec-2025,North,Office Supplies,Notebook Set,8.0,450.0,0.1,190
+ORD-10337,17-Feb-2025,South,Office Supplies,Notebook Set,4.0,450.0,0.15,190
+ORD-10785,2025-09-10,West,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10216,2025-03-06,West,Accessories,USB-C Hub,4.0,1800.0,0.2,980
+ORD-10795,2025-07-01,South,Office Supplies,Desk Organizer,3.0,850.0,0.15,420
+ORD-10973,2025-11-02,South,Office Supplies,Notebook Set,1.0,450.0,0.2,190
+ORD-10375,2025-12-15,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.1,1050
+ORD-10754,2025-09-10,North,Office Supplies,Notebook Set,3.0,450.0,0.05,190
+ORD-10901,13-Dec-2025,South,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10112,07-Feb-2025,East,Technology,"Monitor 24""",2.0,11500.0,0.15,8200
+ORD-10295,2025-03-15,North,Technology,Wireless Mouse,2.0,1200.0,0.1,650
+ORD-11130,2025-05-05,South,Office Supplies,Notebook Set,6.0,450.0,0.2,190
+ORD-10900,2025-02-09,North,Furniture,Office Chair,1.0,8500.0,0.15,5600
+ORD-10813,14-Mar-2025,South,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10585,07-Jan-2025,North,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-10738,2025-05-28,South,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10044,2025-10-25,East,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10312,01-Jun-2025,West,Office Supplies,Notebook Set,1.0,450.0,0.2,190
+ORD-10772,03-Aug-2025,West,Technology,Mechanical Keyboard,1.0,4200.0,0.05,2500
+ORD-10309,2025-01-25,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10436,26-Jun-2025,West,Technology,Mechanical Keyboard,3.0,4200.0,0.05,2500
+ORD-10402,04-Sep-2025,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10113,2025-04-06,South,Technology,Wireless Mouse,5.0,1200.0,0.05,650
+ORD-10592,2025-09-25,North,Accessories,Headphones,3.0,4500.0,0.1,2600
+ORD-10018,22-Dec-2025,South,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10535,02-Jun-2025,South,Technology,Mechanical Keyboard,1.0,4200.0,0.15,2500
+ORD-10108,2025-10-14,South,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10002,2025-10-08,West,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10270,2025-07-08,North,Furniture,Bookshelf,3.0,,0.1,4100
+ORD-10407,2025-03-08,South,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10532,2025-11-23,North,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10648,2025-11-12,South,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10041,2025-11-27,North,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10740,2025-11-22,north,Office Supplies,Notebook Set,7.0,450.0,0.2,190
+ORD-10093,2025-04-18,West,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10962,2025-09-11,South,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-11146,2025-09-15,West ,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10080,2025-04-04,North,Office Supplies,Desk Organizer,2.0,850.0,0.05,420
+ORD-10775,2025-01-10,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10828,2025-02-15,North,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10463,2025-07-18,North,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-10401,2025-10-02,east,Technology,Wireless Mouse,4.0,1200.0,0.1,650
+ORD-10157,04-Jan-2025,West,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10742,2025-08-03,south,Furniture,Office Chair,1.0,8500.0,0.15,5600
+ORD-10088,2025-09-04,South,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10317,2025-08-20,South,Office Supplies,Notebook Set,5.0,450.0,0.2,190
+ORD-10232,16-Oct-2025,South,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10292,2025-08-24,East,Technology,Mechanical Keyboard,1.0,4200.0,0.15,2500
+ORD-10364,2025-03-21,West ,Accessories,USB-C Hub,4.0,1800.0,0.2,980
+ORD-10255,2025-12-02,South,Office Supplies,Desk Organizer,3.0,850.0,0.1,420
+ORD-11098,23-Feb-2025,West,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10906,2025-10-19,WEST,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10594,09-Oct-2025,East,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10882,2025-02-02,West,Office Supplies,Notebook Set,7.0,450.0,0.2,190
+ORD-11141,05-Apr-2025,North,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10629,17-Apr-2025,North,Office Supplies,Notebook Set,5.0,450.0,0.05,190
+ORD-10814,21-Apr-2025,North,Office Supplies,Notebook Set,1.0,450.0,0.1,190
+ORD-11041,2025-01-12,East,Furniture,Standing Desk,2.0,19500.0,0.1,13800
+ORD-11199,2025-03-12,West,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-10879,2025-12-06,South,Office Supplies,Notebook Set,2.0,450.0,0.1,190
+ORD-10756,21-Nov-2025,South,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10249,28-Sep-2025,west,Furniture,Standing Desk,2.0,19500.0,0.15,13800
+ORD-10860,2025-12-12,East,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10133,2025-12-03,South,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10191,11-Feb-2025,South,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-11167,2025-09-22,East,Office Supplies,Desk Organizer,3.0,850.0,0.2,420
+ORD-11066,2025-03-18,West,Furniture,Office Chair,1.0,8500.0,0.1,5600
+ORD-10229,27-Jan-2025,West,Office Supplies,Notebook Set,2.0,450.0,0.2,190
+ORD-10288,2025-11-02,west,Accessories,Headphones,1.0,4500.0,0.05,2600
+ORD-10931,06-Nov-2025,East,Office Supplies,Printer Paper Box,1.0,1600.0,0.05,1050
+ORD-11072,2025-10-28,West,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10786,2025-09-05,South,Technology,Wireless Mouse,5.0,1200.0,0.1,650
+ORD-10482,03-Apr-2025,South,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10515,2025-05-08,North,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10404,2025-12-17,North,Accessories,Headphones,1.0,4500.0,0.15,2600
+ORD-10812,2025-08-16,North,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10103,2025-09-13,NORTH,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10307,09-Sep-2025,West,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-11117,24-Dec-2025,South,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-11083,2025-07-11,west,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10883,2025-03-06,West,Technology,Mechanical Keyboard,2.0,4200.0,0.2,2500
+ORD-10481,26-Feb-2025,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-10749,2025-09-11,West ,Office Supplies,Notebook Set,3.0,450.0,0.2,190
+ORD-10628,2025-10-01,North,Office Supplies,Notebook Set,1.0,450.0,0.15,190
+ORD-10135,08-Jun-2025,East,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10721,2025-12-03,West,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10516,2025-01-15,North,Office Supplies,Printer Paper Box,3.0,1600.0,0.15,1050
+ORD-10391,26-Oct-2025,East,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10301,2025-03-07,East,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10141,2025-12-27,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10597,2025-06-11,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-10428,2025-04-15,North,Technology,Wireless Mouse,1.0,1200.0,0.05,650
+ORD-10169,2025-11-27,West,Office Supplies,Desk Organizer,1.0,850.0,0.05,420
+ORD-10227,21-Jul-2025,EAST,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10530,21-Jul-2025,North,Office Supplies,Printer Paper Box,3.0,1600.0,0.2,1050
+ORD-10182,04-Jul-2025,SOUTH,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10342,2025-03-15,North,Office Supplies,Desk Organizer,4.0,850.0,0.05,420
+ORD-10003,2025-03-22,East,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10316,2025-10-21,South,Accessories,Webcam,3.0,3200.0,0.1,1900
+ORD-11024,24-Feb-2025,South,Office Supplies,Desk Organizer,2.0,850.0,0.2,420
+ORD-10862,02-May-2025,NORTH,Furniture,Bookshelf,1.0,6200.0,0.0,4100
+ORD-10385,2025-05-23,East,Accessories,USB-C Hub,1.0,1800.0,0.05,980
+ORD-10838,2025-11-09,West,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10658,2025-07-10,West,Office Supplies,Printer Paper Box,4.0,1600.0,0.1,1050
+ORD-10236,2025-01-17,SOUTH,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10350,2025-03-08,South ,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10281,26-Oct-2025,North,Technology,Wireless Mouse,5.0,1200.0,0.1,650
+ORD-10466,2025-03-11,SOUTH,Accessories,USB-C Hub,1.0,1800.0,0.2,980
+ORD-10470,2025-02-17,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.05,1050
+ORD-10314,2025-07-15,South,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10163,2025-12-11,West,Office Supplies,Desk Organizer,,850.0,0.15,420
+ORD-11157,2025-08-16,East,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-11140,2025-09-01,West,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-11105,2025-05-21,West,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10621,2025-11-26,North,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10888,13-Nov-2025,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10257,2025-12-26,North,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10064,2025-11-24,North,Accessories,Webcam,3.0,3200.0,0.2,1900
+ORD-10208,26-Sep-2025,South,Office Supplies,Notebook Set,5.0,450.0,0.05,190
+ORD-10408,2025-11-01,West,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10567,2025-02-04,East,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10569,15-Nov-2025,East,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10793,2025-12-12,North,Furniture,Bookshelf,3.0,6200.0,0.05,4100
+ORD-10333,2025-02-22,North,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10047,2025-11-11,East,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10341,09-Nov-2025,South,Technology,Mechanical Keyboard,2.0,4200.0,0.15,2500
+ORD-10156,2025-07-06,West,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-11153,2025-12-08,North,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10406,2025-12-14,South,Accessories,USB-C Hub,1.0,1800.0,0.15,980
+ORD-10460,17-Nov-2025,West,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10652,2025-01-15,South,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10124,2025-07-28,North,Accessories,Headphones,1.0,4500.0,0.15,2600
+ORD-11027,06-Mar-2025,WEST,Accessories,Headphones,3.0,4500.0,0.2,2600
+ORD-10819,2025-06-12,east,Technology,Wireless Mouse,4.0,1200.0,0.0,650
+ORD-10615,2025-12-02,North,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-10458,2025-08-18,West ,Office Supplies,Notebook Set,5.0,450.0,0.05,190
+ORD-10278,2025-12-09,West,Office Supplies,Notebook Set,8.0,450.0,0.05,190
+ORD-10817,2025-10-02, North ,Accessories,USB-C Hub,2.0,1800.0,0.05,980
+ORD-11163,2025-11-24,West,Accessories,Headphones,3.0,4500.0,0.05,2600
+ORD-10459,2025-05-23,West,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10753,2025-06-14,West,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-10041,2025-11-27,North,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10733,2025-12-05,West,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-11064,2025-09-25,East,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-10825,05-Nov-2025,North,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10910,2025-09-25,West ,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10396,26-Mar-2025,South,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10620,2025-12-16,North,Technology,Wireless Mouse,4.0,,0.2,650
+ORD-10479,2025-08-14,West,Furniture,Office Chair,1.0,8500.0,0.2,5600
+ORD-11187,2025-10-19,West ,Office Supplies,Notebook Set,6.0,450.0,0.15,190
+ORD-10952,2025-11-23,North,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-11194,2025-06-24,East,Office Supplies,Printer Paper Box,4.0,1600.0,0.15,1050
+ORD-11042,2025-07-02,North,Accessories,Webcam,1.0,3200.0,0.2,1900
+ORD-11165,2025-09-06,East,Furniture,Office Chair,1.0,8500.0,0.15,5600
+ORD-10455,2025-04-28,North,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-10540,2025-04-25,South,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10097,2025-12-26,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10912,2025-09-14,North,Accessories,USB-C Hub,1.0,1800.0,0.15,980
+ORD-10790,2025-09-20,East,Office Supplies,Printer Paper Box,1.0,1600.0,0.05,1050
+ORD-10380,2025-12-22, North ,Accessories,USB-C Hub,1.0,1800.0,0.1,980
+ORD-10326,19-Feb-2025,South,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-11108,2025-10-10,South,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-10500,2025-12-03,West,Office Supplies,Notebook Set,7.0,450.0,0.2,190
+ORD-11179,2025-12-03,South,Furniture,Standing Desk,2.0,19500.0,0.15,13800
+ORD-11007,27-Dec-2025,West,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-11012,03-Dec-2025,North,Furniture,Office Chair,2.0,8500.0,0.1,5600
+ORD-10046,2025-03-15,North,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10431,25-Nov-2025,South,Office Supplies,Notebook Set,4.0,450.0,0.05,190
+ORD-10995,2025-07-04,East,Office Supplies,Desk Organizer,5.0,850.0,0.05,420
+ORD-10346,2025-05-20,North,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-11134,2025-09-21,West,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10603,2025-07-11,West,Accessories,USB-C Hub,1.0,1800.0,0.2,980
+ORD-10238,2025-08-15,South,Accessories,Headphones,3.0,4500.0,0.2,2600
+ORD-10206,18-May-2025,West,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10009,07-May-2025,North,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10963,24-Nov-2025,West,Furniture,Bookshelf,2.0,6200.0,0.15,4100
+ORD-10994,2025-10-22,South,Office Supplies,Notebook Set,1.0,450.0,0.05,190
+ORD-10167,2025-01-18,South,Furniture,Bookshelf,2.0,6200.0,0.2,4100
+ORD-10332,26-Sep-2025,East,Technology,Wireless Mouse,4.0,1200.0,0.0,650
+ORD-10095,01-Aug-2025,West,Technology,Wireless Mouse,2.0,1200.0,0.1,650
+ORD-10755,12-Sep-2025,South,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10204,2025-06-15,West,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-10702,2025-01-20,East,Office Supplies,Desk Organizer,2.0,850.0,0.2,420
+ORD-10513,09-Dec-2025,East,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-11058,2025-09-22,South,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10670,2025-02-05,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10577,16-Oct-2025,SOUTH,Office Supplies,Desk Organizer,1.0,850.0,0.05,420
+ORD-10611,2025-12-13,South,Technology,Wireless Mouse,4.0,1200.0,0.1,650
+ORD-10725,2025-12-09,South,Office Supplies,Desk Organizer,5.0,850.0,0.1,420
+ORD-10873,2025-06-23,North,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10833,2025-12-09,West,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10308,2025-12-17,South,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10377,2025-09-23,South,Technology,Mechanical Keyboard,2.0,4200.0,0.2,2500
+ORD-10855,08-Sep-2025,South,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10275,03-Aug-2025,West,Accessories,USB-C Hub,3.0,1800.0,0.1,980
+ORD-11180,2025-08-01,south,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10659,2025-08-04,North,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10727,2025-11-14,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-11086,2025-10-07,South,Furniture,Standing Desk,2.0,19500.0,0.1,13800
+ORD-10689,2025-07-08,South,Office Supplies,Notebook Set,4.0,450.0,0.2,190
+ORD-10512,2025-12-26,EAST,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10329,2025-05-17, East,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10409,21-Sep-2025,North,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10637,13-Nov-2025,North,Furniture,Office Chair,2.0,8500.0,0.2,5600
+ORD-11122,2025-09-03,North,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10568,05-Oct-2025,West,Furniture,Standing Desk,1.0,19500.0,0.1,13800
+ORD-10351,24-Aug-2025,North,Furniture,Office Chair,1.0,8500.0,0.15,5600
+ORD-10922,2025-07-13,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.15,1050
+ORD-10196,04-Dec-2025,West,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10330,08-Sep-2025,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.1,1050
+ORD-10345,2025-11-10,South,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10462,2025-12-01,South,Accessories,USB-C Hub,3.0,1800.0,0.1,980
+ORD-10154,2025-08-16,East,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-11136,2025-02-07,South ,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-11074,2025-07-07,North,Technology,"Monitor 24""",2.0,11500.0,0.2,8200
+ORD-10770,2025-03-19,West,Office Supplies,Notebook Set,7.0,450.0,0.1,190
+ORD-10092,2025-12-08,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10398,2025-01-19,West ,Accessories,Webcam,2.0,3200.0,0.2,1900
+ORD-10542,2025-06-27,West,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10604,2025-10-03,South,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-10579,2025-03-13,South,Accessories,Webcam,2.0,3200.0,0.15,1900
+ORD-11110,01-Nov-2025,South,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-10866,2025-05-19,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-11185,14-May-2025,NORTH,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-10241,2025-09-08,South,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-11114,2025-05-01,North,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10271,2025-12-07,East,Office Supplies,Printer Paper Box,5.0,1600.0,0.05,1050
+ORD-10851,2025-12-17,South,Office Supplies,Notebook Set,6.0,450.0,0.15,190
+ORD-10026,2025-12-14,North,Accessories,USB-C Hub,4.0,1800.0,0.1,980
+ORD-11000,2025-01-14,North,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10739,2025-11-23,West,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10186,2025-02-06,East,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10383,2025-01-19,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10159,2025-06-07,NORTH,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10651,11-Jan-2025,West,Accessories,Headphones,1.0,4500.0,0.05,2600
+ORD-10211,2025-11-20,West,Accessories,USB-C Hub,1.0,1800.0,0.15,980
+ORD-10697,2025-03-21,West,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-11062,2025-12-14,NORTH,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10014,2025-04-02,West,Office Supplies,Notebook Set,4.0,450.0,0.05,190
+ORD-10011,26-Sep-2025,South,Technology,Wireless Mouse,1.0,1200.0,0.2,650
+ORD-10563,2025-09-24,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.1,1050
+ORD-10349,2025-05-06,South,Office Supplies,Printer Paper Box,2.0,1600.0,0.15,1050
+ORD-10181,15-Jun-2025,South,Office Supplies,Printer Paper Box,3.0,1600.0,0.05,1050
+ORD-10741,2025-11-21,South,Furniture,Bookshelf,2.0,6200.0,0.15,4100
+ORD-10975,2025-05-25, East,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10033,2025-05-14,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.2,1050
+ORD-10543,2025-12-13,West,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10024,2025-05-16,North,Office Supplies,Notebook Set,7.0,450.0,0.2,190
+ORD-10719,2025-05-13,South,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-11189,2025-05-15,North,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10831,11-Sep-2025,East,Office Supplies,Notebook Set,3.0,450.0,0.0,190
+ORD-10367,2025-10-03,East,Office Supplies,Notebook Set,8.0,450.0,0.2,190
+ORD-10522,22-May-2025,East,Office Supplies,Printer Paper Box,6.0,1600.0,0.05,1050
+ORD-11051,2025-12-06,South,Office Supplies,Notebook Set,3.0,450.0,0.0,190
+ORD-10985,05-May-2025,South,Furniture,Office Chair,2.0,8500.0,0.2,5600
+ORD-10709,15-Jan-2025,West,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10875,2025-11-25,NORTH,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10993,09-Mar-2025,north,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10970,2025-08-11,North,Furniture,Standing Desk,2.0,19500.0,0.2,13800
+ORD-10042,16-May-2025,South,Furniture,Standing Desk,1.0,19500.0,0.05,13800
+ORD-10363,2025-09-25,West,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10647,2025-08-24,South,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10136,03-Nov-2025,South,Accessories,USB-C Hub,4.0,1800.0,0.15,980
+ORD-10768,2025-06-20,West,Furniture,Bookshelf,3.0,6200.0,0.2,4100
+ORD-10189,2025-11-25,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10267,2025-12-10,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.15,1050
+ORD-10564,2025-02-18,West,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-11044,07-Feb-2025,West ,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10107,2025-09-19,North,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-10905,2025-03-26,West,Furniture,Bookshelf,3.0,6200.0,0.15,4100
+ORD-10122,2025-12-21,South,Technology,"Monitor 24""",1.0,11500.0,0.15,8200
+ORD-10692,2025-12-03,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10052,2025-05-16,North,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10477,2025-03-19, North ,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10671,2025-04-11,South,Office Supplies,Notebook Set,7.0,450.0,0.1,190
+ORD-10654,22-Oct-2025,West,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10608,07-Oct-2025,West,Technology,Wireless Mouse,1.0,1200.0,0.2,650
+ORD-11169,04-Jul-2025,South,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10104,2025-02-09,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.05,1050
+ORD-10946,2025-02-13,south,Office Supplies,Notebook Set,6.0,450.0,0.2,190
+ORD-10757,2025-12-10,East,Furniture,Office Chair,1.0,8500.0,0.15,5600
+ORD-10845,2025-09-05,East,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10887,2025-12-09,South,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10243,22-Sep-2025,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10591,2025-12-10,East,Technology,"Monitor 24""",1.0,11500.0,0.1,8200
+ORD-10706,2025-04-15,East,Furniture,Bookshelf,1.0,6200.0,0.05,4100
+ORD-10300,2025-04-11,West,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-10425,12-Aug-2025,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.1,1050
+ORD-11162,2025-09-19,West,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-10297,2025-03-09,West,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10184,2025-12-16,West,Accessories,Webcam,2.0,3200.0,0.05,1900
+ORD-10386,2025-02-21,EAST,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10533,2025-07-24,South,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10773,23-Dec-2025,North,Office Supplies,Notebook Set,1.0,450.0,0.05,190
+ORD-10888,13-Nov-2025,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10891,2025-01-04,West,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10830,2025-06-23,West,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10835,04-Feb-2025,North,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10767,2025-10-24,West,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10763,2025-07-24,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10357,2025-07-13,West,Office Supplies,Notebook Set,2.0,450.0,0.15,190
+ORD-10484,05-Oct-2025,West,Technology,Mechanical Keyboard,2.0,4200.0,0.1,2500
+ORD-10531,2025-12-27,West,Accessories,Headphones,3.0,4500.0,0.05,2600
+ORD-10359,2025-11-06,South,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10631,2025-05-06,South,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10366,2025-03-19,North,Accessories,USB-C Hub,3.0,1800.0,0.1,980
+ORD-10495,20-Apr-2025,South,Accessories,USB-C Hub,4.0,1800.0,0.05,980
+ORD-10410,2025-01-10,West,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10493,2025-10-13,North,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-11077,14-Oct-2025,North,Accessories,USB-C Hub,3.0,1800.0,0.05,980
+ORD-10684,28-Oct-2025,SOUTH,Accessories,Webcam,3.0,3200.0,0.15,1900
+ORD-10534,2025-04-22,East,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-11113,2025-01-05,West,Office Supplies,Notebook Set,5.0,450.0,0.1,190
+ORD-10682,2025-09-23,North,Office Supplies,Printer Paper Box,4.0,1600.0,0.15,1050
+ORD-10549,11-Apr-2025,East,Technology,Wireless Mouse,2.0,1200.0,0.2,650
+ORD-10762,2025-06-16,South,Furniture,Bookshelf,1.0,6200.0,0.0,4100
+ORD-11164,2025-11-07,West,Furniture,Office Chair,2.0,8500.0,0.2,5600
+ORD-10926,2025-05-16,North,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10071,2025-12-14,west,Technology,Wireless Mouse,5.0,1200.0,0.1,650
+ORD-10730,2025-04-04,West,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10354,2025-05-13,North,Accessories,USB-C Hub,1.0,1800.0,0.1,980
+ORD-10427,26-Apr-2025,East,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10857,2025-11-08,West,Office Supplies,Notebook Set,7.0,450.0,0.1,190
+ORD-11040,2025-12-04,North,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10521,06-Aug-2025,South,Accessories,USB-C Hub,4.0,1800.0,0.1,980
+ORD-10687,2025-11-02,West,Office Supplies,Notebook Set,7.0,450.0,0.1,190
+ORD-10352,2025-05-03,East,Furniture,Bookshelf,2.0,6200.0,0.15,4100
+ORD-10498,2025-06-12,North,Furniture,Bookshelf,1.0,6200.0,0.15,4100
+ORD-10418,2025-08-01,East,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10776,2025-12-26,South,Office Supplies,Printer Paper Box,2.0,1600.0,0.2,1050
+ORD-10848,2025-06-21,West,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10691,2025-03-01,South,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10666,2025-08-16,North,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10713,2025-12-14,East,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10744,2025-06-11,west,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10361,2025-12-27,North,Technology,Wireless Mouse,2.0,,0.0,650
+ORD-11103,2025-10-21,South,Accessories,Webcam,2.0,3200.0,0.15,1900
+ORD-10473,21-Apr-2025,East,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10483,2025-05-16,South,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10602,2025-01-05,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10298,2025-12-27,East,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10878,2025-12-03,West,Accessories,USB-C Hub,2.0,1800.0,0.1,980
+ORD-10225,2025-06-18,South,Furniture,Standing Desk,1.0,19500.0,0.05,13800
+ORD-10664,18-Mar-2025,East,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10096,2025-02-14,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-11069,2025-02-02,South,Office Supplies,Desk Organizer,4.0,850.0,0.15,420
+ORD-10212,20-Feb-2025,North,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10362,2025-02-09,East,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-11094,2025-11-21,South,Accessories,USB-C Hub,2.0,1800.0,0.1,980
+ORD-10302,27-Mar-2025,West,Furniture,Standing Desk,1.0,19500.0,0.1,13800
+ORD-10355,2025-04-20,North,Office Supplies,Desk Organizer,4.0,850.0,0.1,420
+ORD-10590,25-Nov-2025,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10370,2025-07-02,North,Technology,"Monitor 24""",2.0,11500.0,0.05,8200
+ORD-10977,16-Sep-2025,North,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10990,2025-11-09,East,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10677,2025-07-19,East,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-11121,2025-11-18,South,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10054,2025-06-15,North,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10049,2025-08-02,South,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-11016,2025-04-24,North,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-11089,2025-05-20,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10656,2025-02-05,West,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10296,2025-03-22,North,Office Supplies,Printer Paper Box,3.0,1600.0,0.1,1050
+ORD-10586,2025-09-22,South,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10272,2025-04-24,West,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10927,2025-11-24,South,Accessories,USB-C Hub,4.0,1800.0,0.1,980
+ORD-10446,2025-10-03,South,Accessories,USB-C Hub,2.0,1800.0,0.1,980
+ORD-10799,25-May-2025,North,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10008,2025-03-06,south,Technology,Wireless Mouse,4.0,1200.0,0.1,650
+ORD-10120,07-Sep-2025, North ,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10797,2025-03-17,South,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-11120,2025-02-06,West,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10683,2025-10-20,South,Furniture,Bookshelf,2.0,6200.0,0.15,4100
+ORD-10861,2025-03-07,North,Furniture,Bookshelf,2.0,6200.0,0.05,4100
+ORD-10469,2025-01-05,West,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10139,2025-11-25,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.15,1050
+ORD-10541,2025-11-24,South,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10019,2025-05-08,South,Furniture,Bookshelf,1.0,6200.0,0.2,4100
+ORD-10384,2025-11-10,North,Accessories,Webcam,3.0,3200.0,0.15,1900
+ORD-11071,02-Nov-2025,North,Office Supplies,Printer Paper Box,1.0,1600.0,0.05,1050
+ORD-10324,2025-09-27,South ,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10824,2025-03-09,West,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-11061,22-Nov-2025,West,Office Supplies,Notebook Set,7.0,450.0,0.05,190
+ORD-11096,2025-04-07,West,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10717,2025-07-27,West,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10356,2025-11-28,SOUTH,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10518,2025-02-20,East,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10890,2025-04-14,North,Accessories,USB-C Hub,2.0,1800.0,0.15,980
+ORD-10624,27-Mar-2025,West,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-11001,2025-04-16,South,Technology,Wireless Mouse,2.0,1200.0,0.2,650
+ORD-10472,17-Sep-2025,South,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10625,2025-12-14,north,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10929,2025-11-07,West,Office Supplies,Notebook Set,7.0,450.0,0.2,190
+ORD-11190,2025-07-13,North,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10421,2025-01-16,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.15,1050
+ORD-10417,2025-03-19,South,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10662,2025-11-26,North,Technology,Wireless Mouse,3.0,1200.0,0.15,650
+ORD-11030,2025-09-02,East,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-11135,2025-04-28,West,Office Supplies,Notebook Set,1.0,450.0,0.15,190
+ORD-10980,21-Sep-2025,East,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10250,2025-12-21,West,Accessories,Headphones,3.0,4500.0,0.2,2600
+ORD-10560,2025-04-17,East,Furniture,Bookshelf,3.0,6200.0,0.05,4100
+ORD-10506,2025-04-05,south,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10444,2025-09-13,West,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10119,2025-05-25,North,Furniture,Office Chair,1.0,8500.0,0.05,5600
+ORD-10886,2025-07-26,North,Accessories,USB-C Hub,1.0,1800.0,0.05,980
+ORD-10510,2025-12-10,South,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-11183,09-Sep-2025,East,Furniture,Office Chair,2.0,8500.0,0.15,5600
+ORD-10859,2025-01-11,East,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10453,23-Jul-2025,West,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-11118,2025-10-21,North,Office Supplies,Printer Paper Box,5.0,,0.0,1050
+ORD-10441,2025-04-12,West,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10339,2025-02-11,North,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10127,15-Nov-2025,West,Technology,Mechanical Keyboard,3.0,4200.0,0.1,2500
+ORD-10423,2025-03-03,West,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10509,2025-03-17, East,Office Supplies,Printer Paper Box,5.0,1600.0,0.2,1050
+ORD-10809,2025-12-18,South,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-11017,2025-07-19,North,Accessories,Headphones,2.0,4500.0,0.2,2600
+ORD-10221,09-Feb-2025,West,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10291,2025-07-24,East,Accessories,Headphones,3.0,,0.15,2600
+ORD-10115,2025-12-14,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.1,1050
+ORD-10854,16-Sep-2025,West,Technology,Wireless Mouse,5.0,1200.0,0.1,650
+ORD-10984,2025-03-17,West,Technology,"Monitor 24""",2.0,11500.0,0.15,8200
+ORD-10248,2025-07-09,East,Technology,"Monitor 24""",2.0,11500.0,0.15,8200
+ORD-10276,2025-08-06,West,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10310,08-Nov-2025,West,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10028,02-Sep-2025,East,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10451,2025-04-01,South,Furniture,Office Chair,1.0,8500.0,0.2,5600
+ORD-10580,2025-11-22,north,Furniture,Office Chair,1.0,8500.0,0.1,5600
+ORD-10160,25-Mar-2025,West,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10850,2025-12-26,West,Office Supplies,Printer Paper Box,4.0,1600.0,0.1,1050
+ORD-10262,2025-12-06,West,Accessories,USB-C Hub,1.0,1800.0,0.2,980
+ORD-10443,2025-11-26,East,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-11023,2025-11-22,South,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10449,2025-05-19,South,Accessories,Webcam,1.0,,0.1,1900
+ORD-10964,2025-09-11,East,Office Supplies,Notebook Set,6.0,450.0,0.05,190
+ORD-11084,17-Sep-2025,South,Furniture,Bookshelf,1.0,6200.0,0.0,4100
+ORD-10976,21-Feb-2025,South,Technology,Wireless Mouse,4.0,1200.0,0.15,650
+ORD-10593,2025-02-05,South,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10318,2025-02-14,West,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10415,08-Oct-2025,North,Office Supplies,Notebook Set,7.0,450.0,0.2,190
+ORD-10218,2025-02-22,South,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-11106,2025-10-19,South,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10996,2025-11-23,WEST,Technology,Wireless Mouse,2.0,1200.0,0.15,650
+ORD-10165,2025-06-27,South,Technology,Wireless Mouse,4.0,1200.0,0.0,650
+ORD-10571,2025-11-15,South,Technology,"Monitor 24""",1.0,11500.0,0.15,8200
+ORD-10783,2025-11-17,East,Office Supplies,Notebook Set,7.0,450.0,0.15,190
+ORD-10928,14-Dec-2025,North,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10007,19-Nov-2025,West,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10794,05-Oct-2025,West,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10347,2025-08-07,South,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-10869,2025-07-11,West,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-11025,22-Aug-2025,West,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-11166,26-Apr-2025,North,Furniture,Standing Desk,1.0,19500.0,0.05,13800
+ORD-10084,2025-05-28,EAST,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10313,2025-09-14,East,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-11109,2025-11-15,West,Technology,Mechanical Keyboard,2.0,4200.0,0.15,2500
+ORD-10306,2025-01-26, North ,Accessories,USB-C Hub,2.0,1800.0,0.1,980
+ORD-10921,16-Jun-2025,North,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10132,2025-03-17,South,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10679,2025-12-07,West,Office Supplies,Notebook Set,8.0,450.0,0.05,190
+ORD-10559,2025-02-15,South,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10925,2025-12-26,South,Office Supplies,Printer Paper Box,3.0,1600.0,0.05,1050
+ORD-10610,2025-09-08,West,Technology,Mechanical Keyboard,3.0,4200.0,0.1,2500
+ORD-10029,2025-02-26,South,Technology,Wireless Mouse,4.0,1200.0,0.0,650
+ORD-11013,2025-06-13,South,Technology,Mechanical Keyboard,2.0,4200.0,0.2,2500
+ORD-11015,2025-04-21,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10632,2025-05-08,West,Office Supplies,Notebook Set,4.0,450.0,0.05,190
+ORD-10474,20-Mar-2025,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10554,2025-06-04,South,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10766,19-May-2025,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10239,2025-02-18,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.15,1050
+ORD-10816,17-Nov-2025,South,Technology,"Monitor 24""",1.0,11500.0,0.15,8200
+ORD-10368,26-Jun-2025,South,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-11003,2025-05-27,North,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-10636,2025-10-28,North,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10597,2025-06-11,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-11032,2025-11-15,West,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10650,2025-09-20,West,Office Supplies,Desk Organizer,5.0,850.0,0.15,420
+ORD-10077,03-Mar-2025,South,Office Supplies,Notebook Set,4.0,450.0,0.1,190
+ORD-10595,14-May-2025,North,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-10680,2025-05-03,North,Office Supplies,Printer Paper Box,4.0,1600.0,0.2,1050
+ORD-11090,2025-10-22,West,Office Supplies,Notebook Set,6.0,450.0,0.15,190
+ORD-10193,2025-10-13,East,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10280,2025-11-05,west,Office Supplies,Printer Paper Box,2.0,1600.0,0.15,1050
+ORD-11127,05-Oct-2025,West,Accessories,USB-C Hub,3.0,1800.0,0.1,980
+ORD-10194,2025-05-22,North,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10653,2025-10-13,East,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10669,2025-04-24,South,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10644,2025-02-19,West,Technology,"Monitor 24""",1.0,11500.0,0.15,8200
+ORD-10958,2025-07-08,West,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-10693,2025-09-11,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10893,10-Oct-2025,North,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10447,2025-11-19,East,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10266,2025-11-19,West,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10246,2025-07-15,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10282,2025-03-13,South ,Furniture,Office Chair,1.0,8500.0,0.05,5600
+ORD-10062,2025-05-06,WEST,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-10111,2025-09-11,East,Office Supplies,Printer Paper Box,4.0,1600.0,0.05,1050
+ORD-10365,2025-04-25,East,Technology,Wireless Mouse,5.0,1200.0,0.2,650
+ORD-11091,2025-05-04,South,Technology,Wireless Mouse,4.0,1200.0,0.05,650
+ORD-10584,2025-11-08,North,Office Supplies,Notebook Set,8.0,450.0,0.1,190
+ORD-10758,2025-04-23,North,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-10031,2025-06-28,East,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10129,2025-12-18,West,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-11147,11-Apr-2025,West,Office Supplies,Notebook Set,2.0,450.0,0.05,190
+ORD-10147,2025-11-09, North ,Technology,"Monitor 24""",2.0,11500.0,0.1,8200
+ORD-10125,2025-12-26,East,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10642,03-Aug-2025,North,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10448,2025-10-12,West,Technology,Wireless Mouse,3.0,1200.0,0.2,650
+ORD-10155,07-Nov-2025,West,Technology,Mechanical Keyboard,2.0,4200.0,0.05,2500
+ORD-11137,18-Jul-2025,SOUTH,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10192,28-Sep-2025,West,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10162,2025-10-22,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10761,2025-01-27,East,Accessories,Headphones,1.0,4500.0,0.15,2600
+ORD-10557,2025-04-24,East,Office Supplies,Notebook Set,1.0,450.0,0.05,190
+ORD-10287,2025-06-10,North,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-10299,21-Oct-2025,North,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10067,2025-03-19,North,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10544,2025-09-28,north,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10347,2025-08-07,South,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-10091,26-May-2025,North,Furniture,Bookshelf,1.0,6200.0,0.1,4100
+ORD-10022,2025-01-26,South,Accessories,Webcam,2.0,3200.0,0.15,1900
+ORD-10889,03-Oct-2025,East,Office Supplies,Notebook Set,6.0,450.0,0.2,190
+ORD-10998,26-Oct-2025,North,Office Supplies,Printer Paper Box,1.0,1600.0,0.2,1050
+ORD-10804,2025-02-08,South,Accessories,USB-C Hub,4.0,1800.0,0.1,980
+ORD-10144,2025-07-05,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10050,09-Jan-2025,North,Furniture,Bookshelf,3.0,6200.0,0.2,4100
+ORD-10437,2025-09-24,South,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10070,2025-06-19,East,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10605,22-May-2025,West,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10438,2025-01-27,south,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-10283,2025-06-15,East,Office Supplies,Printer Paper Box,3.0,1600.0,0.05,1050
+ORD-11138,2025-12-08,North,Office Supplies,Printer Paper Box,5.0,1600.0,0.05,1050
+ORD-10304,2025-04-05,West,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10083,2025-02-21,South,Accessories,USB-C Hub,3.0,1800.0,0.2,980
+ORD-10315,05-Jan-2025,South,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10311,28-Mar-2025,South,Technology,Wireless Mouse,5.0,1200.0,0.05,650
+ORD-10045,2025-12-13,West,Office Supplies,Notebook Set,6.0,450.0,0.2,190
+ORD-11111,2025-10-05,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-11050,2025-11-14, East,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10174,2025-09-17,South,Furniture,Office Chair,1.0,8500.0,0.0,5600
+ORD-10622,2025-11-18,West,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10777,2025-11-08,South ,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10968,13-Oct-2025,North,Accessories,USB-C Hub,3.0,1800.0,0.15,980
+ORD-10429,2025-01-26,South,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-10957,2025-12-02,WEST,Technology,"Monitor 24""",1.0,11500.0,0.1,8200
+ORD-11102,2025-07-08,South,Furniture,Office Chair,2.0,8500.0,0.15,5600
+ORD-11115,2025-05-01,South,Technology,Mechanical Keyboard,3.0,4200.0,0.15,2500
+ORD-10109,03-May-2025,East,Office Supplies,Desk Organizer,3.0,850.0,0.1,420
+ORD-10143,11-Sep-2025,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10260,09-Dec-2025,East,Technology,Wireless Mouse,4.0,1200.0,0.05,650
+ORD-10578,2025-09-25,South,Office Supplies,Desk Organizer,2.0,850.0,0.15,420
+ORD-10086,25-Oct-2025,North,Furniture,Office Chair,1.0,8500.0,0.05,5600
+ORD-10254,2025-12-10,South,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10021,2025-03-25,West,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-11125,03-Sep-2025,South,Furniture,Bookshelf,1.0,6200.0,0.1,4100
+ORD-10075,2025-01-19,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-10575,2025-11-02,East,Accessories,Webcam,2.0,,0.1,1900
+ORD-10574,2025-11-27,East,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10718,2025-03-01,north,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-11033,2025-01-15,West,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10490,2025-08-06,North,Office Supplies,Printer Paper Box,3.0,1600.0,0.1,1050
+ORD-11151,28-Nov-2025,West,Office Supplies,Printer Paper Box,3.0,1600.0,0.2,1050
+ORD-10087,2025-08-15,East,Technology,Wireless Mouse,5.0,1200.0,0.15,650
+ORD-10373,19-Apr-2025,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10201,18-Feb-2025,North,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10268,19-Nov-2025,West,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10997,2025-09-04,South,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10419,2025-12-06,North,Technology,"Monitor 24""",1.0,11500.0,0.1,8200
+ORD-10746,2025-04-23,WEST,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10734,2025-12-19,East,Office Supplies,Notebook Set,6.0,450.0,0.05,190
+ORD-11150,2025-02-08,South,Technology,Mechanical Keyboard,3.0,4200.0,0.15,2500
+ORD-11075,2025-08-22,West,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10394,02-Sep-2025,East,Office Supplies,Notebook Set,7.0,450.0,0.1,190
+ORD-11092,10-Jan-2025,South,Technology,Mechanical Keyboard,1.0,4200.0,0.1,2500
+ORD-10017,2025-02-07,East,Accessories,Headphones,3.0,4500.0,0.05,2600
+ORD-10167,2025-01-18,South,Furniture,Bookshelf,2.0,6200.0,0.2,4100
+ORD-10911,2025-04-06,north,Furniture,Bookshelf,1.0,6200.0,0.0,4100
+ORD-10117,2025-09-26,South,Office Supplies,Notebook Set,3.0,450.0,0.0,190
+ORD-10972,2025-11-16,SOUTH,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10305,04-Aug-2025,North,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10607,2025-03-11,North,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-11181,2025-01-13,South,Office Supplies,Notebook Set,4.0,450.0,0.1,190
+ORD-10649,2025-03-27,East,Furniture,Bookshelf,1.0,6200.0,0.1,4100
+ORD-10389,07-Apr-2025,North,Office Supplies,Desk Organizer,3.0,850.0,0.2,420
+ORD-10073,2025-05-13,South,Furniture,Office Chair,1.0,8500.0,0.05,5600
+ORD-11046,2025-11-07,North,Accessories,Headphones,3.0,4500.0,0.1,2600
+ORD-10909,2025-05-28,North,Accessories,USB-C Hub,,1800.0,0.0,980
+ORD-10914,2025-01-24,South,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10403,2025-07-25,South,Office Supplies,Desk Organizer,2.0,850.0,0.05,420
+ORD-10934,2025-01-15,EAST,Technology,Wireless Mouse,1.0,1200.0,0.1,650
+ORD-10562,2025-11-08,North,Accessories,USB-C Hub,2.0,1800.0,0.2,980
+ORD-10731,19-Jun-2025,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.1,1050
+ORD-10676,09-Nov-2025,North,Office Supplies,Printer Paper Box,4.0,1600.0,0.1,1050
+ORD-10765,25-Nov-2025,North,Office Supplies,Notebook Set,3.0,450.0,0.0,190
+ORD-10185,2025-04-27,North,Furniture,Standing Desk,1.0,19500.0,0.05,13800
+ORD-10551,2025-01-26,North,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10858,2025-01-28,NORTH,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10955,24-May-2025,WEST,Technology,Wireless Mouse,1.0,1200.0,0.2,650
+ORD-10737,2025-12-25,West,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10175,2025-06-14,East,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-11078,2025-02-19,South,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10146,2025-01-14,North,Furniture,Office Chair,1.0,8500.0,0.2,5600
+ORD-10420,2025-09-17,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-11039,25-Apr-2025,East,Office Supplies,Notebook Set,8.0,450.0,0.1,190
+ORD-10807,2025-08-02,West,Technology,Mechanical Keyboard,2.0,,0.0,2500
+ORD-10944,05-Jan-2025,North,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-11174,2025-10-25,South,Technology,"Monitor 24""",2.0,11500.0,0.15,8200
+ORD-10588,22-Sep-2025,West,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10517,2025-04-23,South,Furniture,Bookshelf,1.0,6200.0,0.15,4100
+ORD-10924,2025-03-09,South,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10231,2025-02-10,south,Office Supplies,Printer Paper Box,5.0,1600.0,0.05,1050
+ORD-10219,2025-02-23,East,Accessories,USB-C Hub,4.0,1800.0,0.05,980
+ORD-11047,2025-04-14,West,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10576,2025-10-18,west,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10570,2025-07-16,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.2,1050
+ORD-10190,19-Nov-2025,South,Technology,Mechanical Keyboard,2.0,4200.0,0.2,2500
+ORD-10881,12-Jul-2025,West,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10066,18-Jun-2025,North,Technology,Wireless Mouse,1.0,1200.0,0.1,650
+ORD-10748,16-Sep-2025,west,Office Supplies,Desk Organizer,3.0,850.0,0.1,420
+ORD-10508,2025-10-20,East,Accessories,Headphones,3.0,4500.0,0.05,2600
+ORD-10884,2025-10-12,WEST,Office Supplies,Notebook Set,7.0,,0.0,190
+ORD-10256,05-Sep-2025,East,Office Supplies,Notebook Set,4.0,450.0,0.15,190
+ORD-10661,2025-04-12,East,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10583,15-Mar-2025,West,Accessories,USB-C Hub,4.0,1800.0,0.15,980
+ORD-10176,2025-08-21,South,Accessories,Webcam,3.0,3200.0,0.2,1900
+ORD-10552,2025-12-28,West,Accessories,Headphones,3.0,4500.0,0.15,2600
+ORD-10215,2025-06-06,West,Furniture,Bookshelf,2.0,6200.0,0.2,4100
+ORD-10335,2025-03-06,North,Technology,Mechanical Keyboard,1.0,4200.0,0.15,2500
+ORD-10178,2025-02-23,East,Office Supplies,Printer Paper Box,2.0,1600.0,0.05,1050
+ORD-10082,20-Sep-2025,North,Office Supplies,Notebook Set,4.0,450.0,0.1,190
+ORD-10290,2025-08-05,South,Technology,Mechanical Keyboard,2.0,4200.0,0.2,2500
+ORD-10967,2025-08-07,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10374,2025-06-16,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10728,2025-01-02,South,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10527,2025-12-22,West,Accessories,USB-C Hub,4.0,1800.0,0.15,980
+ORD-10253,2025-10-04,North,Technology,Wireless Mouse,1.0,1200.0,0.2,650
+ORD-10587,2025-09-03,South,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-11057,2025-03-20,East,Accessories,Webcam,3.0,3200.0,0.05,1900
+ORD-11143,2025-03-02,North,Technology,Mechanical Keyboard,1.0,4200.0,0.2,2500
+ORD-11093,17-Sep-2025,North,Accessories,Headphones,2.0,4500.0,0.2,2600
+ORD-10961,2025-10-05,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10485,28-Aug-2025,North,Office Supplies,Notebook Set,6.0,450.0,0.15,190
+ORD-10236,2025-01-17,SOUTH,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10411,2025-11-16,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10172,2025-03-12,South,Office Supplies,Notebook Set,5.0,450.0,0.1,190
+ORD-10842,2025-09-14,North,Accessories,USB-C Hub,4.0,1800.0,0.2,980
+ORD-10821,2025-08-19,East,Accessories,USB-C Hub,1.0,1800.0,0.15,980
+ORD-10020,21-Oct-2025,West,Office Supplies,Notebook Set,4.0,450.0,0.1,190
+ORD-10237,10-Jan-2025,West,Accessories,Webcam,3.0,3200.0,0.2,1900
+ORD-10501,2025-03-09,North,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10203,10-May-2025,East,Accessories,Webcam,3.0,3200.0,0.05,1900
+ORD-10705,2025-09-18,South,Accessories,Webcam,,3200.0,0.1,1900
+ORD-10837,13-Nov-2025,East,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10826,2025-01-06,South,Technology,Mechanical Keyboard,2.0,4200.0,0.2,2500
+ORD-10465,2025-09-25,North,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10923,2025-12-11,west,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10618,2025-09-27,East,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-11156,2025-08-11,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10668,2025-12-03,West,Office Supplies,Printer Paper Box,3.0,1600.0,0.05,1050
+ORD-10442,2025-01-12,South ,Furniture,Bookshelf,3.0,6200.0,0.15,4100
+ORD-10539,2025-06-10,East,Office Supplies,Desk Organizer,3.0,850.0,0.05,420
+ORD-11123,2025-11-19,South,Office Supplies,Notebook Set,8.0,450.0,0.1,190
+ORD-10787,21-Oct-2025,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10788,2025-04-14,North,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10872,2025-11-19,South,Furniture,Office Chair,1.0,8500.0,0.15,5600
+ORD-10699,2025-07-11,West,Technology,Wireless Mouse,5.0,1200.0,0.15,650
+ORD-11175,2025-09-02,West,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-10626,2025-11-05,South,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10345,2025-11-10,South,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10971,2025-01-28,West,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-10055,2025-04-24,South,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10502,2025-11-04,West,Office Supplies,Desk Organizer,4.0,850.0,0.1,420
+ORD-10338,2025-06-11,South,Accessories,Headphones,1.0,4500.0,0.1,2600
+ORD-10870,2025-06-14, North ,Office Supplies,Notebook Set,8.0,450.0,0.1,190
+ORD-10245,28-Dec-2025,South,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10378,2025-03-20,South,Accessories,USB-C Hub,2.0,1800.0,0.1,980
+ORD-10867,2025-08-28,South,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10916,17-Dec-2025,West,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10036,17-Nov-2025,North,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-11060,2025-02-25,east,Accessories,Webcam,2.0,3200.0,0.2,1900
+ORD-10536,16-May-2025,North,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10491,2025-05-06,South,Accessories,USB-C Hub,4.0,1800.0,0.2,980
+ORD-10696,2025-04-02,West,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10464,2025-05-13,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.2,1050
+ORD-10412,2025-05-01,West,Office Supplies,Notebook Set,,450.0,0.0,190
+ORD-10519,2025-05-17,West,Office Supplies,Desk Organizer,2.0,850.0,0.1,420
+ORD-10294,2025-02-09,North,Furniture,Bookshelf,1.0,6200.0,0.1,4100
+ORD-10784,2025-10-03,SOUTH,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10774,20-Nov-2025,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10061,16-Nov-2025,West,Accessories,Webcam,1.0,3200.0,0.15,1900
+ORD-10085,2025-01-27,North,Office Supplies,Printer Paper Box,3.0,1600.0,0.0,1050
+ORD-10507,2025-12-20,South,Furniture,Office Chair,2.0,8500.0,0.0,5600
+ORD-11018,13-Sep-2025,West,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10284,27-Jun-2025,East,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10916,17-Dec-2025,West,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-10991,2025-03-21,East,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10723,2025-11-18,West,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10457,2025-09-28,East,Office Supplies,Notebook Set,6.0,450.0,0.1,190
+ORD-10818,08-Dec-2025,East,Technology,Wireless Mouse,5.0,1200.0,0.15,650
+ORD-11158,2025-12-21,South,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-11197,2025-07-07,North,Technology,Wireless Mouse,5.0,1200.0,0.05,650
+ORD-11112,2025-02-28,West,Technology,Wireless Mouse,5.0,1200.0,0.05,650
+ORD-11063,2025-12-05,North,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-11104,2025-05-13,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10685,26-Mar-2025,North,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10101,2025-09-07,South,Furniture,Standing Desk,2.0,19500.0,0.1,13800
+ORD-10454,2025-11-10,North,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-10865,2025-11-06,North,Office Supplies,Printer Paper Box,3.0,1600.0,0.0,1050
+ORD-10322,11-Apr-2025,SOUTH,Technology,Mechanical Keyboard,3.0,4200.0,0.05,2500
+ORD-10432,2025-08-25,SOUTH,Office Supplies,Notebook Set,1.0,450.0,0.1,190
+ORD-10334,2025-04-23,South,Technology,Wireless Mouse,3.0,1200.0,0.1,650
+ORD-10915,2025-11-13,West,Technology,Mechanical Keyboard,3.0,4200.0,0.1,2500
+ORD-10468,2025-03-25,West,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-10340,2025-12-25,East,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10051,2025-01-05,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.2,1050
+ORD-10210,2025-10-09,South,Office Supplies,Desk Organizer,5.0,850.0,0.2,420
+ORD-11126,2025-02-11,East,Accessories,Webcam,3.0,3200.0,0.05,1900
+ORD-11172,2025-02-18,South,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10251,2025-10-02,East,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10707,2025-05-16,East,Furniture,Office Chair,2.0,8500.0,0.15,5600
+ORD-10874,2025-01-01,West,Technology,Mechanical Keyboard,3.0,4200.0,0.15,2500
+ORD-10168,2025-01-24,West,Furniture,Office Chair,2.0,8500.0,0.1,5600
+ORD-10933,27-Dec-2025,South,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10004,2025-01-02,North,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10843,2025-03-22,South ,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10942,2025-09-22,East,Accessories,USB-C Hub,2.0,1800.0,0.05,980
+ORD-10393,2025-03-06,West,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10134,11-Oct-2025,North,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10704,2025-11-25,West,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10638,2025-07-01,North,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10639,28-Apr-2025,East,Accessories,Headphones,2.0,4500.0,0.1,2600
+ORD-10710,23-Jul-2025,East,Accessories,Headphones,2.0,4500.0,0.0,2600
+ORD-10609,2025-02-23,South,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-11038,2025-12-27,South,Accessories,Webcam,1.0,3200.0,0.2,1900
+ORD-11011,15-Dec-2025,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.05,1050
+ORD-11026,2025-07-18,East,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10371,28-Jul-2025,south,Technology,Mechanical Keyboard,1.0,4200.0,0.15,2500
+ORD-10941,2025-10-25,East,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-11195,17-Oct-2025,West,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10006,2025-01-23,North,Accessories,Headphones,3.0,4500.0,0.15,2600
+ORD-10199,02-Nov-2025,East,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10681,2025-12-10, East,Technology,Wireless Mouse,2.0,1200.0,0.05,650
+ORD-10414,2025-06-10,North,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10665,06-Sep-2025,South,Office Supplies,Notebook Set,3.0,450.0,0.05,190
+ORD-10769,2025-03-03,West,Office Supplies,Desk Organizer,1.0,850.0,0.0,420
+ORD-10663,2025-12-14,West ,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10048,01-Nov-2025,north,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-10392,2025-04-25,North,Technology,"Monitor 24""",1.0,11500.0,0.15,8200
+ORD-10035,04-Feb-2025,West,Accessories,Headphones,3.0,4500.0,0.05,2600
+ORD-10573,10-May-2025,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10565,2025-06-22,South,Technology,Mechanical Keyboard,3.0,4200.0,0.0,2500
+ORD-10700,2025-09-08,North,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-11159,2025-05-05,East,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10694,2025-11-12,South,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-10263,19-Nov-2025,East,Office Supplies,Notebook Set,5.0,450.0,0.15,190
+ORD-10965,2025-09-15,North,Furniture,Standing Desk,1.0,19500.0,0.2,13800
+ORD-10672,14-Nov-2025,South,Office Supplies,Desk Organizer,5.0,850.0,0.0,420
+ORD-10068,2025-12-17, North ,Technology,Mechanical Keyboard,1.0,4200.0,0.0,2500
+ORD-11132,2025-12-06,West,Office Supplies,Notebook Set,2.0,450.0,0.05,190
+ORD-10140,12-Oct-2025,West,Accessories,USB-C Hub,3.0,1800.0,0.15,980
+ORD-10030,2025-01-20,West,Technology,Mechanical Keyboard,2.0,4200.0,0.05,2500
+ORD-10426,2025-02-06,East,Office Supplies,Desk Organizer,4.0,850.0,0.2,420
+ORD-10039,2025-11-27,North,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10424,2025-02-21,North,Accessories,Headphones,1.0,4500.0,0.1,2600
+ORD-10390,2025-10-05,South,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10640,28-Mar-2025, North ,Office Supplies,Notebook Set,2.0,450.0,0.0,190
+ORD-11133,2025-09-05,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-11160,02-Jul-2025,North,Office Supplies,Notebook Set,3.0,450.0,0.0,190
+ORD-10063,09-Apr-2025,South,Office Supplies,Notebook Set,8.0,450.0,0.05,190
+ORD-11004,2025-07-03,West,Accessories,USB-C Hub,1.0,1800.0,0.0,980
+ORD-10100,28-Dec-2025, North ,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10547,2025-09-18,West ,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10789,2025-01-03,South,Office Supplies,Printer Paper Box,4.0,1600.0,0.0,1050
+ORD-11131,2025-11-12,East,Office Supplies,Printer Paper Box,3.0,1600.0,0.2,1050
+ORD-11049,2025-09-01,East,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10992,2025-07-14,North,Office Supplies,Notebook Set,8.0,450.0,0.15,190
+ORD-10286,2025-08-08,West,Accessories,USB-C Hub,1.0,1800.0,0.2,980
+ORD-11168,2025-02-03,South,Technology,"Monitor 24""",1.0,11500.0,0.15,8200
+ORD-11176,2025-09-16,East,Accessories,Webcam,2.0,3200.0,0.1,1900
+ORD-10913,27-Sep-2025,South,Office Supplies,Notebook Set,3.0,450.0,0.05,190
+ORD-10171,2025-07-16,South,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10599,2025-12-16,South,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10780,2025-11-06,North,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10065,2025-01-10,East,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-10982,2025-11-17,North,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-11019,2025-02-27,West,Technology,Wireless Mouse,2.0,1200.0,0.2,650
+ORD-10259,19-Jun-2025,South,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10348,04-Feb-2025,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.2,1050
+ORD-10321,13-Jan-2025,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-11002,2025-12-01,West,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10381,2025-03-04,South,Technology,Mechanical Keyboard,3.0,4200.0,0.15,2500
+ORD-10560,2025-04-17,East,Furniture,Bookshelf,3.0,6200.0,0.05,4100
+ORD-10195,19-Oct-2025,West,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10480,2025-03-18,South,Office Supplies,Desk Organizer,3.0,850.0,0.05,420
+ORD-10951,09-Aug-2025,South,Furniture,Office Chair,2.0,8500.0,0.05,5600
+ORD-11184,2025-03-20,West,Office Supplies,Printer Paper Box,3.0,1600.0,0.15,1050
+ORD-10273,2025-09-21,West ,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10981,2025-02-12,North,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10983,02-Sep-2025,South,Office Supplies,Printer Paper Box,3.0,1600.0,0.05,1050
+ORD-10476,2025-09-20,West,Office Supplies,Printer Paper Box,6.0,1600.0,0.1,1050
+ORD-10538,16-Dec-2025,West,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-10450,2025-01-21,West,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10829,26-Aug-2025,West,Technology,Mechanical Keyboard,3.0,4200.0,0.05,2500
+ORD-10761,2025-01-27,East,Accessories,Headphones,1.0,4500.0,0.15,2600
+ORD-10678,2025-07-18,West,Accessories,Webcam,1.0,3200.0,0.2,1900
+ORD-10686,08-Dec-2025,East,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10090,2025-12-02,West,Furniture,Bookshelf,2.0,6200.0,0.1,4100
+ORD-10815,2025-02-22,North,Office Supplies,Notebook Set,7.0,450.0,0.05,190
+ORD-10105,20-Jan-2025,West,Technology,Wireless Mouse,4.0,1200.0,0.1,650
+ORD-10657,2025-08-11,NORTH,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10247,2025-05-21,South,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10098,2025-05-02,North,Technology,"Monitor 24""",2.0,11500.0,0.0,8200
+ORD-11043,2025-08-23,South,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10612,2025-07-12,South,Accessories,Headphones,3.0,4500.0,0.2,2600
+ORD-10897,2025-08-01,East,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-10698,24-May-2025,East,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10771,2025-10-11,SOUTH,Furniture,Bookshelf,1.0,6200.0,0.0,4100
+ORD-10750,2025-06-22,North,Accessories,Webcam,1.0,3200.0,0.0,1900
+ORD-10548,15-Apr-2025,West,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-11177,2025-09-24,South,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10145,2025-05-19,North,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-11070,26-Mar-2025,West,Accessories,Webcam,3.0,3200.0,0.1,1900
+ORD-10600,23-Oct-2025,West,Furniture,Bookshelf,1.0,6200.0,0.2,4100
+ORD-10792,2025-09-05,South,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10353,2025-01-23,South,Accessories,Headphones,3.0,4500.0,0.15,2600
+ORD-10121,16-Dec-2025,South,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-11082,2025-06-19,West,Accessories,USB-C Hub,3.0,1800.0,0.0,980
+ORD-10939,2025-09-27,South,Office Supplies,Notebook Set,5.0,450.0,0.0,190
+ORD-10553,2025-12-17,South,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10452,2025-03-18,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.05,1050
+ORD-10035,04-Feb-2025,West,Accessories,Headphones,3.0,4500.0,0.05,2600
+ORD-10492,2025-02-10,North,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10456,23-Sep-2025,West,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10328,2025-07-20,NORTH,Furniture,Bookshelf,2.0,6200.0,0.1,4100
+ORD-10864,20-Aug-2025,South,Accessories,Headphones,1.0,4500.0,0.0,2600
+ORD-10791,2025-04-22,North,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10475,2025-12-06,North,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-10486,2025-10-12,South,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10985,05-May-2025,South,Furniture,Office Chair,2.0,8500.0,0.2,5600
+ORD-10550,2025-11-23,West,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10732,2025-02-20,North,Office Supplies,Printer Paper Box,6.0,1600.0,0.15,1050
+ORD-10808,2025-05-28,South,Office Supplies,Desk Organizer,3.0,850.0,0.05,420
+ORD-10689,2025-07-08,South,Office Supplies,Notebook Set,4.0,450.0,0.2,190
+ORD-10152,2025-08-21,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10943,2025-03-17,South,Office Supplies,Notebook Set,1.0,450.0,0.0,190
+ORD-10751,2025-08-26,North,Office Supplies,Notebook Set,8.0,450.0,0.0,190
+ORD-11022,28-Aug-2025,West,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10979,11-Sep-2025,East,Office Supplies,Notebook Set,4.0,450.0,0.0,190
+ORD-11101,2025-12-26,East,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-11198,2025-12-26,east,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10150,2025-09-16,West,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10633,09-Jan-2025,South,Furniture,Standing Desk,2.0,19500.0,0.0,13800
+ORD-10040,2025-06-19,West,Furniture,Bookshelf,1.0,6200.0,0.0,4100
+ORD-11170,2025-03-17,East,Office Supplies,Notebook Set,7.0,450.0,0.0,190
+ORD-10217,16-Sep-2025,South,Furniture,Bookshelf,2.0,6200.0,0.15,4100
+ORD-10947,2025-11-15,East,Technology,Wireless Mouse,3.0,1200.0,0.15,650
+ORD-10470,2025-02-17,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.05,1050
+ORD-10173,2025-06-20,East,Office Supplies,Printer Paper Box,6.0,1600.0,0.05,1050
+ORD-10877,04-Jan-2025,South,Technology,Wireless Mouse,4.0,1200.0,0.0,650
+ORD-10214,2025-07-22,WEST,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10568,05-Oct-2025,West,Furniture,Standing Desk,1.0,19500.0,0.1,13800
+ORD-10285,2025-12-16,west,Technology,"Monitor 24""",1.0,11500.0,0.1,8200
+ORD-10803,28-Feb-2025,North,Office Supplies,Notebook Set,1.0,450.0,0.15,190
+ORD-11200,2025-09-03,South,Office Supplies,Printer Paper Box,3.0,1600.0,0.15,1050
+ORD-10467,2025-12-17,West,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10405,2025-07-08,West,Furniture,Bookshelf,2.0,6200.0,0.1,4100
+ORD-10207,2025-12-27,North,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-11085,2025-10-18,South,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10234,2025-05-17,West,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10037,2025-01-25,East,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10674,13-Jun-2025,West,Technology,"Monitor 24""",2.0,11500.0,0.05,8200
+ORD-11028,2025-11-28,West,Office Supplies,Desk Organizer,2.0,850.0,0.0,420
+ORD-11020,2025-04-04,North,Technology,Wireless Mouse,4.0,1200.0,0.2,650
+ORD-10655,2025-05-10,NORTH,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-11010,2025-01-22,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-10581,2025-11-18,West,Furniture,Bookshelf,2.0,6200.0,0.0,4100
+ORD-10747,13-Apr-2025,West,Furniture,Standing Desk,1.0,19500.0,0.15,13800
+ORD-10150,2025-09-16,West,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10323,2025-03-05,North,Accessories,Webcam,3.0,3200.0,0.2,1900
+ORD-10078,2025-12-15,East,Technology,Wireless Mouse,5.0,1200.0,0.05,650
+ORD-10553,2025-12-17,South,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10555,2025-10-08,South,Technology,Wireless Mouse,1.0,1200.0,0.05,650
+ORD-10102,03-Mar-2025, East,Accessories,Webcam,2.0,3200.0,0.1,1900
+ORD-11189,2025-05-15,North,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-11149,2025-04-12,South,Furniture,Office Chair,1.0,8500.0,0.05,5600
+ORD-10010,2025-07-04,East,Technology,Mechanical Keyboard,2.0,4200.0,0.1,2500
+ORD-11154,2025-02-06,East,Office Supplies,Printer Paper Box,2.0,1600.0,0.1,1050
+ORD-11095,2025-11-04,East,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10252,2025-05-10,South,Accessories,USB-C Hub,2.0,1800.0,0.0,980
+ORD-10918,2025-11-05,West,Office Supplies,Printer Paper Box,2.0,1600.0,0.0,1050
+ORD-10126,2025-05-28,North,Technology,"Monitor 24""",1.0,11500.0,0.2,8200
+ORD-10198,2025-05-19,East,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10930,2025-11-28,South,Office Supplies,Desk Organizer,3.0,850.0,0.0,420
+ORD-10069,2025-08-03,NORTH,Office Supplies,Desk Organizer,2.0,850.0,0.15,420
+ORD-10953,2025-10-25,West,Technology,Wireless Mouse,2.0,1200.0,0.0,650
+ORD-10076,17-Dec-2025,West,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10904,2025-10-23,East,Technology,Wireless Mouse,1.0,1200.0,0.0,650
+ORD-10043,2025-05-20,West,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10945,2025-10-20,South,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10537,2025-01-18,East,Furniture,Office Chair,1.0,8500.0,0.15,5600
+ORD-11148,2025-01-09,East,Furniture,Office Chair,1.0,,0.15,5600
+ORD-10919,2025-03-19,West,Technology,Mechanical Keyboard,1.0,4200.0,0.05,2500
+ORD-11107,2025-01-17,West,Accessories,Headphones,1.0,4500.0,0.05,2600
+ORD-10130,2025-08-16,West,Furniture,Bookshelf,2.0,6200.0,0.05,4100
+ORD-10908,2025-02-08,north,Accessories,Headphones,2.0,4500.0,0.05,2600
+ORD-10779,2025-09-28,South,Office Supplies,Notebook Set,7.0,450.0,0.1,190
+ORD-11088,2025-04-12,West,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10235,2025-04-09,West,Accessories,Headphones,2.0,4500.0,0.1,2600
+ORD-10327,2025-09-28,West,Office Supplies,Desk Organizer,4.0,850.0,0.0,420
+ORD-10966,2025-09-21,South,Office Supplies,Printer Paper Box,5.0,1600.0,0.0,1050
+ORD-11144,2025-12-09,North,Technology,Mechanical Keyboard,2.0,4200.0,0.0,2500
+ORD-10058,2025-09-03,North,Accessories,Webcam,2.0,3200.0,0.0,1900
+ORD-10556,15-Nov-2025,south,Technology,Wireless Mouse,3.0,1200.0,0.1,650
+ORD-10148,2025-03-11,South,Office Supplies,Notebook Set,6.0,450.0,0.15,190
+ORD-10320,2025-05-08,West,Technology,"Monitor 24""",2.0,11500.0,0.1,8200
+ORD-10128,2025-03-15,West,Office Supplies,Printer Paper Box,5.0,1600.0,0.15,1050
+ORD-11087,2025-03-07,North,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10645,10-Jan-2025,East,Furniture,Standing Desk,1.0,19500.0,0.0,13800
+ORD-10940,2025-05-13,West,Office Supplies,Printer Paper Box,1.0,1600.0,0.0,1050
+ORD-10343,2025-12-17,South,Office Supplies,Printer Paper Box,1.0,1600.0,0.1,1050
+ORD-10528,25-Dec-2025,North,Technology,"Monitor 24""",1.0,11500.0,0.05,8200
+ORD-10902,2025-06-09,South,Technology,Mechanical Keyboard,2.0,4200.0,0.2,2500
+ORD-11056,2025-03-18, North ,Technology,Wireless Mouse,3.0,1200.0,0.0,650
+ORD-10988,2025-05-19,North,Accessories,Headphones,3.0,4500.0,0.0,2600
+ORD-10205,26-Dec-2025,South,Furniture,Bookshelf,3.0,6200.0,0.0,4100
+ORD-10131,2025-09-27,West,Accessories,Headphones,3.0,4500.0,0.05,2600
+ORD-10325,2025-11-24,East,Office Supplies,Notebook Set,6.0,450.0,0.0,190
+ORD-10623,2025-11-18,South,Office Supplies,Printer Paper Box,6.0,1600.0,0.0,1050
+ORD-11186,2025-09-18,West,Accessories,USB-C Hub,4.0,1800.0,0.05,980
+ORD-10496,2025-11-28,North,Office Supplies,Desk Organizer,1.0,850.0,0.15,420
+ORD-10027,2025-12-05,North,Accessories,Webcam,3.0,3200.0,0.2,1900
+ORD-11100,2025-08-02,North,Technology,"Monitor 24""",1.0,11500.0,0.0,8200
+ORD-10514,2025-11-06,West,Accessories,USB-C Hub,4.0,1800.0,0.0,980
+ORD-10319,2025-08-21,South,Technology,Wireless Mouse,5.0,1200.0,0.0,650
+ORD-10849,2025-01-26,South,Furniture,Bookshelf,3.0,6200.0,0.1,4100
+ORD-10336,24-Mar-2025,North,Accessories,Webcam,3.0,3200.0,0.0,1900
+ORD-10619,2025-11-22,West ,Office Supplies,Notebook Set,6.0,450.0,0.05,190
+ORD-10228,2025-02-10,North,Office Supplies,Notebook Set,1.0,450.0,0.15,190
+ORD-10714,2025-01-14,East,Accessories,Headphones,1.0,4500.0,0.2,2600
+ORD-10907,2025-04-27,East,Furniture,Office Chair,2.0,8500.0,0.2,5600
