@@ -1,0 +1,3001 @@
+customer_id,signup_date,segment,region,channel
+C10000,2025-01-20,Consumer,West,Organic
+C10001,2024-01-13,Consumer,North,Organic
+C10002,2025-08-15,Corporate,East,Email
+C10003,2024-03-21,Corporate,East,Email
+C10004,2025-11-29,Corporate,West,Email
+C10005,2024-07-09,Consumer,North,Paid Search
+C10006,2024-09-22,Consumer,West,Referral
+C10007,2024-04-21,Small Business,South,Organic
+C10008,2025-07-31,Corporate,South,Paid Search
+C10009,2025-05-27,Corporate,South,Social
+C10010,2024-02-24,Consumer,South,Email
+C10011,2024-03-14,Consumer,South,Paid Search
+C10012,2025-03-02,Small Business,North,Paid Search
+C10013,2025-08-29,Corporate,South,Organic
+C10014,2024-03-17,Consumer,East,Paid Search
+C10015,2024-06-03,Small Business,South,Organic
+C10016,2025-01-16,Consumer,North,Email
+C10017,2024-03-17,Consumer,South,Organic
+C10018,2024-08-01,Consumer,South,Social
+C10019,2024-01-08,Corporate,East,Organic
+C10020,2024-12-15,Consumer,West,Paid Search
+C10021,2025-05-15,Consumer,East,Organic
+C10022,2024-10-15,Corporate,East,Paid Search
+C10023,2024-06-28,Consumer,North,Paid Search
+C10024,2024-10-24,Small Business,West,Social
+C10025,2024-12-22,Consumer,South,Email
+C10026,2024-04-26,Consumer,South,Paid Search
+C10027,2024-03-19,Corporate,South,Social
+C10028,2024-05-07,Corporate,North,Email
+C10029,2025-11-20,Consumer,West,Organic
+C10030,2025-05-21,Corporate,South,Email
+C10031,2024-03-28,Small Business,South,Email
+C10032,2024-07-29,Small Business,North,Referral
+C10033,2024-10-15,Small Business,West,Social
+C10034,2024-05-06,Consumer,West,Social
+C10035,2025-08-19,Consumer,West,Paid Search
+C10036,2025-10-20,Consumer,West,Social
+C10037,2024-06-20,Consumer,West,Email
+C10038,2024-01-12,Small Business,South,Organic
+C10039,2024-07-05,Consumer,North,Referral
+C10040,2025-02-11,Consumer,South,Paid Search
+C10041,2025-07-19,Consumer,South,Organic
+C10042,2024-08-25,Consumer,East,Social
+C10043,2024-07-10,Consumer,North,Referral
+C10044,2024-06-23,Corporate,North,Social
+C10045,2024-01-03,Consumer,East,Referral
+C10046,2024-01-10,Consumer,North,Paid Search
+C10047,2024-10-26,Consumer,North,Email
+C10048,2025-03-08,Small Business,North,Social
+C10049,2024-01-09,Consumer,East,Referral
+C10050,2024-05-20,Consumer,North,Organic
+C10051,2025-09-28,Consumer,North,Paid Search
+C10052,2025-11-24,Consumer,South,Email
+C10053,2025-03-25,Small Business,West,Organic
+C10054,2024-12-31,Corporate,North,Paid Search
+C10055,2025-02-12,Small Business,North,Referral
+C10056,2024-09-16,Small Business,West,Social
+C10057,2024-05-21,Consumer,West,Email
+C10058,2024-09-20,Consumer,North,Social
+C10059,2025-05-04,Consumer,South,Email
+C10060,2025-04-08,Consumer,North,Paid Search
+C10061,2025-04-19,Consumer,East,Social
+C10062,2025-03-02,Consumer,South,Referral
+C10063,2024-02-12,Consumer,West,Social
+C10064,2025-03-14,Consumer,West,Organic
+C10065,2025-09-08,Corporate,East,Paid Search
+C10066,2025-03-30,Corporate,North,Social
+C10067,2025-02-09,Small Business,West,Referral
+C10068,2024-06-05,Consumer,West,Paid Search
+C10069,2025-07-08,Consumer,West,Referral
+C10070,2024-11-12,Small Business,North,Referral
+C10071,2024-07-03,Corporate,East,Organic
+C10072,2024-12-08,Consumer,West,Social
+C10073,2024-03-26,Consumer,West,Social
+C10074,2025-10-10,Consumer,East,Organic
+C10075,2025-05-06,Small Business,South,Paid Search
+C10076,2024-08-16,Corporate,South,Paid Search
+C10077,2025-07-09,Consumer,East,Referral
+C10078,2024-02-07,Consumer,West,Paid Search
+C10079,2024-09-27,Consumer,East,Organic
+C10080,2025-03-31,Consumer,South,Paid Search
+C10081,2024-01-17,Small Business,North,Referral
+C10082,2025-05-11,Consumer,East,Social
+C10083,2025-07-26,Consumer,West,Paid Search
+C10084,2025-02-19,Consumer,North,Email
+C10085,2024-05-24,Small Business,South,Organic
+C10086,2025-06-08,Consumer,West,Paid Search
+C10087,2024-08-25,Consumer,South,Paid Search
+C10088,2025-05-30,Corporate,South,Social
+C10089,2025-03-15,Small Business,South,Referral
+C10090,2024-03-06,Corporate,South,Organic
+C10091,2024-03-10,Small Business,North,Referral
+C10092,2024-01-11,Consumer,East,Social
+C10093,2024-02-20,Small Business,East,Email
+C10094,2024-07-28,Small Business,East,Email
+C10095,2024-01-18,Consumer,East,Referral
+C10096,2025-10-18,Corporate,North,Organic
+C10097,2025-10-03,Consumer,North,Paid Search
+C10098,2024-04-30,Consumer,North,Email
+C10099,2024-08-05,Consumer,North,Social
+C10100,2025-06-03,Consumer,West,Paid Search
+C10101,2025-04-07,Small Business,North,Email
+C10102,2025-02-11,Consumer,East,Email
+C10103,2025-11-23,Consumer,North,Social
+C10104,2025-03-16,Consumer,North,Email
+C10105,2025-04-13,Consumer,North,Organic
+C10106,2024-12-17,Consumer,South,Referral
+C10107,2025-01-02,Consumer,East,Email
+C10108,2024-07-22,Corporate,West,Organic
+C10109,2024-12-30,Small Business,North,Organic
+C10110,2025-10-04,Consumer,East,Referral
+C10111,2024-09-20,Small Business,West,Paid Search
+C10112,2024-04-03,Corporate,South,Organic
+C10113,2025-02-23,Corporate,North,Organic
+C10114,2025-07-03,Consumer,North,Paid Search
+C10115,2025-11-02,Consumer,North,Paid Search
+C10116,2025-01-14,Small Business,West,Email
+C10117,2025-07-05,Consumer,South,Social
+C10118,2024-06-24,Consumer,East,Social
+C10119,2024-10-23,Small Business,West,Organic
+C10120,2024-10-20,Consumer,South,Paid Search
+C10121,2024-08-20,Small Business,East,Paid Search
+C10122,2025-05-16,Consumer,North,Email
+C10123,2025-09-10,Small Business,South,Email
+C10124,2024-08-16,Consumer,North,Paid Search
+C10125,2024-04-05,Consumer,South,Email
+C10126,2025-07-31,Corporate,South,Organic
+C10127,2025-08-17,Consumer,East,Paid Search
+C10128,2025-10-16,Small Business,East,Referral
+C10129,2024-06-27,Corporate,West,Paid Search
+C10130,2025-05-18,Consumer,North,Email
+C10131,2025-05-15,Consumer,West,Organic
+C10132,2025-07-07,Small Business,North,Referral
+C10133,2025-07-18,Corporate,West,Organic
+C10134,2025-10-28,Small Business,West,Organic
+C10135,2024-11-29,Consumer,East,Paid Search
+C10136,2024-02-23,Small Business,South,Email
+C10137,2024-05-14,Consumer,West,Social
+C10138,2025-09-12,Corporate,West,Social
+C10139,2025-08-14,Consumer,North,Organic
+C10140,2024-01-08,Consumer,West,Organic
+C10141,2024-09-14,Small Business,North,Organic
+C10142,2024-06-20,Small Business,South,Referral
+C10143,2024-08-12,Consumer,East,Organic
+C10144,2025-03-23,Small Business,West,Paid Search
+C10145,2024-12-23,Consumer,South,Social
+C10146,2024-12-02,Consumer,South,Social
+C10147,2024-10-31,Consumer,South,Paid Search
+C10148,2025-03-25,Consumer,South,Organic
+C10149,2025-04-23,Consumer,East,Paid Search
+C10150,2024-01-31,Consumer,South,Social
+C10151,2024-04-06,Consumer,West,Organic
+C10152,2024-08-26,Corporate,South,Social
+C10153,2024-10-31,Small Business,North,Organic
+C10154,2025-11-28,Corporate,South,Email
+C10155,2025-09-16,Consumer,North,Email
+C10156,2025-03-30,Small Business,South,Organic
+C10157,2024-01-26,Consumer,South,Paid Search
+C10158,2024-03-11,Small Business,South,Paid Search
+C10159,2024-11-16,Consumer,South,Referral
+C10160,2025-02-14,Consumer,East,Paid Search
+C10161,2025-04-07,Consumer,West,Social
+C10162,2024-04-09,Small Business,East,Organic
+C10163,2025-09-13,Small Business,South,Organic
+C10164,2024-12-11,Corporate,North,Social
+C10165,2025-02-19,Small Business,North,Social
+C10166,2024-01-28,Small Business,East,Referral
+C10167,2025-07-31,Consumer,East,Referral
+C10168,2025-01-15,Corporate,North,Social
+C10169,2024-06-04,Consumer,North,Paid Search
+C10170,2024-08-11,Consumer,South,Email
+C10171,2024-09-03,Consumer,South,Referral
+C10172,2024-01-19,Small Business,West,Email
+C10173,2025-10-21,Corporate,North,Email
+C10174,2025-07-16,Consumer,North,Paid Search
+C10175,2025-09-12,Consumer,South,Social
+C10176,2024-09-04,Consumer,North,Social
+C10177,2025-01-25,Corporate,North,Organic
+C10178,2024-11-16,Small Business,South,Social
+C10179,2024-11-28,Consumer,South,Paid Search
+C10180,2025-02-16,Consumer,North,Paid Search
+C10181,2024-11-11,Consumer,East,Organic
+C10182,2025-06-25,Consumer,South,Social
+C10183,2024-02-11,Consumer,North,Social
+C10184,2024-05-14,Consumer,West,Paid Search
+C10185,2025-09-16,Consumer,South,Organic
+C10186,2025-09-09,Consumer,West,Social
+C10187,2025-07-26,Small Business,West,Organic
+C10188,2024-09-15,Consumer,South,Paid Search
+C10189,2024-11-15,Consumer,South,Paid Search
+C10190,2024-01-18,Corporate,West,Email
+C10191,2024-07-14,Small Business,South,Paid Search
+C10192,2025-05-23,Consumer,North,Social
+C10193,2024-08-28,Consumer,East,Email
+C10194,2024-12-02,Corporate,South,Paid Search
+C10195,2024-03-27,Consumer,West,Email
+C10196,2024-12-13,Corporate,West,Organic
+C10197,2025-05-20,Consumer,West,Paid Search
+C10198,2025-02-04,Consumer,West,Organic
+C10199,2025-01-24,Consumer,East,Social
+C10200,2025-10-02,Corporate,South,Email
+C10201,2024-06-12,Consumer,West,Social
+C10202,2024-07-28,Consumer,West,Social
+C10203,2025-03-12,Consumer,West,Organic
+C10204,2024-12-02,Small Business,West,Email
+C10205,2025-11-16,Consumer,East,Paid Search
+C10206,2024-02-11,Corporate,South,Organic
+C10207,2024-03-26,Corporate,West,Email
+C10208,2024-08-27,Consumer,North,Paid Search
+C10209,2024-11-16,Small Business,South,Paid Search
+C10210,2025-09-15,Small Business,South,Organic
+C10211,2024-12-11,Consumer,East,Organic
+C10212,2024-11-02,Consumer,East,Referral
+C10213,2024-04-26,Consumer,North,Paid Search
+C10214,2024-10-30,Consumer,North,Email
+C10215,2025-01-07,Consumer,South,Organic
+C10216,2025-02-12,Small Business,South,Social
+C10217,2025-02-28,Small Business,North,Social
+C10218,2024-10-27,Consumer,East,Social
+C10219,2024-04-20,Consumer,South,Paid Search
+C10220,2024-04-16,Consumer,South,Social
+C10221,2024-04-18,Consumer,South,Social
+C10222,2025-03-09,Consumer,South,Email
+C10223,2025-08-22,Small Business,West,Paid Search
+C10224,2025-09-10,Small Business,North,Paid Search
+C10225,2024-08-05,Consumer,South,Social
+C10226,2024-02-25,Corporate,East,Paid Search
+C10227,2025-03-17,Consumer,North,Organic
+C10228,2024-01-27,Small Business,West,Email
+C10229,2025-03-14,Consumer,West,Organic
+C10230,2024-09-25,Consumer,East,Organic
+C10231,2025-08-10,Corporate,West,Social
+C10232,2025-03-13,Consumer,South,Organic
+C10233,2025-06-01,Consumer,South,Organic
+C10234,2024-10-11,Consumer,North,Organic
+C10235,2025-08-11,Corporate,North,Organic
+C10236,2025-01-02,Small Business,South,Paid Search
+C10237,2025-03-13,Consumer,South,Referral
+C10238,2024-09-09,Consumer,South,Paid Search
+C10239,2024-11-10,Corporate,North,Paid Search
+C10240,2025-08-11,Consumer,East,Social
+C10241,2024-10-02,Consumer,North,Paid Search
+C10242,2024-01-15,Corporate,South,Paid Search
+C10243,2024-09-22,Consumer,North,Paid Search
+C10244,2024-10-01,Small Business,East,Paid Search
+C10245,2024-10-19,Consumer,South,Paid Search
+C10246,2024-02-19,Corporate,West,Organic
+C10247,2024-03-31,Consumer,North,Email
+C10248,2024-08-14,Consumer,South,Email
+C10249,2024-10-23,Consumer,West,Email
+C10250,2024-01-21,Small Business,North,Organic
+C10251,2024-09-29,Small Business,South,Referral
+C10252,2024-08-12,Small Business,North,Social
+C10253,2024-01-25,Consumer,North,Organic
+C10254,2024-06-24,Consumer,South,Email
+C10255,2024-07-11,Small Business,North,Referral
+C10256,2024-04-10,Corporate,South,Organic
+C10257,2025-06-10,Consumer,West,Email
+C10258,2024-02-20,Small Business,North,Organic
+C10259,2025-02-08,Consumer,North,Paid Search
+C10260,2025-04-10,Consumer,West,Organic
+C10261,2025-07-18,Small Business,South,Organic
+C10262,2025-01-16,Consumer,West,Email
+C10263,2025-01-14,Consumer,South,Social
+C10264,2025-06-16,Consumer,East,Organic
+C10265,2025-08-20,Small Business,West,Referral
+C10266,2024-05-27,Consumer,North,Email
+C10267,2025-07-11,Small Business,West,Email
+C10268,2024-11-19,Consumer,East,Email
+C10269,2024-03-09,Consumer,West,Email
+C10270,2025-03-04,Consumer,North,Social
+C10271,2025-11-14,Consumer,South,Paid Search
+C10272,2024-04-08,Consumer,North,Email
+C10273,2024-01-11,Consumer,West,Organic
+C10274,2025-10-03,Corporate,North,Organic
+C10275,2025-02-21,Consumer,North,Paid Search
+C10276,2024-06-02,Corporate,West,Organic
+C10277,2025-07-08,Small Business,South,Social
+C10278,2024-10-02,Consumer,East,Email
+C10279,2024-08-20,Consumer,South,Paid Search
+C10280,2024-07-21,Consumer,East,Social
+C10281,2025-02-22,Consumer,North,Paid Search
+C10282,2024-04-04,Consumer,South,Social
+C10283,2024-09-10,Consumer,East,Organic
+C10284,2024-08-01,Consumer,South,Organic
+C10285,2024-02-12,Consumer,South,Social
+C10286,2025-06-18,Small Business,North,Paid Search
+C10287,2024-01-06,Consumer,East,Paid Search
+C10288,2025-11-02,Consumer,North,Paid Search
+C10289,2024-03-07,Consumer,South,Organic
+C10290,2024-09-07,Corporate,South,Social
+C10291,2024-03-09,Consumer,South,Paid Search
+C10292,2024-09-13,Consumer,East,Paid Search
+C10293,2025-03-03,Corporate,South,Email
+C10294,2024-03-02,Consumer,West,Social
+C10295,2025-01-03,Consumer,East,Organic
+C10296,2025-06-24,Consumer,West,Social
+C10297,2024-11-14,Small Business,East,Organic
+C10298,2024-03-19,Small Business,North,Organic
+C10299,2025-04-29,Small Business,West,Social
+C10300,2024-05-10,Consumer,West,Organic
+C10301,2024-01-12,Consumer,East,Organic
+C10302,2024-11-01,Consumer,North,Email
+C10303,2024-07-08,Small Business,North,Social
+C10304,2024-01-20,Small Business,East,Email
+C10305,2025-06-28,Small Business,South,Email
+C10306,2025-02-23,Consumer,East,Paid Search
+C10307,2025-09-28,Corporate,South,Social
+C10308,2024-12-02,Small Business,South,Paid Search
+C10309,2024-11-02,Corporate,North,Social
+C10310,2025-08-12,Corporate,North,Paid Search
+C10311,2024-02-27,Consumer,North,Organic
+C10312,2024-09-10,Corporate,West,Organic
+C10313,2025-07-13,Consumer,East,Referral
+C10314,2024-07-23,Consumer,West,Organic
+C10315,2025-09-11,Small Business,West,Social
+C10316,2024-07-17,Small Business,West,Email
+C10317,2024-10-16,Small Business,South,Social
+C10318,2025-09-20,Consumer,West,Paid Search
+C10319,2024-06-19,Consumer,West,Organic
+C10320,2025-11-08,Consumer,West,Email
+C10321,2024-01-31,Small Business,North,Social
+C10322,2024-07-05,Corporate,East,Paid Search
+C10323,2025-02-17,Small Business,North,Email
+C10324,2025-02-19,Consumer,North,Organic
+C10325,2025-09-28,Consumer,East,Paid Search
+C10326,2025-11-02,Small Business,West,Organic
+C10327,2025-04-19,Consumer,North,Organic
+C10328,2025-04-06,Small Business,North,Paid Search
+C10329,2024-08-10,Consumer,West,Social
+C10330,2025-07-17,Consumer,North,Paid Search
+C10331,2025-03-26,Consumer,North,Social
+C10332,2024-01-17,Small Business,West,Referral
+C10333,2025-08-05,Corporate,West,Email
+C10334,2024-09-08,Small Business,South,Organic
+C10335,2024-11-29,Small Business,East,Referral
+C10336,2024-12-06,Consumer,South,Organic
+C10337,2025-07-27,Small Business,South,Social
+C10338,2024-07-06,Small Business,West,Paid Search
+C10339,2024-10-01,Consumer,West,Social
+C10340,2024-01-28,Small Business,South,Organic
+C10341,2024-08-31,Consumer,South,Social
+C10342,2024-03-02,Consumer,South,Organic
+C10343,2025-02-12,Consumer,North,Organic
+C10344,2025-09-17,Small Business,South,Social
+C10345,2024-11-21,Consumer,North,Paid Search
+C10346,2025-09-30,Consumer,West,Social
+C10347,2025-11-14,Corporate,South,Social
+C10348,2024-02-07,Consumer,East,Social
+C10349,2024-12-27,Small Business,East,Social
+C10350,2025-01-04,Small Business,West,Referral
+C10351,2024-09-26,Consumer,West,Email
+C10352,2025-08-04,Consumer,South,Organic
+C10353,2024-10-03,Small Business,North,Social
+C10354,2024-02-08,Consumer,West,Social
+C10355,2025-01-18,Consumer,North,Organic
+C10356,2024-05-21,Small Business,South,Organic
+C10357,2024-09-05,Small Business,North,Organic
+C10358,2024-12-17,Corporate,West,Social
+C10359,2025-05-21,Consumer,North,Paid Search
+C10360,2024-07-13,Small Business,South,Social
+C10361,2024-09-23,Corporate,South,Social
+C10362,2024-02-17,Corporate,East,Social
+C10363,2024-09-25,Small Business,South,Organic
+C10364,2025-02-10,Corporate,West,Referral
+C10365,2025-03-07,Consumer,West,Social
+C10366,2024-07-24,Consumer,South,Organic
+C10367,2024-02-12,Consumer,South,Organic
+C10368,2025-02-08,Consumer,West,Paid Search
+C10369,2025-04-03,Consumer,West,Email
+C10370,2024-02-29,Consumer,South,Paid Search
+C10371,2024-12-19,Small Business,South,Organic
+C10372,2024-03-07,Consumer,North,Organic
+C10373,2024-11-13,Consumer,North,Organic
+C10374,2025-03-24,Consumer,North,Paid Search
+C10375,2025-05-18,Consumer,North,Referral
+C10376,2025-05-14,Small Business,North,Paid Search
+C10377,2025-06-14,Consumer,West,Referral
+C10378,2024-06-17,Consumer,West,Organic
+C10379,2025-08-15,Small Business,West,Paid Search
+C10380,2024-09-01,Consumer,East,Referral
+C10381,2024-09-19,Consumer,East,Social
+C10382,2025-07-05,Small Business,North,Email
+C10383,2024-08-16,Consumer,East,Organic
+C10384,2024-02-22,Small Business,South,Paid Search
+C10385,2025-05-15,Small Business,South,Social
+C10386,2025-04-08,Small Business,West,Organic
+C10387,2025-02-11,Consumer,West,Referral
+C10388,2024-04-10,Small Business,South,Paid Search
+C10389,2025-03-18,Corporate,West,Organic
+C10390,2024-05-18,Consumer,North,Referral
+C10391,2025-01-23,Small Business,North,Social
+C10392,2024-12-21,Consumer,North,Email
+C10393,2025-06-24,Small Business,North,Email
+C10394,2025-11-14,Corporate,East,Organic
+C10395,2024-05-13,Consumer,South,Social
+C10396,2024-03-21,Consumer,North,Email
+C10397,2025-01-23,Small Business,West,Organic
+C10398,2025-10-28,Consumer,East,Paid Search
+C10399,2024-04-20,Consumer,South,Email
+C10400,2024-12-07,Consumer,South,Organic
+C10401,2024-10-12,Small Business,South,Email
+C10402,2024-08-10,Consumer,South,Paid Search
+C10403,2025-04-09,Consumer,East,Email
+C10404,2024-07-25,Corporate,West,Social
+C10405,2024-12-11,Consumer,South,Social
+C10406,2025-08-14,Consumer,South,Referral
+C10407,2024-09-22,Consumer,North,Organic
+C10408,2024-01-15,Small Business,West,Social
+C10409,2025-09-11,Small Business,South,Email
+C10410,2024-07-11,Consumer,South,Email
+C10411,2025-06-24,Consumer,West,Email
+C10412,2025-06-17,Consumer,East,Social
+C10413,2025-01-03,Small Business,North,Social
+C10414,2024-03-02,Consumer,South,Social
+C10415,2025-10-27,Consumer,South,Social
+C10416,2025-04-21,Small Business,West,Social
+C10417,2024-10-24,Consumer,South,Organic
+C10418,2025-08-20,Consumer,South,Organic
+C10419,2025-07-05,Consumer,East,Social
+C10420,2025-06-16,Corporate,South,Paid Search
+C10421,2024-04-27,Consumer,North,Paid Search
+C10422,2025-03-18,Small Business,West,Organic
+C10423,2024-07-19,Consumer,North,Referral
+C10424,2024-02-24,Consumer,West,Email
+C10425,2024-08-24,Small Business,West,Social
+C10426,2024-03-13,Small Business,North,Email
+C10427,2024-03-15,Corporate,West,Email
+C10428,2025-05-23,Corporate,West,Organic
+C10429,2024-12-17,Consumer,East,Organic
+C10430,2024-10-05,Corporate,East,Organic
+C10431,2024-05-14,Consumer,North,Organic
+C10432,2025-06-23,Consumer,North,Social
+C10433,2025-03-19,Small Business,West,Organic
+C10434,2025-02-13,Corporate,North,Email
+C10435,2024-05-13,Consumer,South,Social
+C10436,2024-03-27,Consumer,South,Paid Search
+C10437,2024-03-27,Small Business,North,Email
+C10438,2024-01-18,Consumer,West,Email
+C10439,2025-11-09,Consumer,West,Referral
+C10440,2024-09-14,Consumer,West,Referral
+C10441,2025-04-05,Consumer,North,Email
+C10442,2025-11-18,Consumer,South,Social
+C10443,2025-10-17,Small Business,West,Email
+C10444,2024-08-12,Consumer,South,Organic
+C10445,2024-12-08,Consumer,East,Social
+C10446,2024-11-20,Corporate,East,Paid Search
+C10447,2024-01-24,Consumer,South,Organic
+C10448,2025-06-21,Corporate,South,Organic
+C10449,2025-02-06,Corporate,East,Organic
+C10450,2024-09-17,Corporate,North,Organic
+C10451,2025-01-25,Corporate,West,Organic
+C10452,2025-05-29,Small Business,East,Paid Search
+C10453,2024-01-11,Corporate,North,Referral
+C10454,2025-03-28,Small Business,East,Social
+C10455,2025-08-25,Consumer,South,Social
+C10456,2025-05-23,Corporate,North,Organic
+C10457,2025-03-09,Corporate,West,Referral
+C10458,2024-03-04,Consumer,East,Organic
+C10459,2025-06-05,Small Business,East,Paid Search
+C10460,2025-06-09,Consumer,West,Paid Search
+C10461,2024-12-11,Consumer,East,Email
+C10462,2025-02-11,Small Business,South,Email
+C10463,2025-03-08,Consumer,North,Referral
+C10464,2024-03-25,Consumer,North,Social
+C10465,2024-06-29,Consumer,South,Paid Search
+C10466,2025-07-08,Small Business,South,Social
+C10467,2025-11-12,Consumer,West,Organic
+C10468,2024-07-08,Corporate,South,Organic
+C10469,2024-10-07,Small Business,East,Email
+C10470,2025-10-02,Corporate,West,Email
+C10471,2024-04-23,Small Business,West,Paid Search
+C10472,2024-07-01,Small Business,South,Organic
+C10473,2024-02-09,Consumer,West,Organic
+C10474,2024-06-13,Small Business,West,Paid Search
+C10475,2025-03-21,Consumer,North,Organic
+C10476,2024-08-31,Consumer,South,Social
+C10477,2025-11-19,Consumer,North,Organic
+C10478,2025-09-16,Corporate,East,Organic
+C10479,2025-09-19,Consumer,East,Organic
+C10480,2025-05-23,Consumer,South,Referral
+C10481,2025-05-06,Consumer,West,Paid Search
+C10482,2024-12-22,Consumer,South,Paid Search
+C10483,2025-11-24,Consumer,South,Social
+C10484,2024-03-07,Small Business,West,Referral
+C10485,2025-05-20,Consumer,West,Paid Search
+C10486,2024-04-08,Consumer,West,Social
+C10487,2024-08-25,Consumer,North,Organic
+C10488,2024-06-27,Consumer,North,Social
+C10489,2025-02-24,Corporate,North,Paid Search
+C10490,2025-07-05,Consumer,South,Email
+C10491,2024-02-25,Consumer,South,Email
+C10492,2025-02-25,Small Business,West,Referral
+C10493,2024-06-04,Consumer,East,Email
+C10494,2024-02-23,Consumer,South,Organic
+C10495,2024-10-19,Small Business,South,Social
+C10496,2025-02-10,Corporate,South,Organic
+C10497,2024-05-21,Corporate,South,Organic
+C10498,2024-09-29,Consumer,East,Paid Search
+C10499,2025-10-29,Consumer,North,Social
+C10500,2024-08-30,Consumer,West,Social
+C10501,2025-11-27,Consumer,North,Email
+C10502,2025-08-06,Consumer,South,Social
+C10503,2024-09-16,Small Business,West,Email
+C10504,2025-02-07,Corporate,North,Email
+C10505,2025-05-11,Consumer,North,Referral
+C10506,2024-11-21,Consumer,East,Organic
+C10507,2024-10-12,Corporate,South,Paid Search
+C10508,2024-08-18,Consumer,North,Social
+C10509,2024-04-07,Consumer,North,Email
+C10510,2024-01-18,Consumer,North,Organic
+C10511,2024-08-23,Corporate,East,Paid Search
+C10512,2025-07-11,Corporate,South,Paid Search
+C10513,2024-06-12,Consumer,West,Organic
+C10514,2024-05-05,Consumer,West,Referral
+C10515,2024-08-17,Corporate,North,Organic
+C10516,2025-02-23,Consumer,South,Paid Search
+C10517,2024-05-30,Corporate,North,Social
+C10518,2024-06-03,Consumer,South,Paid Search
+C10519,2024-03-19,Corporate,South,Organic
+C10520,2024-08-20,Small Business,West,Social
+C10521,2024-06-01,Corporate,South,Paid Search
+C10522,2025-08-04,Consumer,South,Email
+C10523,2025-09-26,Corporate,East,Social
+C10524,2024-09-16,Consumer,West,Email
+C10525,2024-02-29,Consumer,South,Organic
+C10526,2024-03-02,Consumer,North,Referral
+C10527,2024-08-15,Small Business,West,Social
+C10528,2024-11-20,Consumer,South,Social
+C10529,2025-01-04,Small Business,East,Paid Search
+C10530,2024-07-31,Consumer,East,Organic
+C10531,2024-09-05,Consumer,South,Organic
+C10532,2024-07-17,Consumer,South,Referral
+C10533,2024-12-28,Corporate,North,Referral
+C10534,2025-05-02,Consumer,South,Organic
+C10535,2024-01-31,Consumer,South,Social
+C10536,2024-12-01,Consumer,West,Social
+C10537,2025-03-29,Consumer,East,Social
+C10538,2025-04-15,Consumer,West,Paid Search
+C10539,2025-01-29,Consumer,West,Email
+C10540,2025-01-02,Consumer,West,Social
+C10541,2025-04-21,Small Business,North,Social
+C10542,2024-09-21,Consumer,South,Social
+C10543,2025-02-01,Consumer,East,Social
+C10544,2024-08-11,Consumer,East,Organic
+C10545,2024-11-02,Consumer,North,Email
+C10546,2024-03-27,Corporate,East,Organic
+C10547,2024-09-02,Consumer,South,Referral
+C10548,2024-04-09,Consumer,South,Email
+C10549,2024-06-07,Corporate,West,Social
+C10550,2024-10-20,Consumer,South,Social
+C10551,2024-12-16,Small Business,East,Organic
+C10552,2025-10-21,Small Business,East,Paid Search
+C10553,2024-01-19,Consumer,East,Social
+C10554,2025-09-20,Consumer,North,Organic
+C10555,2024-08-17,Consumer,East,Organic
+C10556,2025-05-21,Consumer,South,Email
+C10557,2025-04-19,Consumer,East,Paid Search
+C10558,2025-11-10,Consumer,North,Paid Search
+C10559,2024-03-17,Consumer,West,Organic
+C10560,2025-11-08,Consumer,West,Social
+C10561,2024-02-14,Consumer,South,Paid Search
+C10562,2025-09-06,Small Business,South,Referral
+C10563,2025-04-01,Small Business,South,Paid Search
+C10564,2024-12-03,Consumer,West,Organic
+C10565,2024-10-05,Corporate,East,Paid Search
+C10566,2024-03-06,Consumer,East,Organic
+C10567,2025-07-15,Corporate,West,Referral
+C10568,2025-05-24,Consumer,South,Organic
+C10569,2025-10-18,Small Business,East,Organic
+C10570,2025-05-26,Consumer,South,Paid Search
+C10571,2025-10-31,Consumer,East,Organic
+C10572,2025-09-12,Small Business,South,Paid Search
+C10573,2024-10-24,Consumer,West,Paid Search
+C10574,2025-05-07,Consumer,North,Email
+C10575,2024-07-04,Corporate,North,Organic
+C10576,2025-07-10,Small Business,South,Social
+C10577,2025-03-02,Corporate,West,Social
+C10578,2024-11-04,Small Business,South,Organic
+C10579,2025-03-15,Corporate,South,Social
+C10580,2024-07-13,Consumer,South,Email
+C10581,2025-03-11,Corporate,South,Referral
+C10582,2024-11-28,Small Business,West,Email
+C10583,2024-08-13,Small Business,West,Social
+C10584,2025-11-13,Consumer,West,Paid Search
+C10585,2024-02-14,Consumer,West,Email
+C10586,2025-06-14,Small Business,North,Organic
+C10587,2024-05-27,Consumer,South,Social
+C10588,2024-06-04,Consumer,East,Referral
+C10589,2024-04-18,Small Business,East,Email
+C10590,2024-03-12,Consumer,North,Email
+C10591,2024-03-27,Consumer,West,Organic
+C10592,2025-08-05,Consumer,North,Social
+C10593,2025-10-10,Consumer,South,Organic
+C10594,2025-02-13,Small Business,South,Referral
+C10595,2024-01-10,Consumer,West,Social
+C10596,2025-08-28,Consumer,West,Organic
+C10597,2025-02-25,Consumer,East,Referral
+C10598,2024-12-30,Consumer,West,Paid Search
+C10599,2025-10-25,Consumer,West,Paid Search
+C10600,2024-10-13,Consumer,South,Email
+C10601,2024-09-09,Consumer,West,Social
+C10602,2025-06-29,Consumer,North,Social
+C10603,2025-01-03,Consumer,South,Organic
+C10604,2025-05-16,Consumer,North,Organic
+C10605,2025-05-02,Consumer,South,Organic
+C10606,2025-08-10,Consumer,East,Paid Search
+C10607,2024-08-10,Consumer,North,Paid Search
+C10608,2024-02-20,Consumer,South,Paid Search
+C10609,2024-11-30,Consumer,East,Social
+C10610,2025-03-29,Corporate,East,Organic
+C10611,2025-07-25,Consumer,North,Social
+C10612,2024-07-05,Small Business,North,Email
+C10613,2025-06-05,Corporate,South,Organic
+C10614,2025-08-05,Consumer,West,Social
+C10615,2025-07-19,Consumer,West,Organic
+C10616,2025-07-19,Consumer,South,Paid Search
+C10617,2025-11-22,Consumer,East,Social
+C10618,2025-04-07,Consumer,East,Organic
+C10619,2024-09-16,Consumer,West,Paid Search
+C10620,2024-11-01,Small Business,North,Email
+C10621,2025-06-06,Consumer,East,Organic
+C10622,2024-06-14,Corporate,East,Social
+C10623,2025-02-25,Small Business,South,Social
+C10624,2025-02-04,Consumer,North,Organic
+C10625,2025-04-11,Small Business,North,Social
+C10626,2024-10-21,Small Business,South,Paid Search
+C10627,2025-06-01,Consumer,East,Organic
+C10628,2024-02-20,Consumer,East,Email
+C10629,2025-06-08,Consumer,North,Paid Search
+C10630,2025-07-22,Consumer,West,Social
+C10631,2025-09-12,Consumer,South,Organic
+C10632,2025-10-07,Consumer,West,Organic
+C10633,2024-09-01,Consumer,North,Social
+C10634,2024-02-02,Small Business,West,Social
+C10635,2025-04-02,Consumer,West,Organic
+C10636,2024-03-04,Consumer,West,Social
+C10637,2024-07-15,Consumer,West,Paid Search
+C10638,2025-05-06,Small Business,South,Paid Search
+C10639,2025-02-20,Corporate,East,Referral
+C10640,2025-02-28,Consumer,East,Social
+C10641,2025-06-09,Corporate,South,Paid Search
+C10642,2024-04-25,Consumer,West,Referral
+C10643,2025-07-07,Corporate,South,Paid Search
+C10644,2025-02-14,Consumer,South,Email
+C10645,2024-10-21,Consumer,West,Referral
+C10646,2024-11-20,Corporate,South,Paid Search
+C10647,2024-12-22,Small Business,North,Paid Search
+C10648,2025-01-20,Small Business,South,Email
+C10649,2024-08-21,Consumer,West,Email
+C10650,2024-06-05,Corporate,West,Organic
+C10651,2024-04-28,Consumer,North,Organic
+C10652,2024-08-26,Small Business,East,Paid Search
+C10653,2024-07-01,Small Business,East,Email
+C10654,2024-12-27,Consumer,East,Email
+C10655,2025-09-30,Consumer,East,Referral
+C10656,2024-03-16,Consumer,West,Organic
+C10657,2024-08-04,Consumer,South,Email
+C10658,2024-02-04,Consumer,South,Organic
+C10659,2025-11-13,Consumer,East,Paid Search
+C10660,2025-05-05,Consumer,South,Paid Search
+C10661,2024-06-18,Consumer,South,Paid Search
+C10662,2024-10-16,Consumer,North,Social
+C10663,2025-05-21,Corporate,North,Organic
+C10664,2025-11-01,Consumer,West,Organic
+C10665,2025-02-05,Consumer,North,Referral
+C10666,2024-07-08,Small Business,East,Organic
+C10667,2025-05-02,Small Business,West,Paid Search
+C10668,2025-04-25,Consumer,North,Organic
+C10669,2025-03-26,Consumer,South,Paid Search
+C10670,2024-02-02,Consumer,South,Organic
+C10671,2025-05-09,Small Business,South,Social
+C10672,2024-01-14,Corporate,South,Paid Search
+C10673,2025-09-25,Small Business,East,Organic
+C10674,2025-09-09,Corporate,South,Referral
+C10675,2025-01-29,Consumer,North,Organic
+C10676,2025-03-28,Consumer,North,Referral
+C10677,2024-02-17,Small Business,South,Organic
+C10678,2025-09-04,Small Business,South,Email
+C10679,2024-07-08,Consumer,West,Organic
+C10680,2024-07-02,Consumer,North,Social
+C10681,2025-05-10,Consumer,East,Social
+C10682,2025-10-19,Small Business,East,Social
+C10683,2024-12-11,Consumer,East,Referral
+C10684,2024-12-21,Corporate,East,Organic
+C10685,2025-01-18,Consumer,North,Paid Search
+C10686,2024-07-22,Corporate,East,Email
+C10687,2025-02-21,Corporate,South,Email
+C10688,2025-11-03,Consumer,West,Paid Search
+C10689,2024-09-24,Small Business,North,Social
+C10690,2025-06-25,Small Business,East,Referral
+C10691,2025-06-25,Small Business,East,Referral
+C10692,2025-08-18,Consumer,East,Email
+C10693,2025-05-21,Corporate,North,Referral
+C10694,2025-10-07,Consumer,East,Paid Search
+C10695,2025-05-15,Consumer,West,Social
+C10696,2025-11-14,Consumer,South,Paid Search
+C10697,2025-05-15,Corporate,South,Organic
+C10698,2025-08-08,Consumer,North,Referral
+C10699,2025-09-15,Consumer,South,Social
+C10700,2025-11-19,Consumer,West,Organic
+C10701,2025-02-20,Consumer,South,Social
+C10702,2025-05-12,Consumer,East,Organic
+C10703,2025-11-07,Consumer,West,Organic
+C10704,2024-09-23,Small Business,East,Social
+C10705,2024-03-24,Consumer,East,Social
+C10706,2025-09-10,Consumer,East,Paid Search
+C10707,2025-03-18,Small Business,South,Organic
+C10708,2024-10-26,Small Business,North,Social
+C10709,2025-05-16,Small Business,West,Organic
+C10710,2024-01-23,Small Business,West,Email
+C10711,2024-11-30,Small Business,South,Organic
+C10712,2024-07-04,Consumer,West,Email
+C10713,2024-07-20,Small Business,West,Organic
+C10714,2025-11-09,Small Business,South,Organic
+C10715,2025-01-20,Consumer,West,Paid Search
+C10716,2024-04-08,Small Business,East,Referral
+C10717,2024-09-12,Small Business,South,Email
+C10718,2024-06-18,Small Business,North,Paid Search
+C10719,2025-09-28,Small Business,South,Paid Search
+C10720,2024-07-22,Consumer,West,Organic
+C10721,2024-09-06,Consumer,South,Social
+C10722,2024-08-21,Corporate,West,Paid Search
+C10723,2024-05-02,Corporate,East,Email
+C10724,2025-06-30,Small Business,East,Paid Search
+C10725,2025-02-07,Small Business,South,Referral
+C10726,2024-11-01,Corporate,South,Referral
+C10727,2024-10-04,Small Business,North,Organic
+C10728,2025-04-11,Consumer,South,Paid Search
+C10729,2024-03-08,Small Business,North,Email
+C10730,2025-10-14,Consumer,North,Paid Search
+C10731,2025-01-30,Consumer,North,Social
+C10732,2024-06-08,Consumer,East,Email
+C10733,2025-01-11,Consumer,South,Organic
+C10734,2025-08-19,Consumer,South,Email
+C10735,2024-05-01,Consumer,West,Paid Search
+C10736,2025-01-01,Corporate,East,Social
+C10737,2025-02-22,Corporate,West,Paid Search
+C10738,2025-07-21,Consumer,East,Paid Search
+C10739,2025-02-01,Corporate,North,Organic
+C10740,2025-05-30,Consumer,West,Organic
+C10741,2025-06-25,Consumer,West,Paid Search
+C10742,2025-09-15,Consumer,East,Paid Search
+C10743,2024-09-10,Consumer,East,Social
+C10744,2025-05-07,Small Business,South,Organic
+C10745,2024-06-23,Consumer,South,Organic
+C10746,2025-08-14,Small Business,West,Organic
+C10747,2025-10-27,Consumer,South,Paid Search
+C10748,2024-07-24,Small Business,North,Organic
+C10749,2025-01-27,Small Business,North,Organic
+C10750,2025-07-29,Consumer,North,Social
+C10751,2024-01-19,Consumer,South,Social
+C10752,2025-05-08,Consumer,South,Social
+C10753,2025-07-28,Consumer,West,Organic
+C10754,2025-09-01,Consumer,South,Email
+C10755,2024-05-17,Consumer,South,Social
+C10756,2025-06-14,Small Business,South,Social
+C10757,2025-07-04,Small Business,East,Organic
+C10758,2024-01-02,Consumer,East,Organic
+C10759,2025-05-08,Consumer,East,Paid Search
+C10760,2025-03-14,Consumer,West,Organic
+C10761,2025-11-09,Consumer,West,Social
+C10762,2024-01-31,Small Business,West,Paid Search
+C10763,2025-11-06,Consumer,West,Organic
+C10764,2025-02-03,Consumer,South,Organic
+C10765,2024-07-11,Consumer,East,Organic
+C10766,2024-09-28,Consumer,South,Paid Search
+C10767,2025-06-20,Consumer,West,Organic
+C10768,2025-11-28,Consumer,North,Paid Search
+C10769,2024-08-09,Corporate,North,Organic
+C10770,2025-11-19,Consumer,North,Social
+C10771,2025-03-16,Small Business,East,Email
+C10772,2024-05-14,Consumer,East,Email
+C10773,2025-02-22,Small Business,North,Social
+C10774,2025-07-15,Consumer,South,Paid Search
+C10775,2024-02-08,Consumer,South,Social
+C10776,2024-02-25,Small Business,West,Email
+C10777,2024-01-04,Corporate,North,Paid Search
+C10778,2025-02-03,Consumer,North,Organic
+C10779,2024-02-10,Consumer,East,Referral
+C10780,2025-10-14,Corporate,East,Organic
+C10781,2024-03-30,Small Business,West,Referral
+C10782,2024-02-20,Corporate,East,Organic
+C10783,2024-06-29,Consumer,West,Organic
+C10784,2025-06-18,Consumer,South,Referral
+C10785,2025-09-26,Consumer,South,Social
+C10786,2024-06-24,Consumer,West,Social
+C10787,2024-12-29,Consumer,North,Referral
+C10788,2025-06-25,Small Business,West,Email
+C10789,2025-07-11,Consumer,North,Paid Search
+C10790,2024-04-17,Small Business,South,Email
+C10791,2025-08-09,Corporate,North,Paid Search
+C10792,2025-08-30,Small Business,East,Organic
+C10793,2025-05-29,Consumer,West,Referral
+C10794,2025-01-04,Consumer,North,Paid Search
+C10795,2024-09-30,Consumer,North,Email
+C10796,2025-09-14,Consumer,South,Organic
+C10797,2025-08-27,Consumer,South,Organic
+C10798,2024-12-28,Consumer,South,Organic
+C10799,2025-06-03,Consumer,West,Social
+C10800,2024-10-06,Consumer,North,Referral
+C10801,2025-06-04,Small Business,South,Paid Search
+C10802,2024-03-03,Small Business,South,Organic
+C10803,2025-09-23,Consumer,South,Paid Search
+C10804,2024-12-26,Small Business,South,Paid Search
+C10805,2025-02-23,Consumer,East,Social
+C10806,2024-05-12,Consumer,East,Social
+C10807,2025-01-05,Small Business,West,Organic
+C10808,2024-01-03,Consumer,South,Paid Search
+C10809,2025-09-15,Consumer,East,Social
+C10810,2025-06-08,Consumer,West,Organic
+C10811,2024-11-14,Consumer,West,Paid Search
+C10812,2025-08-08,Corporate,West,Social
+C10813,2025-07-22,Consumer,South,Paid Search
+C10814,2024-03-24,Consumer,West,Organic
+C10815,2024-02-07,Consumer,West,Organic
+C10816,2024-06-26,Consumer,West,Referral
+C10817,2024-01-01,Consumer,East,Organic
+C10818,2025-02-05,Small Business,West,Referral
+C10819,2025-01-04,Corporate,South,Paid Search
+C10820,2025-01-11,Consumer,West,Paid Search
+C10821,2024-02-21,Corporate,East,Referral
+C10822,2025-10-04,Consumer,West,Paid Search
+C10823,2025-11-14,Consumer,West,Organic
+C10824,2025-02-17,Consumer,North,Organic
+C10825,2024-01-04,Consumer,South,Social
+C10826,2024-10-04,Corporate,South,Paid Search
+C10827,2025-05-17,Small Business,West,Referral
+C10828,2025-06-08,Consumer,East,Paid Search
+C10829,2024-06-19,Consumer,West,Paid Search
+C10830,2025-07-29,Corporate,West,Organic
+C10831,2025-11-08,Consumer,East,Organic
+C10832,2024-12-22,Consumer,North,Referral
+C10833,2024-09-24,Small Business,East,Organic
+C10834,2025-01-03,Small Business,West,Email
+C10835,2024-01-20,Small Business,East,Organic
+C10836,2025-01-01,Consumer,West,Paid Search
+C10837,2024-01-19,Consumer,West,Organic
+C10838,2024-01-25,Consumer,South,Referral
+C10839,2025-01-22,Small Business,West,Organic
+C10840,2024-12-23,Consumer,East,Social
+C10841,2025-11-21,Consumer,South,Email
+C10842,2024-12-21,Consumer,South,Social
+C10843,2025-11-16,Small Business,South,Organic
+C10844,2025-07-18,Small Business,North,Referral
+C10845,2024-08-24,Corporate,East,Paid Search
+C10846,2025-10-10,Consumer,North,Organic
+C10847,2024-12-03,Corporate,South,Paid Search
+C10848,2025-02-20,Consumer,East,Referral
+C10849,2024-03-11,Consumer,South,Paid Search
+C10850,2024-05-28,Consumer,West,Referral
+C10851,2024-12-31,Consumer,South,Social
+C10852,2024-07-08,Consumer,North,Paid Search
+C10853,2025-02-23,Small Business,West,Paid Search
+C10854,2024-02-25,Consumer,West,Social
+C10855,2024-06-24,Consumer,East,Paid Search
+C10856,2025-04-10,Corporate,West,Organic
+C10857,2025-03-04,Corporate,North,Paid Search
+C10858,2025-11-19,Consumer,West,Email
+C10859,2025-09-21,Corporate,North,Organic
+C10860,2025-07-21,Consumer,South,Organic
+C10861,2024-01-01,Consumer,North,Organic
+C10862,2025-02-25,Corporate,West,Organic
+C10863,2024-06-09,Consumer,South,Email
+C10864,2024-07-05,Consumer,South,Paid Search
+C10865,2024-05-26,Consumer,North,Social
+C10866,2024-11-15,Consumer,West,Referral
+C10867,2024-03-27,Consumer,South,Paid Search
+C10868,2025-01-07,Small Business,South,Referral
+C10869,2024-04-26,Consumer,South,Email
+C10870,2024-12-16,Small Business,West,Social
+C10871,2025-03-14,Consumer,South,Social
+C10872,2024-05-05,Small Business,West,Paid Search
+C10873,2024-03-12,Consumer,South,Referral
+C10874,2025-07-18,Consumer,North,Organic
+C10875,2025-05-31,Consumer,South,Social
+C10876,2024-07-02,Consumer,North,Paid Search
+C10877,2025-09-12,Small Business,South,Social
+C10878,2024-06-03,Corporate,South,Email
+C10879,2025-10-10,Corporate,West,Social
+C10880,2024-03-20,Consumer,South,Organic
+C10881,2025-04-07,Consumer,South,Social
+C10882,2024-01-14,Corporate,South,Email
+C10883,2024-05-18,Small Business,North,Social
+C10884,2024-10-10,Consumer,North,Email
+C10885,2024-02-29,Corporate,South,Referral
+C10886,2024-11-15,Consumer,North,Email
+C10887,2024-06-11,Small Business,North,Paid Search
+C10888,2024-03-10,Consumer,West,Paid Search
+C10889,2025-11-04,Consumer,East,Referral
+C10890,2025-11-18,Small Business,West,Email
+C10891,2025-11-04,Consumer,South,Organic
+C10892,2024-04-17,Consumer,West,Organic
+C10893,2024-09-24,Consumer,South,Paid Search
+C10894,2024-08-17,Consumer,North,Referral
+C10895,2024-08-16,Small Business,West,Email
+C10896,2024-10-18,Small Business,North,Social
+C10897,2024-12-23,Consumer,South,Organic
+C10898,2024-12-05,Small Business,West,Paid Search
+C10899,2024-07-23,Corporate,East,Email
+C10900,2025-11-16,Small Business,South,Paid Search
+C10901,2025-11-16,Consumer,South,Organic
+C10902,2024-08-19,Consumer,North,Paid Search
+C10903,2024-06-03,Consumer,West,Referral
+C10904,2025-01-07,Consumer,North,Paid Search
+C10905,2024-09-15,Corporate,South,Organic
+C10906,2025-11-22,Consumer,South,Paid Search
+C10907,2024-10-27,Consumer,West,Email
+C10908,2024-01-28,Corporate,West,Paid Search
+C10909,2024-03-28,Consumer,South,Paid Search
+C10910,2024-02-22,Consumer,West,Organic
+C10911,2024-09-24,Corporate,North,Paid Search
+C10912,2024-08-09,Small Business,West,Referral
+C10913,2025-08-22,Consumer,North,Referral
+C10914,2025-09-15,Small Business,South,Paid Search
+C10915,2024-04-08,Small Business,North,Email
+C10916,2025-10-23,Corporate,West,Paid Search
+C10917,2025-02-12,Consumer,West,Email
+C10918,2024-08-02,Corporate,East,Organic
+C10919,2024-10-11,Small Business,North,Paid Search
+C10920,2024-11-04,Consumer,South,Email
+C10921,2024-04-29,Small Business,South,Email
+C10922,2025-08-30,Small Business,South,Referral
+C10923,2024-01-09,Consumer,North,Social
+C10924,2024-02-18,Corporate,East,Referral
+C10925,2024-07-10,Consumer,East,Social
+C10926,2024-04-10,Small Business,West,Organic
+C10927,2024-02-13,Small Business,South,Paid Search
+C10928,2024-09-25,Consumer,South,Social
+C10929,2024-09-20,Consumer,South,Social
+C10930,2024-03-28,Consumer,North,Email
+C10931,2025-07-21,Small Business,East,Paid Search
+C10932,2025-09-09,Consumer,West,Organic
+C10933,2025-05-18,Small Business,North,Organic
+C10934,2024-12-31,Consumer,South,Referral
+C10935,2025-10-25,Consumer,West,Organic
+C10936,2024-09-02,Small Business,South,Email
+C10937,2024-10-25,Consumer,East,Organic
+C10938,2024-01-11,Consumer,West,Paid Search
+C10939,2025-05-10,Consumer,East,Referral
+C10940,2024-03-05,Consumer,North,Paid Search
+C10941,2025-04-10,Consumer,West,Referral
+C10942,2025-07-01,Consumer,West,Organic
+C10943,2024-05-31,Corporate,North,Paid Search
+C10944,2025-03-04,Consumer,North,Social
+C10945,2024-07-31,Consumer,East,Email
+C10946,2024-10-05,Consumer,East,Organic
+C10947,2025-01-05,Consumer,South,Paid Search
+C10948,2024-06-23,Small Business,East,Social
+C10949,2025-07-11,Consumer,East,Email
+C10950,2024-10-03,Consumer,South,Referral
+C10951,2024-11-19,Consumer,North,Referral
+C10952,2025-07-24,Small Business,North,Paid Search
+C10953,2024-06-08,Small Business,South,Social
+C10954,2024-11-12,Small Business,West,Email
+C10955,2025-11-26,Small Business,East,Email
+C10956,2024-10-06,Corporate,South,Referral
+C10957,2024-03-21,Small Business,West,Referral
+C10958,2024-07-18,Consumer,South,Email
+C10959,2025-10-31,Small Business,South,Organic
+C10960,2025-06-15,Small Business,North,Organic
+C10961,2025-07-20,Small Business,West,Email
+C10962,2024-06-26,Consumer,East,Paid Search
+C10963,2025-08-10,Small Business,West,Organic
+C10964,2024-10-02,Consumer,South,Paid Search
+C10965,2025-07-10,Corporate,South,Social
+C10966,2025-09-08,Consumer,North,Referral
+C10967,2024-05-25,Consumer,West,Referral
+C10968,2025-10-18,Corporate,North,Organic
+C10969,2025-03-18,Consumer,East,Paid Search
+C10970,2025-05-26,Consumer,East,Organic
+C10971,2025-06-13,Consumer,North,Email
+C10972,2024-04-27,Corporate,South,Organic
+C10973,2025-06-05,Corporate,North,Social
+C10974,2024-05-29,Corporate,East,Social
+C10975,2024-07-09,Consumer,West,Social
+C10976,2024-03-22,Small Business,South,Social
+C10977,2024-05-06,Corporate,West,Social
+C10978,2025-11-16,Consumer,North,Social
+C10979,2024-08-17,Consumer,South,Organic
+C10980,2024-09-27,Consumer,West,Paid Search
+C10981,2024-12-01,Consumer,West,Paid Search
+C10982,2025-05-14,Consumer,South,Paid Search
+C10983,2025-02-05,Consumer,East,Referral
+C10984,2025-01-10,Consumer,West,Paid Search
+C10985,2025-08-08,Consumer,West,Referral
+C10986,2024-12-13,Consumer,East,Organic
+C10987,2025-06-22,Small Business,North,Referral
+C10988,2025-09-29,Consumer,North,Organic
+C10989,2025-04-18,Consumer,East,Paid Search
+C10990,2024-01-25,Corporate,South,Paid Search
+C10991,2024-07-03,Consumer,South,Social
+C10992,2025-03-08,Consumer,South,Organic
+C10993,2024-12-01,Consumer,South,Referral
+C10994,2024-07-18,Consumer,South,Social
+C10995,2024-08-22,Consumer,South,Email
+C10996,2024-02-24,Consumer,South,Social
+C10997,2024-06-13,Consumer,North,Social
+C10998,2025-07-01,Consumer,West,Referral
+C10999,2024-01-08,Small Business,East,Organic
+C11000,2025-08-08,Consumer,North,Social
+C11001,2024-08-25,Consumer,South,Paid Search
+C11002,2025-07-19,Consumer,South,Social
+C11003,2024-06-28,Corporate,East,Organic
+C11004,2025-08-03,Corporate,East,Paid Search
+C11005,2025-02-04,Corporate,East,Social
+C11006,2025-08-19,Consumer,East,Paid Search
+C11007,2024-02-13,Consumer,North,Organic
+C11008,2025-07-12,Small Business,South,Paid Search
+C11009,2024-07-08,Consumer,North,Referral
+C11010,2024-09-08,Small Business,South,Organic
+C11011,2024-02-01,Consumer,South,Paid Search
+C11012,2025-10-29,Consumer,West,Email
+C11013,2025-03-24,Consumer,North,Email
+C11014,2025-11-17,Consumer,East,Organic
+C11015,2025-02-01,Small Business,South,Paid Search
+C11016,2024-04-20,Consumer,South,Organic
+C11017,2024-08-24,Consumer,East,Email
+C11018,2024-11-03,Corporate,North,Paid Search
+C11019,2024-04-13,Small Business,South,Paid Search
+C11020,2025-10-14,Corporate,South,Organic
+C11021,2025-11-01,Small Business,East,Social
+C11022,2025-01-29,Small Business,North,Organic
+C11023,2025-02-13,Consumer,West,Referral
+C11024,2025-05-07,Small Business,West,Paid Search
+C11025,2025-04-20,Small Business,West,Social
+C11026,2024-02-13,Consumer,South,Referral
+C11027,2025-01-06,Corporate,East,Organic
+C11028,2025-06-27,Consumer,North,Organic
+C11029,2025-07-18,Corporate,West,Paid Search
+C11030,2025-02-21,Consumer,South,Referral
+C11031,2025-09-19,Corporate,North,Organic
+C11032,2025-02-14,Consumer,South,Referral
+C11033,2024-09-24,Consumer,West,Paid Search
+C11034,2024-11-05,Consumer,West,Social
+C11035,2025-04-28,Corporate,South,Social
+C11036,2025-09-12,Consumer,South,Organic
+C11037,2024-06-09,Corporate,West,Organic
+C11038,2024-07-24,Consumer,West,Referral
+C11039,2025-04-01,Consumer,West,Paid Search
+C11040,2025-06-18,Consumer,South,Social
+C11041,2024-10-06,Small Business,East,Email
+C11042,2025-03-26,Consumer,West,Organic
+C11043,2024-01-05,Corporate,North,Paid Search
+C11044,2024-07-23,Consumer,South,Paid Search
+C11045,2025-10-30,Corporate,North,Organic
+C11046,2025-02-07,Consumer,South,Email
+C11047,2025-08-30,Consumer,West,Email
+C11048,2024-06-01,Consumer,North,Paid Search
+C11049,2024-07-22,Consumer,East,Email
+C11050,2025-11-13,Consumer,North,Organic
+C11051,2025-11-29,Consumer,West,Email
+C11052,2025-09-05,Consumer,West,Referral
+C11053,2024-08-09,Small Business,East,Organic
+C11054,2025-07-15,Consumer,East,Social
+C11055,2024-11-17,Small Business,North,Referral
+C11056,2025-08-13,Consumer,West,Paid Search
+C11057,2025-08-18,Consumer,East,Paid Search
+C11058,2024-10-31,Consumer,North,Social
+C11059,2024-08-01,Consumer,West,Organic
+C11060,2025-11-13,Consumer,North,Organic
+C11061,2024-11-11,Small Business,East,Organic
+C11062,2024-10-29,Corporate,North,Social
+C11063,2025-04-10,Consumer,East,Paid Search
+C11064,2025-10-17,Consumer,North,Paid Search
+C11065,2024-04-01,Consumer,North,Organic
+C11066,2025-11-20,Corporate,South,Organic
+C11067,2024-10-22,Consumer,West,Social
+C11068,2024-01-18,Consumer,South,Organic
+C11069,2024-08-04,Consumer,East,Social
+C11070,2024-11-19,Consumer,South,Paid Search
+C11071,2025-04-18,Corporate,West,Social
+C11072,2025-01-31,Consumer,South,Paid Search
+C11073,2024-04-05,Consumer,East,Referral
+C11074,2024-12-07,Small Business,West,Organic
+C11075,2024-06-11,Small Business,South,Email
+C11076,2024-07-07,Consumer,South,Organic
+C11077,2025-05-12,Consumer,West,Organic
+C11078,2025-07-16,Small Business,South,Social
+C11079,2024-04-19,Consumer,South,Organic
+C11080,2025-02-25,Consumer,South,Paid Search
+C11081,2024-10-22,Consumer,West,Referral
+C11082,2024-08-23,Consumer,West,Referral
+C11083,2025-05-14,Small Business,East,Social
+C11084,2024-06-23,Small Business,East,Email
+C11085,2025-06-19,Small Business,South,Paid Search
+C11086,2024-10-07,Corporate,North,Organic
+C11087,2024-03-07,Corporate,North,Referral
+C11088,2025-07-08,Small Business,North,Organic
+C11089,2025-08-19,Corporate,North,Organic
+C11090,2025-01-29,Consumer,East,Organic
+C11091,2025-05-21,Consumer,North,Paid Search
+C11092,2024-04-13,Consumer,North,Paid Search
+C11093,2024-08-25,Consumer,South,Paid Search
+C11094,2024-09-01,Consumer,South,Social
+C11095,2025-06-18,Consumer,North,Referral
+C11096,2024-09-03,Consumer,North,Email
+C11097,2025-05-24,Consumer,South,Organic
+C11098,2024-08-02,Consumer,East,Organic
+C11099,2025-02-24,Consumer,West,Social
+C11100,2024-05-26,Consumer,West,Organic
+C11101,2025-01-25,Small Business,West,Paid Search
+C11102,2024-02-26,Consumer,East,Social
+C11103,2025-05-29,Consumer,West,Referral
+C11104,2024-01-21,Consumer,South,Organic
+C11105,2025-11-30,Small Business,East,Social
+C11106,2025-08-10,Corporate,South,Social
+C11107,2025-02-08,Consumer,South,Email
+C11108,2025-09-28,Consumer,South,Paid Search
+C11109,2025-07-20,Corporate,North,Referral
+C11110,2024-04-09,Small Business,West,Referral
+C11111,2025-06-04,Consumer,North,Organic
+C11112,2024-09-21,Consumer,East,Social
+C11113,2025-08-22,Consumer,West,Social
+C11114,2025-08-27,Consumer,South,Organic
+C11115,2025-10-30,Corporate,North,Paid Search
+C11116,2024-11-11,Small Business,South,Paid Search
+C11117,2024-05-15,Small Business,South,Referral
+C11118,2024-03-28,Small Business,West,Organic
+C11119,2024-04-25,Consumer,East,Paid Search
+C11120,2025-11-25,Small Business,West,Organic
+C11121,2025-02-14,Consumer,South,Social
+C11122,2024-09-03,Consumer,East,Social
+C11123,2024-11-10,Corporate,West,Paid Search
+C11124,2024-05-01,Consumer,North,Paid Search
+C11125,2025-02-03,Small Business,South,Paid Search
+C11126,2024-10-24,Small Business,North,Paid Search
+C11127,2025-07-12,Small Business,South,Social
+C11128,2024-01-15,Small Business,West,Organic
+C11129,2025-10-14,Consumer,East,Referral
+C11130,2024-02-12,Consumer,South,Social
+C11131,2024-10-19,Small Business,West,Email
+C11132,2024-08-26,Consumer,North,Organic
+C11133,2025-05-17,Small Business,North,Paid Search
+C11134,2025-04-05,Consumer,West,Organic
+C11135,2024-05-17,Consumer,West,Email
+C11136,2024-12-09,Consumer,East,Social
+C11137,2025-01-09,Corporate,South,Social
+C11138,2024-11-20,Small Business,West,Social
+C11139,2024-01-16,Small Business,West,Organic
+C11140,2024-05-04,Consumer,East,Social
+C11141,2024-12-18,Consumer,South,Referral
+C11142,2024-07-01,Consumer,South,Organic
+C11143,2025-01-16,Consumer,West,Email
+C11144,2024-04-24,Consumer,West,Email
+C11145,2025-05-29,Consumer,East,Email
+C11146,2024-05-11,Consumer,East,Referral
+C11147,2025-03-30,Consumer,East,Organic
+C11148,2025-08-08,Corporate,East,Social
+C11149,2024-09-07,Small Business,South,Organic
+C11150,2024-04-07,Consumer,North,Referral
+C11151,2024-01-05,Consumer,North,Organic
+C11152,2024-09-09,Corporate,West,Email
+C11153,2024-03-21,Small Business,North,Organic
+C11154,2025-09-09,Small Business,North,Organic
+C11155,2025-11-12,Consumer,West,Organic
+C11156,2025-11-17,Consumer,East,Social
+C11157,2025-10-07,Small Business,North,Organic
+C11158,2025-02-14,Consumer,South,Organic
+C11159,2024-08-15,Consumer,West,Organic
+C11160,2024-11-08,Small Business,South,Paid Search
+C11161,2024-06-30,Consumer,South,Email
+C11162,2025-08-11,Corporate,South,Paid Search
+C11163,2024-11-01,Small Business,North,Organic
+C11164,2024-09-26,Consumer,West,Organic
+C11165,2025-04-27,Corporate,North,Organic
+C11166,2024-09-18,Consumer,South,Paid Search
+C11167,2024-09-06,Small Business,North,Organic
+C11168,2024-06-08,Small Business,North,Organic
+C11169,2024-02-17,Small Business,North,Organic
+C11170,2024-01-27,Consumer,West,Paid Search
+C11171,2024-10-08,Small Business,North,Referral
+C11172,2025-11-27,Small Business,South,Organic
+C11173,2024-07-01,Corporate,North,Social
+C11174,2025-03-24,Corporate,West,Social
+C11175,2024-08-15,Consumer,South,Email
+C11176,2024-07-30,Small Business,West,Organic
+C11177,2024-04-24,Consumer,East,Referral
+C11178,2025-01-29,Consumer,East,Email
+C11179,2025-04-06,Small Business,East,Email
+C11180,2024-09-02,Small Business,North,Referral
+C11181,2025-01-03,Small Business,West,Organic
+C11182,2024-11-29,Consumer,West,Email
+C11183,2024-07-08,Consumer,South,Referral
+C11184,2025-04-29,Consumer,East,Organic
+C11185,2025-01-22,Consumer,North,Organic
+C11186,2024-02-16,Small Business,East,Email
+C11187,2024-12-10,Consumer,West,Organic
+C11188,2024-09-29,Consumer,West,Referral
+C11189,2025-07-11,Consumer,South,Paid Search
+C11190,2024-08-02,Consumer,East,Social
+C11191,2025-10-31,Small Business,East,Organic
+C11192,2025-03-06,Corporate,South,Social
+C11193,2024-04-01,Consumer,East,Paid Search
+C11194,2024-10-09,Consumer,East,Email
+C11195,2025-09-10,Consumer,West,Organic
+C11196,2024-06-27,Consumer,West,Organic
+C11197,2025-05-08,Small Business,North,Organic
+C11198,2025-07-02,Corporate,North,Organic
+C11199,2025-04-29,Consumer,North,Email
+C11200,2024-03-04,Small Business,North,Organic
+C11201,2024-09-19,Consumer,South,Organic
+C11202,2024-08-31,Consumer,West,Referral
+C11203,2024-08-28,Consumer,South,Organic
+C11204,2025-09-07,Consumer,East,Organic
+C11205,2024-01-04,Consumer,South,Social
+C11206,2025-01-12,Small Business,South,Paid Search
+C11207,2025-11-18,Small Business,West,Referral
+C11208,2025-09-04,Consumer,East,Social
+C11209,2025-02-28,Corporate,South,Organic
+C11210,2025-11-29,Consumer,West,Social
+C11211,2024-10-08,Consumer,South,Email
+C11212,2025-03-03,Consumer,North,Paid Search
+C11213,2025-01-15,Consumer,South,Social
+C11214,2024-02-03,Consumer,East,Paid Search
+C11215,2024-01-29,Small Business,South,Paid Search
+C11216,2025-09-19,Small Business,West,Social
+C11217,2024-05-01,Consumer,East,Organic
+C11218,2024-09-05,Small Business,South,Paid Search
+C11219,2025-03-12,Consumer,West,Organic
+C11220,2025-02-06,Corporate,South,Social
+C11221,2024-12-25,Consumer,South,Social
+C11222,2025-11-16,Consumer,North,Paid Search
+C11223,2025-07-04,Corporate,South,Organic
+C11224,2025-10-21,Consumer,South,Email
+C11225,2025-04-06,Consumer,North,Paid Search
+C11226,2025-11-16,Consumer,East,Organic
+C11227,2025-02-25,Consumer,North,Organic
+C11228,2025-01-14,Consumer,South,Social
+C11229,2025-07-24,Corporate,East,Organic
+C11230,2025-08-31,Corporate,South,Referral
+C11231,2024-02-17,Consumer,East,Social
+C11232,2025-09-29,Consumer,East,Organic
+C11233,2025-04-28,Corporate,South,Social
+C11234,2025-09-20,Corporate,North,Organic
+C11235,2025-05-15,Small Business,South,Organic
+C11236,2025-10-10,Consumer,North,Social
+C11237,2024-07-11,Consumer,South,Organic
+C11238,2024-05-11,Consumer,West,Email
+C11239,2024-05-16,Consumer,East,Social
+C11240,2024-06-25,Consumer,South,Organic
+C11241,2024-05-29,Consumer,West,Email
+C11242,2024-11-05,Small Business,North,Paid Search
+C11243,2024-05-18,Consumer,West,Organic
+C11244,2024-04-20,Corporate,West,Paid Search
+C11245,2025-01-01,Consumer,South,Email
+C11246,2025-07-09,Consumer,North,Paid Search
+C11247,2024-04-04,Small Business,North,Paid Search
+C11248,2024-12-23,Corporate,West,Paid Search
+C11249,2025-04-06,Consumer,South,Organic
+C11250,2025-05-08,Small Business,West,Organic
+C11251,2024-03-14,Consumer,South,Social
+C11252,2025-05-28,Consumer,South,Email
+C11253,2024-01-19,Corporate,East,Social
+C11254,2024-06-14,Corporate,North,Organic
+C11255,2024-08-11,Consumer,South,Paid Search
+C11256,2025-08-20,Small Business,West,Organic
+C11257,2024-05-14,Corporate,South,Paid Search
+C11258,2025-07-01,Corporate,West,Social
+C11259,2025-11-23,Consumer,West,Organic
+C11260,2025-11-02,Consumer,North,Referral
+C11261,2024-07-31,Consumer,East,Paid Search
+C11262,2024-03-07,Corporate,North,Social
+C11263,2024-06-04,Consumer,East,Email
+C11264,2025-06-22,Small Business,West,Social
+C11265,2024-05-17,Consumer,West,Email
+C11266,2025-03-27,Corporate,West,Referral
+C11267,2024-09-18,Small Business,North,Social
+C11268,2025-06-20,Small Business,East,Organic
+C11269,2025-02-28,Small Business,South,Organic
+C11270,2025-02-13,Small Business,West,Email
+C11271,2025-07-01,Consumer,North,Organic
+C11272,2025-10-30,Corporate,North,Email
+C11273,2024-09-12,Small Business,North,Paid Search
+C11274,2025-01-05,Consumer,North,Social
+C11275,2025-03-14,Consumer,North,Paid Search
+C11276,2025-07-30,Small Business,North,Email
+C11277,2024-12-03,Consumer,West,Organic
+C11278,2024-09-19,Consumer,West,Paid Search
+C11279,2025-08-15,Consumer,South,Email
+C11280,2025-10-29,Consumer,West,Organic
+C11281,2025-02-02,Consumer,South,Organic
+C11282,2024-03-13,Consumer,West,Email
+C11283,2024-07-21,Small Business,South,Referral
+C11284,2024-11-20,Consumer,East,Organic
+C11285,2025-05-07,Consumer,South,Social
+C11286,2025-04-13,Small Business,North,Organic
+C11287,2025-07-28,Small Business,East,Organic
+C11288,2024-01-21,Consumer,West,Social
+C11289,2024-11-21,Consumer,West,Organic
+C11290,2025-05-05,Corporate,South,Paid Search
+C11291,2025-11-22,Small Business,South,Organic
+C11292,2024-04-09,Consumer,West,Email
+C11293,2025-09-07,Consumer,North,Social
+C11294,2024-01-06,Corporate,North,Organic
+C11295,2024-05-17,Corporate,South,Email
+C11296,2025-08-15,Consumer,South,Referral
+C11297,2025-07-04,Small Business,South,Organic
+C11298,2025-11-11,Small Business,North,Email
+C11299,2025-02-24,Corporate,East,Organic
+C11300,2025-03-07,Corporate,East,Organic
+C11301,2025-01-09,Corporate,West,Paid Search
+C11302,2024-12-24,Consumer,East,Organic
+C11303,2024-12-25,Consumer,South,Social
+C11304,2024-07-23,Corporate,West,Social
+C11305,2025-08-20,Corporate,West,Email
+C11306,2024-09-06,Consumer,East,Organic
+C11307,2025-03-03,Consumer,North,Organic
+C11308,2025-04-13,Corporate,East,Paid Search
+C11309,2025-01-11,Corporate,East,Organic
+C11310,2025-03-04,Consumer,East,Email
+C11311,2024-02-04,Consumer,West,Social
+C11312,2024-08-09,Consumer,West,Referral
+C11313,2024-11-09,Small Business,West,Social
+C11314,2024-10-02,Small Business,East,Organic
+C11315,2025-09-27,Consumer,West,Organic
+C11316,2025-09-19,Consumer,West,Paid Search
+C11317,2025-05-13,Corporate,North,Referral
+C11318,2024-09-03,Consumer,East,Paid Search
+C11319,2024-02-05,Small Business,North,Organic
+C11320,2025-06-12,Consumer,South,Social
+C11321,2025-09-10,Consumer,South,Organic
+C11322,2024-12-08,Consumer,South,Paid Search
+C11323,2025-08-01,Consumer,North,Organic
+C11324,2025-10-13,Corporate,South,Paid Search
+C11325,2025-01-17,Small Business,North,Paid Search
+C11326,2024-05-26,Consumer,East,Email
+C11327,2024-01-16,Consumer,West,Social
+C11328,2025-06-13,Corporate,West,Organic
+C11329,2025-01-28,Small Business,South,Referral
+C11330,2024-04-17,Consumer,South,Referral
+C11331,2024-02-08,Consumer,West,Social
+C11332,2025-11-09,Consumer,North,Email
+C11333,2024-08-12,Consumer,West,Referral
+C11334,2024-08-16,Small Business,East,Organic
+C11335,2025-03-16,Consumer,South,Paid Search
+C11336,2024-09-12,Consumer,North,Paid Search
+C11337,2025-10-01,Small Business,North,Paid Search
+C11338,2025-04-21,Consumer,East,Email
+C11339,2024-09-07,Consumer,South,Social
+C11340,2024-07-05,Consumer,West,Paid Search
+C11341,2025-08-25,Small Business,East,Email
+C11342,2025-02-18,Corporate,South,Social
+C11343,2025-10-04,Consumer,South,Organic
+C11344,2024-08-29,Corporate,South,Email
+C11345,2024-01-15,Consumer,North,Paid Search
+C11346,2025-09-21,Consumer,East,Paid Search
+C11347,2024-06-16,Consumer,East,Paid Search
+C11348,2025-08-14,Consumer,West,Email
+C11349,2025-05-11,Consumer,South,Organic
+C11350,2024-06-11,Small Business,South,Paid Search
+C11351,2025-06-13,Consumer,West,Social
+C11352,2024-02-27,Small Business,East,Email
+C11353,2024-10-01,Corporate,East,Organic
+C11354,2024-09-06,Consumer,East,Organic
+C11355,2025-04-04,Consumer,West,Email
+C11356,2025-01-09,Consumer,South,Referral
+C11357,2025-03-04,Consumer,South,Paid Search
+C11358,2024-11-29,Consumer,West,Paid Search
+C11359,2025-06-01,Small Business,North,Paid Search
+C11360,2024-04-22,Small Business,West,Social
+C11361,2025-05-18,Consumer,South,Social
+C11362,2024-02-05,Consumer,North,Referral
+C11363,2024-03-01,Consumer,North,Organic
+C11364,2025-05-21,Small Business,West,Referral
+C11365,2024-04-20,Consumer,West,Organic
+C11366,2025-06-23,Consumer,South,Email
+C11367,2024-04-02,Corporate,North,Organic
+C11368,2024-04-12,Consumer,South,Organic
+C11369,2025-10-14,Consumer,North,Organic
+C11370,2024-05-04,Corporate,West,Organic
+C11371,2025-10-01,Consumer,North,Paid Search
+C11372,2024-08-31,Consumer,North,Social
+C11373,2025-07-12,Consumer,North,Email
+C11374,2025-10-19,Consumer,East,Paid Search
+C11375,2024-03-22,Small Business,East,Paid Search
+C11376,2024-08-19,Consumer,East,Paid Search
+C11377,2025-02-05,Small Business,East,Referral
+C11378,2025-08-28,Consumer,West,Organic
+C11379,2024-05-11,Corporate,South,Paid Search
+C11380,2024-05-10,Small Business,West,Organic
+C11381,2024-09-14,Consumer,East,Organic
+C11382,2024-05-23,Small Business,North,Social
+C11383,2024-07-05,Corporate,West,Organic
+C11384,2024-03-31,Corporate,East,Organic
+C11385,2025-08-03,Consumer,East,Referral
+C11386,2025-07-11,Corporate,North,Organic
+C11387,2024-04-11,Consumer,South,Social
+C11388,2025-01-10,Small Business,West,Paid Search
+C11389,2025-03-28,Small Business,North,Email
+C11390,2025-03-15,Consumer,North,Social
+C11391,2025-11-19,Small Business,South,Organic
+C11392,2025-03-24,Small Business,South,Email
+C11393,2025-04-25,Consumer,West,Paid Search
+C11394,2024-01-24,Consumer,East,Organic
+C11395,2024-02-25,Consumer,West,Social
+C11396,2025-03-09,Consumer,South,Social
+C11397,2025-09-27,Consumer,South,Paid Search
+C11398,2024-10-06,Small Business,South,Paid Search
+C11399,2025-03-26,Consumer,North,Organic
+C11400,2024-05-27,Corporate,West,Social
+C11401,2024-11-15,Corporate,North,Email
+C11402,2025-06-09,Corporate,South,Paid Search
+C11403,2025-04-06,Consumer,West,Email
+C11404,2024-03-20,Consumer,East,Organic
+C11405,2025-09-07,Corporate,North,Referral
+C11406,2025-10-10,Consumer,East,Email
+C11407,2024-11-29,Consumer,South,Social
+C11408,2024-08-26,Corporate,West,Organic
+C11409,2025-01-06,Consumer,East,Paid Search
+C11410,2025-07-14,Consumer,North,Organic
+C11411,2024-11-12,Consumer,North,Social
+C11412,2024-01-22,Consumer,South,Email
+C11413,2024-02-20,Small Business,East,Paid Search
+C11414,2025-07-22,Consumer,South,Organic
+C11415,2025-07-04,Small Business,West,Organic
+C11416,2025-06-24,Small Business,South,Social
+C11417,2024-03-29,Consumer,South,Social
+C11418,2024-04-29,Consumer,North,Organic
+C11419,2024-10-03,Consumer,North,Referral
+C11420,2024-06-10,Small Business,South,Organic
+C11421,2024-09-27,Corporate,East,Social
+C11422,2025-01-25,Consumer,West,Paid Search
+C11423,2024-07-15,Consumer,South,Organic
+C11424,2024-03-27,Consumer,East,Social
+C11425,2024-10-08,Consumer,North,Social
+C11426,2025-05-20,Consumer,East,Paid Search
+C11427,2025-03-08,Consumer,North,Referral
+C11428,2024-08-13,Small Business,East,Paid Search
+C11429,2024-08-05,Consumer,North,Organic
+C11430,2025-02-12,Consumer,North,Email
+C11431,2024-04-30,Corporate,East,Email
+C11432,2025-08-06,Small Business,South,Organic
+C11433,2025-08-31,Consumer,South,Email
+C11434,2024-01-18,Small Business,South,Referral
+C11435,2025-11-10,Consumer,West,Organic
+C11436,2024-01-17,Small Business,South,Paid Search
+C11437,2024-11-17,Consumer,East,Organic
+C11438,2025-04-12,Corporate,West,Social
+C11439,2024-08-16,Consumer,East,Email
+C11440,2024-05-22,Small Business,South,Paid Search
+C11441,2024-02-03,Small Business,East,Paid Search
+C11442,2025-05-24,Consumer,North,Organic
+C11443,2024-01-26,Consumer,East,Paid Search
+C11444,2024-12-04,Consumer,South,Referral
+C11445,2024-10-02,Consumer,West,Organic
+C11446,2025-11-08,Corporate,West,Social
+C11447,2025-10-13,Corporate,North,Paid Search
+C11448,2025-07-26,Consumer,North,Social
+C11449,2025-05-26,Consumer,South,Social
+C11450,2025-01-15,Small Business,East,Social
+C11451,2024-09-01,Consumer,South,Paid Search
+C11452,2024-04-26,Corporate,East,Social
+C11453,2025-11-08,Consumer,South,Social
+C11454,2024-09-26,Consumer,West,Social
+C11455,2024-10-27,Consumer,South,Social
+C11456,2024-04-08,Consumer,North,Email
+C11457,2024-07-12,Corporate,South,Organic
+C11458,2025-03-20,Consumer,East,Organic
+C11459,2024-10-25,Corporate,South,Email
+C11460,2025-02-14,Corporate,South,Organic
+C11461,2024-05-28,Consumer,South,Email
+C11462,2024-02-27,Consumer,West,Social
+C11463,2025-09-11,Corporate,West,Email
+C11464,2024-10-29,Corporate,South,Social
+C11465,2024-09-09,Consumer,North,Referral
+C11466,2024-07-19,Consumer,South,Social
+C11467,2025-04-05,Small Business,South,Paid Search
+C11468,2025-01-29,Consumer,West,Paid Search
+C11469,2024-09-29,Corporate,South,Organic
+C11470,2025-10-13,Consumer,East,Organic
+C11471,2025-09-23,Corporate,West,Email
+C11472,2024-05-18,Consumer,East,Organic
+C11473,2025-03-25,Corporate,South,Referral
+C11474,2025-11-08,Consumer,East,Paid Search
+C11475,2024-12-07,Consumer,South,Paid Search
+C11476,2024-01-22,Consumer,South,Email
+C11477,2024-04-02,Corporate,West,Organic
+C11478,2025-04-12,Consumer,South,Social
+C11479,2025-09-23,Consumer,South,Paid Search
+C11480,2024-03-30,Corporate,North,Organic
+C11481,2025-01-17,Consumer,North,Organic
+C11482,2024-12-13,Consumer,East,Social
+C11483,2024-07-18,Small Business,West,Organic
+C11484,2025-03-18,Small Business,East,Referral
+C11485,2025-09-06,Small Business,South,Social
+C11486,2024-06-16,Consumer,North,Organic
+C11487,2024-02-08,Consumer,South,Organic
+C11488,2024-09-08,Small Business,South,Organic
+C11489,2024-08-07,Consumer,West,Referral
+C11490,2025-05-24,Corporate,East,Paid Search
+C11491,2025-01-10,Consumer,West,Organic
+C11492,2024-01-13,Small Business,West,Paid Search
+C11493,2024-08-25,Corporate,South,Paid Search
+C11494,2025-05-29,Consumer,East,Social
+C11495,2024-11-29,Consumer,West,Organic
+C11496,2025-01-29,Consumer,West,Organic
+C11497,2024-07-04,Consumer,South,Paid Search
+C11498,2024-08-11,Corporate,East,Social
+C11499,2024-04-01,Consumer,South,Social
+C11500,2024-02-27,Consumer,West,Organic
+C11501,2024-01-26,Consumer,West,Organic
+C11502,2025-03-13,Corporate,West,Social
+C11503,2024-04-20,Consumer,North,Organic
+C11504,2025-02-05,Consumer,North,Social
+C11505,2025-10-29,Small Business,West,Paid Search
+C11506,2025-05-03,Consumer,East,Organic
+C11507,2025-02-06,Consumer,West,Paid Search
+C11508,2024-03-22,Small Business,South,Organic
+C11509,2024-12-08,Consumer,West,Social
+C11510,2025-09-15,Small Business,East,Organic
+C11511,2024-09-26,Corporate,North,Paid Search
+C11512,2025-08-01,Corporate,North,Paid Search
+C11513,2025-05-10,Consumer,East,Organic
+C11514,2024-07-05,Consumer,North,Social
+C11515,2024-04-08,Consumer,West,Referral
+C11516,2024-01-12,Consumer,East,Email
+C11517,2024-07-12,Consumer,South,Organic
+C11518,2024-08-21,Consumer,South,Organic
+C11519,2025-04-04,Corporate,West,Paid Search
+C11520,2025-02-04,Consumer,West,Email
+C11521,2024-12-01,Corporate,West,Paid Search
+C11522,2025-05-21,Small Business,West,Paid Search
+C11523,2025-06-23,Corporate,East,Social
+C11524,2025-05-14,Small Business,West,Organic
+C11525,2025-09-19,Corporate,East,Paid Search
+C11526,2024-09-08,Consumer,East,Paid Search
+C11527,2025-07-30,Consumer,South,Social
+C11528,2024-10-21,Small Business,South,Social
+C11529,2024-05-08,Corporate,West,Paid Search
+C11530,2024-04-12,Small Business,South,Social
+C11531,2024-03-05,Small Business,West,Paid Search
+C11532,2025-10-30,Consumer,West,Organic
+C11533,2024-04-28,Consumer,South,Email
+C11534,2025-08-07,Corporate,North,Referral
+C11535,2025-07-02,Consumer,East,Email
+C11536,2024-11-03,Consumer,North,Social
+C11537,2025-10-01,Small Business,West,Organic
+C11538,2025-09-27,Corporate,East,Paid Search
+C11539,2025-10-09,Consumer,South,Paid Search
+C11540,2024-12-13,Corporate,East,Organic
+C11541,2024-07-27,Consumer,South,Paid Search
+C11542,2024-01-31,Small Business,South,Paid Search
+C11543,2025-08-11,Consumer,South,Organic
+C11544,2025-09-03,Small Business,South,Referral
+C11545,2025-01-10,Consumer,West,Organic
+C11546,2024-02-19,Consumer,North,Paid Search
+C11547,2025-07-29,Consumer,South,Referral
+C11548,2024-07-27,Consumer,North,Social
+C11549,2025-01-18,Consumer,South,Organic
+C11550,2025-04-06,Small Business,North,Social
+C11551,2024-04-12,Small Business,West,Referral
+C11552,2024-02-13,Consumer,North,Email
+C11553,2024-02-25,Corporate,East,Paid Search
+C11554,2025-11-02,Small Business,South,Organic
+C11555,2025-11-01,Small Business,South,Social
+C11556,2024-10-25,Consumer,North,Organic
+C11557,2024-10-25,Consumer,West,Referral
+C11558,2024-10-11,Small Business,West,Social
+C11559,2024-09-02,Consumer,South,Referral
+C11560,2025-01-15,Consumer,West,Email
+C11561,2024-09-06,Small Business,South,Social
+C11562,2025-03-07,Consumer,East,Email
+C11563,2024-09-22,Small Business,East,Social
+C11564,2025-03-16,Consumer,North,Organic
+C11565,2025-10-23,Corporate,South,Referral
+C11566,2024-05-24,Small Business,North,Social
+C11567,2024-02-13,Small Business,East,Email
+C11568,2025-01-03,Small Business,South,Organic
+C11569,2024-03-24,Small Business,West,Paid Search
+C11570,2024-06-10,Consumer,South,Referral
+C11571,2025-07-06,Small Business,West,Organic
+C11572,2024-10-19,Small Business,North,Social
+C11573,2025-01-19,Consumer,East,Paid Search
+C11574,2025-06-27,Consumer,South,Organic
+C11575,2024-03-30,Consumer,North,Organic
+C11576,2024-12-01,Consumer,North,Referral
+C11577,2024-01-25,Corporate,East,Organic
+C11578,2024-12-15,Consumer,South,Social
+C11579,2024-06-05,Consumer,East,Social
+C11580,2025-09-29,Consumer,West,Social
+C11581,2024-07-01,Consumer,South,Paid Search
+C11582,2024-05-20,Small Business,North,Organic
+C11583,2024-01-10,Consumer,North,Referral
+C11584,2024-04-03,Consumer,North,Organic
+C11585,2024-05-31,Consumer,South,Organic
+C11586,2024-06-08,Small Business,West,Email
+C11587,2025-05-31,Small Business,South,Paid Search
+C11588,2025-09-13,Consumer,North,Organic
+C11589,2025-08-21,Consumer,East,Email
+C11590,2025-10-31,Consumer,South,Organic
+C11591,2025-09-20,Consumer,East,Organic
+C11592,2024-11-14,Corporate,West,Paid Search
+C11593,2024-09-29,Consumer,South,Referral
+C11594,2025-03-30,Consumer,South,Email
+C11595,2024-08-11,Consumer,West,Referral
+C11596,2025-02-26,Consumer,East,Email
+C11597,2025-11-30,Consumer,West,Organic
+C11598,2024-05-18,Consumer,West,Social
+C11599,2025-06-22,Consumer,East,Organic
+C11600,2025-10-16,Consumer,East,Email
+C11601,2025-01-11,Consumer,East,Email
+C11602,2024-09-06,Small Business,East,Paid Search
+C11603,2024-06-27,Consumer,East,Referral
+C11604,2024-04-27,Consumer,South,Social
+C11605,2024-08-12,Consumer,West,Organic
+C11606,2025-06-06,Small Business,South,Social
+C11607,2024-12-26,Small Business,North,Email
+C11608,2024-06-04,Small Business,South,Paid Search
+C11609,2025-01-14,Corporate,South,Organic
+C11610,2025-07-20,Small Business,East,Email
+C11611,2024-01-10,Consumer,South,Paid Search
+C11612,2024-01-15,Small Business,East,Paid Search
+C11613,2025-11-02,Small Business,South,Social
+C11614,2025-06-07,Consumer,North,Social
+C11615,2025-02-06,Consumer,South,Paid Search
+C11616,2025-09-26,Consumer,East,Organic
+C11617,2025-02-16,Consumer,West,Referral
+C11618,2024-12-30,Small Business,South,Paid Search
+C11619,2024-05-28,Consumer,South,Social
+C11620,2025-07-21,Corporate,South,Email
+C11621,2025-06-19,Small Business,North,Organic
+C11622,2024-07-25,Consumer,North,Email
+C11623,2025-05-31,Consumer,West,Referral
+C11624,2025-05-23,Corporate,North,Email
+C11625,2024-03-07,Small Business,North,Organic
+C11626,2024-04-22,Consumer,West,Paid Search
+C11627,2025-02-20,Consumer,East,Social
+C11628,2025-03-12,Corporate,South,Email
+C11629,2025-04-05,Small Business,East,Email
+C11630,2024-09-18,Consumer,West,Paid Search
+C11631,2025-08-07,Consumer,North,Paid Search
+C11632,2024-11-07,Small Business,South,Organic
+C11633,2024-05-24,Consumer,West,Social
+C11634,2024-03-21,Consumer,West,Referral
+C11635,2025-09-06,Consumer,West,Referral
+C11636,2025-05-10,Consumer,South,Paid Search
+C11637,2024-11-19,Consumer,West,Email
+C11638,2024-05-26,Corporate,South,Organic
+C11639,2024-03-08,Corporate,East,Paid Search
+C11640,2024-04-16,Consumer,West,Social
+C11641,2024-03-14,Consumer,North,Paid Search
+C11642,2025-01-05,Consumer,North,Referral
+C11643,2024-05-18,Corporate,East,Social
+C11644,2024-03-30,Small Business,West,Organic
+C11645,2024-07-16,Small Business,North,Organic
+C11646,2025-05-04,Corporate,West,Paid Search
+C11647,2024-12-13,Small Business,South,Social
+C11648,2024-04-17,Small Business,South,Paid Search
+C11649,2025-06-08,Consumer,South,Paid Search
+C11650,2024-12-08,Small Business,West,Organic
+C11651,2024-05-10,Small Business,North,Referral
+C11652,2025-04-28,Consumer,East,Paid Search
+C11653,2025-11-25,Consumer,North,Paid Search
+C11654,2025-01-13,Corporate,West,Paid Search
+C11655,2024-04-23,Consumer,West,Organic
+C11656,2024-08-04,Corporate,South,Organic
+C11657,2025-02-23,Consumer,South,Organic
+C11658,2025-11-30,Consumer,South,Social
+C11659,2025-10-12,Consumer,South,Organic
+C11660,2025-10-15,Small Business,West,Organic
+C11661,2025-08-05,Consumer,East,Email
+C11662,2025-02-06,Corporate,South,Paid Search
+C11663,2025-03-29,Consumer,East,Paid Search
+C11664,2025-05-28,Consumer,South,Paid Search
+C11665,2025-05-15,Consumer,North,Organic
+C11666,2025-03-23,Consumer,North,Organic
+C11667,2024-04-03,Corporate,South,Email
+C11668,2025-09-07,Corporate,East,Paid Search
+C11669,2024-01-07,Consumer,North,Social
+C11670,2024-10-25,Consumer,East,Email
+C11671,2024-10-30,Corporate,South,Organic
+C11672,2025-11-28,Corporate,East,Social
+C11673,2024-03-03,Consumer,North,Organic
+C11674,2024-11-29,Small Business,South,Paid Search
+C11675,2024-09-07,Consumer,North,Referral
+C11676,2024-03-09,Consumer,South,Organic
+C11677,2024-06-05,Corporate,North,Email
+C11678,2024-10-22,Corporate,South,Social
+C11679,2025-10-03,Small Business,West,Paid Search
+C11680,2024-09-28,Consumer,North,Organic
+C11681,2025-09-08,Consumer,West,Social
+C11682,2025-05-28,Corporate,East,Paid Search
+C11683,2025-07-27,Consumer,South,Organic
+C11684,2025-08-20,Consumer,East,Paid Search
+C11685,2025-05-14,Corporate,South,Organic
+C11686,2025-05-28,Consumer,East,Email
+C11687,2024-04-17,Consumer,West,Paid Search
+C11688,2025-05-16,Consumer,West,Paid Search
+C11689,2024-02-03,Small Business,South,Referral
+C11690,2025-05-31,Consumer,East,Social
+C11691,2025-04-02,Consumer,North,Email
+C11692,2025-06-13,Consumer,South,Email
+C11693,2025-03-25,Consumer,North,Organic
+C11694,2024-09-15,Consumer,North,Paid Search
+C11695,2024-09-15,Corporate,East,Social
+C11696,2025-02-21,Consumer,West,Organic
+C11697,2024-11-26,Consumer,North,Social
+C11698,2024-08-26,Consumer,East,Organic
+C11699,2024-12-08,Consumer,East,Email
+C11700,2025-01-10,Consumer,West,Social
+C11701,2024-06-16,Corporate,East,Social
+C11702,2025-03-22,Corporate,North,Paid Search
+C11703,2024-08-07,Corporate,North,Email
+C11704,2024-07-06,Consumer,East,Social
+C11705,2024-10-19,Small Business,North,Referral
+C11706,2024-03-13,Corporate,West,Referral
+C11707,2025-02-26,Consumer,West,Organic
+C11708,2025-05-28,Consumer,West,Organic
+C11709,2025-10-31,Small Business,South,Organic
+C11710,2024-07-17,Consumer,East,Social
+C11711,2025-01-11,Consumer,East,Social
+C11712,2024-12-18,Corporate,North,Paid Search
+C11713,2025-05-26,Consumer,South,Email
+C11714,2025-03-13,Small Business,North,Organic
+C11715,2025-07-18,Consumer,South,Referral
+C11716,2025-08-18,Consumer,West,Paid Search
+C11717,2024-03-20,Consumer,West,Paid Search
+C11718,2024-09-05,Consumer,South,Organic
+C11719,2025-04-02,Small Business,East,Social
+C11720,2025-01-15,Small Business,North,Referral
+C11721,2024-12-03,Small Business,South,Paid Search
+C11722,2024-05-01,Consumer,North,Paid Search
+C11723,2025-02-04,Consumer,East,Social
+C11724,2025-06-02,Consumer,East,Paid Search
+C11725,2024-01-27,Consumer,West,Social
+C11726,2025-02-18,Small Business,West,Paid Search
+C11727,2025-09-26,Consumer,North,Email
+C11728,2025-02-05,Consumer,West,Social
+C11729,2025-10-28,Consumer,North,Organic
+C11730,2024-09-03,Small Business,South,Referral
+C11731,2024-01-03,Consumer,South,Paid Search
+C11732,2025-04-22,Corporate,North,Email
+C11733,2024-05-28,Corporate,North,Social
+C11734,2024-01-07,Small Business,South,Organic
+C11735,2024-05-06,Consumer,North,Social
+C11736,2025-10-15,Consumer,West,Organic
+C11737,2025-06-30,Consumer,South,Email
+C11738,2024-07-11,Small Business,South,Email
+C11739,2025-02-22,Small Business,West,Social
+C11740,2024-08-25,Consumer,East,Paid Search
+C11741,2024-05-04,Consumer,South,Social
+C11742,2025-11-22,Consumer,West,Paid Search
+C11743,2025-07-23,Corporate,South,Organic
+C11744,2024-09-11,Consumer,North,Email
+C11745,2024-09-04,Consumer,East,Paid Search
+C11746,2025-07-24,Small Business,South,Paid Search
+C11747,2024-11-18,Consumer,West,Organic
+C11748,2024-09-20,Consumer,North,Email
+C11749,2024-09-28,Consumer,East,Email
+C11750,2024-11-08,Consumer,East,Paid Search
+C11751,2024-12-30,Corporate,West,Organic
+C11752,2024-01-29,Consumer,North,Referral
+C11753,2024-12-02,Consumer,South,Paid Search
+C11754,2024-11-03,Consumer,West,Email
+C11755,2024-07-11,Consumer,East,Email
+C11756,2024-09-05,Corporate,North,Referral
+C11757,2024-10-24,Corporate,North,Organic
+C11758,2024-09-13,Consumer,West,Social
+C11759,2025-09-27,Consumer,East,Email
+C11760,2025-01-04,Consumer,East,Paid Search
+C11761,2024-12-18,Consumer,West,Email
+C11762,2024-07-03,Consumer,South,Paid Search
+C11763,2025-10-03,Small Business,North,Email
+C11764,2024-01-17,Consumer,East,Social
+C11765,2025-01-20,Consumer,West,Organic
+C11766,2024-04-28,Consumer,South,Paid Search
+C11767,2025-06-22,Small Business,East,Organic
+C11768,2024-09-21,Consumer,North,Paid Search
+C11769,2024-07-24,Small Business,North,Email
+C11770,2024-02-10,Consumer,West,Organic
+C11771,2025-07-07,Small Business,North,Email
+C11772,2024-10-04,Corporate,North,Organic
+C11773,2024-07-04,Consumer,West,Social
+C11774,2025-08-14,Consumer,South,Email
+C11775,2024-01-14,Consumer,South,Social
+C11776,2024-11-24,Small Business,West,Email
+C11777,2024-04-22,Small Business,North,Email
+C11778,2024-03-29,Consumer,East,Social
+C11779,2024-01-16,Consumer,South,Referral
+C11780,2024-05-10,Consumer,North,Organic
+C11781,2025-10-24,Consumer,East,Paid Search
+C11782,2024-11-07,Corporate,South,Organic
+C11783,2025-11-30,Consumer,West,Referral
+C11784,2024-07-06,Consumer,West,Social
+C11785,2025-06-17,Small Business,West,Social
+C11786,2024-03-03,Corporate,South,Email
+C11787,2024-03-16,Small Business,South,Organic
+C11788,2024-01-12,Consumer,West,Email
+C11789,2025-09-21,Small Business,South,Organic
+C11790,2025-04-15,Consumer,East,Paid Search
+C11791,2025-06-04,Consumer,West,Social
+C11792,2025-10-11,Consumer,South,Paid Search
+C11793,2024-08-20,Small Business,North,Social
+C11794,2025-05-20,Consumer,East,Referral
+C11795,2024-12-17,Small Business,East,Referral
+C11796,2025-01-14,Corporate,South,Organic
+C11797,2025-04-08,Small Business,East,Organic
+C11798,2024-11-24,Corporate,West,Organic
+C11799,2024-01-17,Small Business,South,Paid Search
+C11800,2024-02-22,Consumer,South,Organic
+C11801,2024-12-17,Consumer,West,Paid Search
+C11802,2025-02-02,Corporate,West,Referral
+C11803,2025-05-27,Consumer,West,Email
+C11804,2025-02-04,Consumer,North,Referral
+C11805,2024-05-11,Corporate,West,Organic
+C11806,2024-09-13,Consumer,West,Social
+C11807,2024-11-06,Small Business,East,Organic
+C11808,2025-11-19,Consumer,South,Paid Search
+C11809,2025-01-07,Small Business,North,Paid Search
+C11810,2025-03-20,Consumer,South,Email
+C11811,2025-05-29,Corporate,South,Social
+C11812,2024-09-10,Small Business,South,Organic
+C11813,2025-11-06,Consumer,West,Social
+C11814,2025-04-17,Consumer,North,Email
+C11815,2025-08-16,Consumer,West,Organic
+C11816,2025-06-08,Consumer,South,Referral
+C11817,2025-03-11,Consumer,West,Organic
+C11818,2024-01-22,Consumer,South,Organic
+C11819,2025-02-12,Small Business,East,Email
+C11820,2024-03-31,Consumer,East,Organic
+C11821,2025-02-26,Consumer,West,Social
+C11822,2025-05-05,Consumer,North,Organic
+C11823,2025-01-16,Consumer,North,Social
+C11824,2024-08-03,Consumer,West,Social
+C11825,2024-02-11,Small Business,North,Email
+C11826,2025-04-14,Corporate,East,Referral
+C11827,2025-05-03,Consumer,North,Social
+C11828,2024-11-30,Small Business,North,Paid Search
+C11829,2025-05-16,Consumer,East,Organic
+C11830,2025-06-29,Consumer,East,Social
+C11831,2024-12-24,Corporate,East,Paid Search
+C11832,2024-02-03,Consumer,South,Organic
+C11833,2025-09-01,Consumer,West,Email
+C11834,2024-11-22,Small Business,West,Paid Search
+C11835,2025-04-15,Consumer,South,Organic
+C11836,2025-09-29,Consumer,South,Email
+C11837,2024-09-10,Consumer,South,Social
+C11838,2025-03-11,Small Business,West,Social
+C11839,2024-01-14,Corporate,South,Organic
+C11840,2025-09-11,Small Business,East,Paid Search
+C11841,2024-02-11,Consumer,South,Social
+C11842,2025-01-13,Small Business,East,Organic
+C11843,2024-09-03,Consumer,West,Social
+C11844,2024-01-26,Consumer,South,Organic
+C11845,2024-11-19,Consumer,South,Organic
+C11846,2025-10-16,Small Business,South,Organic
+C11847,2024-04-26,Consumer,South,Organic
+C11848,2024-07-23,Corporate,South,Organic
+C11849,2024-05-12,Consumer,West,Referral
+C11850,2024-03-28,Consumer,South,Social
+C11851,2024-06-10,Small Business,North,Organic
+C11852,2025-02-04,Small Business,South,Social
+C11853,2025-06-30,Consumer,East,Organic
+C11854,2025-04-28,Corporate,West,Paid Search
+C11855,2025-06-23,Consumer,South,Email
+C11856,2025-05-15,Corporate,South,Social
+C11857,2024-09-25,Consumer,South,Social
+C11858,2025-09-22,Consumer,West,Organic
+C11859,2024-04-30,Consumer,West,Organic
+C11860,2025-05-04,Consumer,North,Referral
+C11861,2024-03-18,Consumer,East,Social
+C11862,2025-06-19,Consumer,West,Social
+C11863,2024-03-01,Small Business,West,Email
+C11864,2024-05-31,Consumer,South,Paid Search
+C11865,2024-09-30,Consumer,West,Referral
+C11866,2025-05-01,Consumer,East,Social
+C11867,2024-02-01,Corporate,North,Organic
+C11868,2024-06-29,Consumer,North,Organic
+C11869,2024-08-21,Consumer,South,Social
+C11870,2025-05-26,Corporate,North,Organic
+C11871,2025-11-04,Consumer,South,Social
+C11872,2025-03-05,Small Business,West,Social
+C11873,2024-12-21,Consumer,West,Paid Search
+C11874,2024-08-23,Corporate,North,Paid Search
+C11875,2025-07-29,Consumer,North,Social
+C11876,2024-03-16,Corporate,East,Paid Search
+C11877,2024-03-31,Small Business,South,Email
+C11878,2024-05-20,Consumer,North,Organic
+C11879,2024-07-06,Consumer,West,Email
+C11880,2024-11-19,Consumer,North,Organic
+C11881,2025-10-24,Consumer,North,Organic
+C11882,2025-03-31,Small Business,West,Social
+C11883,2024-09-25,Consumer,East,Organic
+C11884,2024-05-28,Corporate,South,Organic
+C11885,2025-03-29,Small Business,East,Organic
+C11886,2024-06-26,Small Business,West,Social
+C11887,2025-11-14,Small Business,North,Social
+C11888,2024-11-30,Consumer,East,Organic
+C11889,2025-01-20,Consumer,North,Paid Search
+C11890,2025-09-24,Consumer,South,Organic
+C11891,2024-08-01,Consumer,South,Email
+C11892,2024-11-26,Consumer,South,Organic
+C11893,2025-01-07,Consumer,North,Social
+C11894,2024-07-08,Consumer,West,Paid Search
+C11895,2024-02-08,Consumer,South,Social
+C11896,2024-07-17,Consumer,West,Email
+C11897,2024-03-19,Consumer,South,Paid Search
+C11898,2025-04-17,Consumer,West,Social
+C11899,2024-01-06,Consumer,East,Paid Search
+C11900,2024-08-09,Corporate,South,Social
+C11901,2025-09-10,Corporate,East,Paid Search
+C11902,2025-02-02,Consumer,West,Organic
+C11903,2025-04-14,Consumer,South,Organic
+C11904,2025-04-12,Consumer,South,Organic
+C11905,2024-07-27,Consumer,East,Email
+C11906,2025-03-18,Consumer,East,Referral
+C11907,2024-06-03,Small Business,South,Organic
+C11908,2025-03-20,Consumer,West,Paid Search
+C11909,2025-04-23,Consumer,South,Social
+C11910,2025-09-05,Corporate,South,Paid Search
+C11911,2025-10-05,Consumer,East,Paid Search
+C11912,2024-01-17,Consumer,West,Social
+C11913,2024-07-28,Consumer,South,Organic
+C11914,2025-01-17,Small Business,South,Paid Search
+C11915,2024-08-13,Consumer,North,Organic
+C11916,2025-03-09,Corporate,East,Organic
+C11917,2025-08-20,Small Business,South,Social
+C11918,2024-06-29,Consumer,South,Social
+C11919,2025-09-17,Corporate,North,Email
+C11920,2025-09-09,Consumer,West,Organic
+C11921,2025-10-01,Consumer,South,Social
+C11922,2024-02-21,Consumer,East,Email
+C11923,2024-07-24,Small Business,North,Social
+C11924,2024-03-27,Consumer,North,Email
+C11925,2024-03-25,Consumer,North,Email
+C11926,2024-02-07,Small Business,South,Referral
+C11927,2024-11-03,Consumer,South,Email
+C11928,2024-03-02,Small Business,South,Social
+C11929,2024-07-26,Corporate,South,Paid Search
+C11930,2025-11-17,Consumer,North,Email
+C11931,2025-09-10,Small Business,South,Referral
+C11932,2025-10-17,Corporate,North,Organic
+C11933,2024-01-26,Consumer,North,Paid Search
+C11934,2025-04-07,Small Business,North,Organic
+C11935,2025-03-19,Small Business,East,Email
+C11936,2024-04-02,Small Business,West,Organic
+C11937,2025-09-26,Corporate,East,Paid Search
+C11938,2024-10-10,Consumer,North,Paid Search
+C11939,2025-11-14,Consumer,West,Organic
+C11940,2024-03-20,Consumer,West,Email
+C11941,2025-03-31,Consumer,South,Paid Search
+C11942,2024-04-01,Corporate,North,Organic
+C11943,2025-10-26,Corporate,West,Organic
+C11944,2025-03-01,Consumer,West,Referral
+C11945,2024-02-22,Consumer,West,Social
+C11946,2024-05-30,Corporate,East,Paid Search
+C11947,2024-09-08,Consumer,East,Paid Search
+C11948,2024-01-10,Small Business,West,Email
+C11949,2024-01-07,Corporate,North,Referral
+C11950,2025-10-09,Consumer,North,Social
+C11951,2025-11-17,Consumer,West,Paid Search
+C11952,2025-01-10,Corporate,North,Email
+C11953,2025-09-23,Consumer,South,Social
+C11954,2025-04-03,Small Business,South,Paid Search
+C11955,2024-01-20,Consumer,South,Email
+C11956,2025-05-15,Consumer,North,Email
+C11957,2024-01-13,Consumer,East,Social
+C11958,2025-07-25,Corporate,South,Referral
+C11959,2024-09-13,Small Business,East,Paid Search
+C11960,2024-04-08,Small Business,South,Paid Search
+C11961,2024-06-29,Consumer,West,Organic
+C11962,2025-04-23,Small Business,East,Social
+C11963,2025-08-15,Consumer,West,Paid Search
+C11964,2025-02-03,Consumer,South,Paid Search
+C11965,2024-04-22,Small Business,North,Email
+C11966,2025-09-22,Consumer,West,Organic
+C11967,2025-07-07,Small Business,West,Referral
+C11968,2024-10-13,Consumer,North,Organic
+C11969,2025-01-23,Consumer,East,Organic
+C11970,2025-11-05,Consumer,East,Organic
+C11971,2024-09-21,Small Business,North,Paid Search
+C11972,2024-01-19,Consumer,East,Paid Search
+C11973,2024-04-12,Small Business,South,Paid Search
+C11974,2025-02-24,Consumer,North,Social
+C11975,2025-11-29,Corporate,West,Paid Search
+C11976,2025-06-01,Consumer,South,Organic
+C11977,2025-03-08,Consumer,West,Paid Search
+C11978,2024-08-14,Corporate,West,Organic
+C11979,2024-11-03,Corporate,West,Organic
+C11980,2024-01-27,Consumer,South,Organic
+C11981,2024-09-16,Consumer,South,Social
+C11982,2025-03-12,Consumer,South,Social
+C11983,2025-09-26,Small Business,East,Email
+C11984,2025-10-07,Corporate,South,Referral
+C11985,2025-07-28,Small Business,West,Paid Search
+C11986,2024-01-16,Corporate,South,Paid Search
+C11987,2025-07-21,Small Business,North,Organic
+C11988,2024-06-02,Consumer,West,Social
+C11989,2025-03-07,Consumer,West,Organic
+C11990,2025-10-24,Corporate,South,Organic
+C11991,2025-09-13,Consumer,East,Email
+C11992,2025-04-10,Consumer,South,Organic
+C11993,2024-07-28,Corporate,West,Organic
+C11994,2024-12-30,Small Business,South,Email
+C11995,2025-05-07,Corporate,East,Paid Search
+C11996,2024-12-25,Consumer,North,Paid Search
+C11997,2024-10-10,Small Business,North,Organic
+C11998,2024-10-08,Consumer,West,Paid Search
+C11999,2025-02-23,Consumer,South,Email
+C12000,2024-01-26,Small Business,North,Social
+C12001,2025-11-29,Small Business,North,Paid Search
+C12002,2024-03-12,Small Business,South,Paid Search
+C12003,2025-11-20,Small Business,East,Paid Search
+C12004,2024-01-25,Corporate,South,Social
+C12005,2024-12-24,Consumer,West,Organic
+C12006,2024-10-19,Consumer,West,Organic
+C12007,2025-02-05,Small Business,South,Social
+C12008,2024-10-30,Small Business,West,Email
+C12009,2025-09-20,Consumer,North,Email
+C12010,2024-01-12,Consumer,South,Referral
+C12011,2025-11-20,Consumer,North,Paid Search
+C12012,2025-04-27,Consumer,North,Referral
+C12013,2025-06-29,Small Business,North,Email
+C12014,2024-04-07,Consumer,North,Organic
+C12015,2024-02-15,Consumer,West,Paid Search
+C12016,2024-10-04,Small Business,East,Organic
+C12017,2024-08-13,Consumer,West,Email
+C12018,2025-07-02,Consumer,East,Email
+C12019,2025-09-19,Consumer,East,Referral
+C12020,2024-10-26,Consumer,North,Organic
+C12021,2025-06-21,Consumer,East,Email
+C12022,2024-02-11,Consumer,South,Organic
+C12023,2025-06-03,Consumer,West,Organic
+C12024,2024-03-10,Consumer,West,Social
+C12025,2025-04-12,Consumer,North,Referral
+C12026,2024-09-24,Consumer,East,Email
+C12027,2024-10-17,Small Business,East,Paid Search
+C12028,2024-07-12,Consumer,East,Paid Search
+C12029,2024-10-09,Consumer,North,Paid Search
+C12030,2025-09-04,Small Business,East,Organic
+C12031,2025-07-20,Consumer,West,Email
+C12032,2024-08-26,Consumer,South,Paid Search
+C12033,2024-07-24,Small Business,South,Organic
+C12034,2024-12-22,Consumer,North,Paid Search
+C12035,2025-04-24,Consumer,West,Social
+C12036,2024-05-07,Corporate,North,Email
+C12037,2025-05-23,Corporate,North,Organic
+C12038,2025-10-26,Consumer,South,Organic
+C12039,2025-08-14,Consumer,West,Email
+C12040,2025-01-18,Consumer,East,Social
+C12041,2024-08-11,Small Business,North,Paid Search
+C12042,2024-08-14,Consumer,North,Organic
+C12043,2025-06-03,Consumer,West,Email
+C12044,2024-11-14,Consumer,South,Social
+C12045,2024-03-15,Small Business,North,Organic
+C12046,2025-04-19,Consumer,West,Organic
+C12047,2024-04-06,Consumer,North,Organic
+C12048,2025-11-21,Consumer,South,Organic
+C12049,2024-10-19,Corporate,South,Organic
+C12050,2024-08-27,Consumer,West,Organic
+C12051,2024-02-08,Small Business,West,Organic
+C12052,2024-04-27,Consumer,South,Paid Search
+C12053,2025-10-25,Consumer,East,Paid Search
+C12054,2025-01-10,Consumer,West,Paid Search
+C12055,2025-09-23,Consumer,West,Referral
+C12056,2025-10-31,Consumer,South,Organic
+C12057,2024-02-04,Small Business,South,Email
+C12058,2024-09-23,Consumer,West,Email
+C12059,2025-08-09,Corporate,North,Email
+C12060,2024-12-12,Consumer,North,Organic
+C12061,2024-12-22,Consumer,North,Organic
+C12062,2025-02-03,Consumer,West,Social
+C12063,2025-05-06,Consumer,North,Organic
+C12064,2025-10-19,Consumer,South,Organic
+C12065,2025-09-12,Small Business,East,Organic
+C12066,2025-03-13,Small Business,North,Social
+C12067,2025-02-07,Small Business,South,Referral
+C12068,2024-09-09,Small Business,South,Organic
+C12069,2024-03-22,Consumer,South,Email
+C12070,2025-05-11,Consumer,West,Referral
+C12071,2024-01-02,Consumer,North,Organic
+C12072,2025-05-03,Small Business,West,Paid Search
+C12073,2024-12-13,Consumer,South,Organic
+C12074,2025-07-04,Consumer,North,Email
+C12075,2025-10-26,Corporate,North,Social
+C12076,2025-01-22,Consumer,South,Social
+C12077,2025-02-04,Corporate,South,Social
+C12078,2024-12-07,Consumer,South,Organic
+C12079,2024-09-18,Corporate,West,Email
+C12080,2024-03-03,Small Business,South,Email
+C12081,2024-01-22,Corporate,West,Social
+C12082,2025-05-21,Consumer,North,Paid Search
+C12083,2025-10-02,Consumer,North,Organic
+C12084,2024-02-07,Consumer,East,Organic
+C12085,2024-08-17,Consumer,South,Organic
+C12086,2025-03-01,Consumer,North,Social
+C12087,2025-05-08,Consumer,North,Referral
+C12088,2025-05-29,Consumer,North,Email
+C12089,2025-04-30,Consumer,West,Organic
+C12090,2024-02-28,Small Business,South,Organic
+C12091,2024-06-26,Consumer,West,Organic
+C12092,2024-11-24,Consumer,North,Email
+C12093,2024-02-14,Consumer,South,Referral
+C12094,2024-08-28,Consumer,South,Paid Search
+C12095,2024-09-26,Small Business,South,Social
+C12096,2025-11-15,Consumer,West,Social
+C12097,2024-08-09,Corporate,West,Organic
+C12098,2025-11-10,Corporate,North,Organic
+C12099,2025-05-05,Small Business,South,Organic
+C12100,2025-04-29,Corporate,West,Organic
+C12101,2025-07-27,Small Business,North,Social
+C12102,2025-08-12,Consumer,East,Paid Search
+C12103,2024-06-04,Consumer,South,Social
+C12104,2024-10-21,Corporate,South,Social
+C12105,2025-01-04,Consumer,South,Paid Search
+C12106,2025-11-14,Consumer,South,Email
+C12107,2024-01-29,Consumer,West,Paid Search
+C12108,2024-11-29,Consumer,East,Social
+C12109,2024-05-29,Consumer,West,Organic
+C12110,2024-05-24,Consumer,West,Social
+C12111,2025-06-17,Consumer,South,Paid Search
+C12112,2024-05-21,Consumer,South,Organic
+C12113,2025-07-09,Consumer,South,Organic
+C12114,2025-11-26,Corporate,West,Social
+C12115,2025-06-27,Consumer,North,Social
+C12116,2024-04-28,Corporate,West,Social
+C12117,2024-04-09,Consumer,East,Paid Search
+C12118,2024-11-01,Consumer,East,Social
+C12119,2025-01-20,Corporate,South,Social
+C12120,2025-06-28,Small Business,East,Organic
+C12121,2024-10-22,Corporate,East,Paid Search
+C12122,2024-04-26,Corporate,East,Paid Search
+C12123,2025-11-25,Corporate,North,Referral
+C12124,2025-09-25,Corporate,East,Paid Search
+C12125,2025-04-02,Corporate,South,Paid Search
+C12126,2025-05-01,Corporate,East,Email
+C12127,2025-10-16,Consumer,East,Email
+C12128,2024-11-28,Consumer,North,Organic
+C12129,2024-04-11,Consumer,West,Email
+C12130,2025-02-28,Consumer,South,Organic
+C12131,2024-11-11,Small Business,East,Email
+C12132,2025-07-13,Consumer,East,Organic
+C12133,2025-06-24,Consumer,East,Paid Search
+C12134,2024-11-26,Small Business,West,Email
+C12135,2024-09-14,Consumer,North,Organic
+C12136,2024-10-22,Small Business,North,Referral
+C12137,2025-03-18,Consumer,East,Paid Search
+C12138,2025-03-21,Consumer,South,Organic
+C12139,2024-12-24,Consumer,North,Email
+C12140,2025-01-07,Consumer,North,Paid Search
+C12141,2025-11-25,Consumer,South,Email
+C12142,2024-06-26,Consumer,West,Email
+C12143,2024-05-01,Consumer,North,Organic
+C12144,2025-07-13,Consumer,South,Organic
+C12145,2025-10-16,Small Business,West,Paid Search
+C12146,2025-03-02,Consumer,West,Paid Search
+C12147,2024-10-08,Consumer,South,Organic
+C12148,2024-08-31,Consumer,West,Paid Search
+C12149,2024-11-23,Small Business,North,Referral
+C12150,2024-02-06,Small Business,West,Organic
+C12151,2025-01-05,Small Business,North,Social
+C12152,2024-07-07,Small Business,South,Paid Search
+C12153,2024-07-04,Consumer,South,Organic
+C12154,2025-01-27,Corporate,East,Organic
+C12155,2025-11-05,Consumer,North,Organic
+C12156,2024-05-24,Small Business,South,Social
+C12157,2025-09-30,Consumer,East,Organic
+C12158,2024-12-29,Consumer,North,Referral
+C12159,2025-11-12,Small Business,West,Referral
+C12160,2024-09-24,Small Business,South,Organic
+C12161,2025-11-28,Small Business,North,Email
+C12162,2025-04-06,Consumer,South,Email
+C12163,2025-04-13,Consumer,South,Organic
+C12164,2025-01-29,Consumer,North,Email
+C12165,2024-11-12,Consumer,South,Organic
+C12166,2025-01-02,Consumer,East,Social
+C12167,2025-08-18,Consumer,South,Organic
+C12168,2025-07-08,Small Business,South,Referral
+C12169,2024-01-17,Consumer,West,Referral
+C12170,2025-05-01,Corporate,South,Email
+C12171,2025-08-07,Small Business,East,Email
+C12172,2025-06-04,Corporate,West,Organic
+C12173,2024-12-14,Consumer,South,Social
+C12174,2024-08-22,Consumer,East,Organic
+C12175,2025-04-16,Consumer,West,Organic
+C12176,2025-04-09,Corporate,East,Organic
+C12177,2024-09-18,Consumer,West,Email
+C12178,2024-10-11,Consumer,South,Social
+C12179,2024-09-15,Small Business,East,Organic
+C12180,2024-02-01,Corporate,South,Email
+C12181,2024-01-23,Small Business,North,Referral
+C12182,2024-02-28,Consumer,West,Paid Search
+C12183,2024-10-23,Small Business,South,Paid Search
+C12184,2024-12-23,Consumer,West,Social
+C12185,2024-10-12,Consumer,East,Social
+C12186,2025-10-30,Small Business,West,Paid Search
+C12187,2024-06-06,Small Business,West,Paid Search
+C12188,2024-10-02,Consumer,East,Organic
+C12189,2024-06-22,Consumer,West,Paid Search
+C12190,2024-07-28,Consumer,West,Paid Search
+C12191,2025-02-12,Small Business,East,Organic
+C12192,2024-08-04,Small Business,East,Organic
+C12193,2024-08-10,Consumer,North,Social
+C12194,2025-04-14,Consumer,North,Paid Search
+C12195,2025-08-04,Corporate,South,Paid Search
+C12196,2024-05-28,Corporate,South,Organic
+C12197,2024-03-18,Consumer,South,Email
+C12198,2024-06-16,Consumer,South,Organic
+C12199,2025-02-08,Small Business,East,Paid Search
+C12200,2025-11-02,Consumer,East,Organic
+C12201,2024-04-22,Consumer,West,Social
+C12202,2024-01-30,Corporate,West,Paid Search
+C12203,2025-01-04,Consumer,West,Paid Search
+C12204,2025-11-24,Small Business,East,Email
+C12205,2025-01-21,Corporate,North,Referral
+C12206,2025-10-09,Consumer,West,Paid Search
+C12207,2025-03-25,Consumer,North,Paid Search
+C12208,2024-01-23,Corporate,North,Email
+C12209,2024-10-26,Consumer,South,Email
+C12210,2025-06-23,Consumer,East,Social
+C12211,2024-12-22,Consumer,East,Referral
+C12212,2024-05-16,Consumer,North,Email
+C12213,2024-05-06,Small Business,West,Email
+C12214,2025-04-09,Corporate,North,Organic
+C12215,2024-11-20,Small Business,South,Email
+C12216,2025-02-05,Consumer,South,Social
+C12217,2024-09-18,Consumer,South,Social
+C12218,2024-08-25,Small Business,West,Paid Search
+C12219,2025-04-11,Consumer,North,Paid Search
+C12220,2024-01-06,Small Business,North,Referral
+C12221,2024-10-31,Consumer,North,Social
+C12222,2024-09-16,Consumer,West,Organic
+C12223,2025-06-29,Consumer,West,Social
+C12224,2025-05-24,Consumer,East,Organic
+C12225,2024-10-25,Consumer,East,Paid Search
+C12226,2024-07-02,Consumer,West,Social
+C12227,2024-06-14,Consumer,South,Social
+C12228,2024-05-27,Consumer,North,Organic
+C12229,2024-07-10,Small Business,South,Organic
+C12230,2025-06-16,Consumer,South,Organic
+C12231,2024-02-01,Small Business,South,Social
+C12232,2024-01-19,Consumer,South,Email
+C12233,2025-01-12,Consumer,South,Referral
+C12234,2024-06-05,Consumer,South,Social
+C12235,2025-08-04,Small Business,South,Paid Search
+C12236,2025-06-10,Corporate,North,Organic
+C12237,2025-06-22,Small Business,West,Email
+C12238,2024-11-15,Consumer,East,Paid Search
+C12239,2024-11-02,Corporate,North,Organic
+C12240,2024-10-24,Small Business,North,Paid Search
+C12241,2024-05-17,Small Business,North,Social
+C12242,2025-02-01,Consumer,North,Paid Search
+C12243,2025-08-27,Small Business,North,Organic
+C12244,2024-06-28,Consumer,North,Social
+C12245,2024-02-09,Small Business,West,Organic
+C12246,2025-01-30,Consumer,West,Paid Search
+C12247,2024-10-06,Consumer,West,Referral
+C12248,2025-07-12,Consumer,East,Email
+C12249,2025-08-22,Small Business,West,Paid Search
+C12250,2025-10-27,Consumer,West,Organic
+C12251,2024-10-02,Consumer,West,Paid Search
+C12252,2025-09-23,Consumer,West,Organic
+C12253,2024-03-23,Corporate,West,Email
+C12254,2024-09-17,Consumer,West,Social
+C12255,2024-07-05,Corporate,East,Paid Search
+C12256,2025-10-08,Consumer,North,Referral
+C12257,2025-02-24,Corporate,North,Paid Search
+C12258,2024-09-13,Corporate,South,Paid Search
+C12259,2024-04-16,Corporate,North,Email
+C12260,2025-07-02,Small Business,North,Organic
+C12261,2025-04-03,Consumer,North,Paid Search
+C12262,2025-08-20,Consumer,South,Email
+C12263,2024-11-02,Corporate,West,Paid Search
+C12264,2024-04-14,Consumer,South,Paid Search
+C12265,2024-08-22,Consumer,South,Organic
+C12266,2025-03-10,Small Business,South,Paid Search
+C12267,2024-06-17,Consumer,South,Paid Search
+C12268,2024-02-19,Consumer,East,Paid Search
+C12269,2025-07-30,Small Business,East,Organic
+C12270,2025-01-06,Consumer,North,Paid Search
+C12271,2024-10-04,Consumer,South,Social
+C12272,2025-01-21,Consumer,North,Email
+C12273,2025-05-31,Consumer,East,Social
+C12274,2024-01-01,Corporate,West,Social
+C12275,2024-11-04,Small Business,West,Referral
+C12276,2024-06-26,Consumer,North,Organic
+C12277,2024-03-05,Consumer,West,Paid Search
+C12278,2024-01-26,Consumer,West,Organic
+C12279,2024-11-04,Consumer,West,Paid Search
+C12280,2025-01-15,Corporate,South,Email
+C12281,2024-12-21,Corporate,South,Paid Search
+C12282,2025-07-02,Consumer,South,Email
+C12283,2024-11-16,Small Business,North,Organic
+C12284,2025-02-16,Small Business,East,Paid Search
+C12285,2025-07-25,Consumer,South,Paid Search
+C12286,2025-04-05,Corporate,South,Organic
+C12287,2025-09-29,Corporate,West,Paid Search
+C12288,2024-06-04,Consumer,South,Social
+C12289,2025-07-04,Consumer,West,Paid Search
+C12290,2025-05-02,Corporate,West,Referral
+C12291,2025-02-11,Small Business,West,Email
+C12292,2024-01-03,Consumer,West,Paid Search
+C12293,2025-01-14,Consumer,North,Email
+C12294,2025-08-23,Corporate,North,Organic
+C12295,2025-03-27,Consumer,West,Organic
+C12296,2024-01-04,Consumer,North,Paid Search
+C12297,2024-07-20,Consumer,South,Social
+C12298,2025-02-02,Small Business,East,Paid Search
+C12299,2025-07-22,Small Business,North,Social
+C12300,2024-11-07,Small Business,South,Email
+C12301,2025-08-22,Consumer,South,Organic
+C12302,2025-07-11,Consumer,South,Referral
+C12303,2024-07-06,Consumer,East,Social
+C12304,2024-05-16,Consumer,North,Paid Search
+C12305,2025-09-23,Consumer,South,Organic
+C12306,2025-02-16,Small Business,North,Paid Search
+C12307,2025-08-17,Corporate,East,Paid Search
+C12308,2025-10-07,Corporate,North,Referral
+C12309,2024-10-24,Consumer,North,Paid Search
+C12310,2024-02-02,Consumer,West,Organic
+C12311,2025-09-28,Consumer,South,Referral
+C12312,2025-02-12,Consumer,West,Social
+C12313,2024-03-25,Consumer,South,Email
+C12314,2025-01-05,Consumer,South,Paid Search
+C12315,2024-01-20,Small Business,South,Social
+C12316,2024-07-21,Consumer,West,Paid Search
+C12317,2024-08-31,Consumer,South,Social
+C12318,2024-11-14,Consumer,South,Paid Search
+C12319,2025-01-30,Corporate,East,Organic
+C12320,2025-08-10,Consumer,South,Email
+C12321,2024-09-03,Consumer,West,Social
+C12322,2025-05-29,Consumer,West,Social
+C12323,2025-10-21,Consumer,East,Paid Search
+C12324,2025-06-07,Corporate,South,Social
+C12325,2024-06-27,Consumer,South,Organic
+C12326,2025-04-19,Consumer,West,Paid Search
+C12327,2024-07-15,Small Business,South,Organic
+C12328,2024-11-30,Consumer,North,Organic
+C12329,2025-03-20,Corporate,West,Organic
+C12330,2024-07-24,Consumer,West,Referral
+C12331,2024-01-03,Corporate,South,Organic
+C12332,2025-08-09,Consumer,South,Referral
+C12333,2025-05-24,Consumer,East,Email
+C12334,2024-03-27,Consumer,West,Organic
+C12335,2024-09-21,Small Business,South,Social
+C12336,2024-07-02,Consumer,South,Paid Search
+C12337,2025-11-15,Small Business,South,Email
+C12338,2025-10-21,Small Business,South,Paid Search
+C12339,2025-04-28,Consumer,North,Paid Search
+C12340,2024-11-04,Consumer,West,Organic
+C12341,2024-02-06,Consumer,North,Email
+C12342,2024-06-21,Small Business,South,Organic
+C12343,2024-03-05,Corporate,West,Referral
+C12344,2025-07-06,Consumer,South,Organic
+C12345,2024-03-02,Consumer,South,Social
+C12346,2025-04-19,Small Business,West,Paid Search
+C12347,2025-10-28,Consumer,North,Organic
+C12348,2024-08-03,Consumer,West,Organic
+C12349,2025-04-23,Consumer,North,Organic
+C12350,2025-09-07,Consumer,South,Referral
+C12351,2024-10-26,Small Business,East,Social
+C12352,2024-11-10,Small Business,South,Organic
+C12353,2024-05-20,Consumer,East,Paid Search
+C12354,2024-10-26,Consumer,North,Organic
+C12355,2025-09-03,Small Business,East,Social
+C12356,2025-04-09,Consumer,North,Referral
+C12357,2024-05-21,Consumer,West,Email
+C12358,2025-01-03,Consumer,East,Email
+C12359,2025-05-09,Corporate,South,Paid Search
+C12360,2024-02-24,Small Business,North,Organic
+C12361,2025-06-18,Corporate,South,Email
+C12362,2024-05-20,Consumer,East,Organic
+C12363,2024-07-25,Corporate,South,Organic
+C12364,2024-10-18,Consumer,East,Paid Search
+C12365,2024-12-19,Small Business,North,Referral
+C12366,2025-10-03,Consumer,North,Social
+C12367,2024-06-05,Consumer,West,Email
+C12368,2024-06-28,Consumer,North,Paid Search
+C12369,2024-09-22,Consumer,South,Organic
+C12370,2025-08-23,Consumer,East,Paid Search
+C12371,2025-11-06,Consumer,West,Referral
+C12372,2024-11-14,Small Business,North,Organic
+C12373,2025-04-30,Small Business,North,Email
+C12374,2025-10-04,Consumer,South,Paid Search
+C12375,2025-08-15,Consumer,East,Referral
+C12376,2025-04-21,Consumer,South,Referral
+C12377,2025-01-13,Consumer,East,Paid Search
+C12378,2025-11-20,Consumer,West,Social
+C12379,2024-06-16,Small Business,West,Paid Search
+C12380,2024-09-10,Small Business,South,Referral
+C12381,2025-05-14,Consumer,North,Referral
+C12382,2024-01-15,Small Business,South,Social
+C12383,2024-12-16,Corporate,North,Organic
+C12384,2025-08-21,Consumer,South,Email
+C12385,2024-05-03,Corporate,West,Email
+C12386,2025-07-16,Consumer,South,Social
+C12387,2024-10-15,Consumer,North,Email
+C12388,2025-08-25,Small Business,East,Paid Search
+C12389,2025-03-20,Corporate,West,Paid Search
+C12390,2024-04-20,Consumer,North,Paid Search
+C12391,2025-05-29,Consumer,West,Organic
+C12392,2024-02-09,Small Business,West,Paid Search
+C12393,2024-06-19,Consumer,South,Social
+C12394,2025-09-13,Small Business,East,Organic
+C12395,2025-09-05,Small Business,South,Organic
+C12396,2024-02-02,Consumer,South,Social
+C12397,2024-09-22,Corporate,South,Referral
+C12398,2024-03-06,Corporate,North,Email
+C12399,2024-07-08,Small Business,East,Organic
+C12400,2025-11-08,Consumer,West,Referral
+C12401,2024-05-16,Consumer,South,Organic
+C12402,2025-03-25,Consumer,East,Organic
+C12403,2025-07-16,Corporate,South,Social
+C12404,2025-09-08,Small Business,North,Paid Search
+C12405,2024-09-04,Small Business,East,Referral
+C12406,2025-05-02,Consumer,North,Organic
+C12407,2024-12-04,Consumer,West,Organic
+C12408,2024-03-16,Consumer,South,Paid Search
+C12409,2024-06-04,Small Business,West,Organic
+C12410,2025-06-07,Consumer,South,Organic
+C12411,2025-04-25,Small Business,South,Organic
+C12412,2024-12-30,Consumer,West,Paid Search
+C12413,2025-06-30,Consumer,South,Referral
+C12414,2025-04-28,Small Business,North,Organic
+C12415,2024-08-25,Consumer,West,Social
+C12416,2024-07-24,Consumer,South,Social
+C12417,2025-10-23,Corporate,North,Paid Search
+C12418,2025-11-11,Consumer,South,Paid Search
+C12419,2024-01-22,Small Business,East,Social
+C12420,2025-07-07,Small Business,East,Email
+C12421,2024-04-03,Corporate,West,Organic
+C12422,2025-08-25,Consumer,East,Referral
+C12423,2025-02-16,Consumer,South,Organic
+C12424,2025-04-26,Small Business,South,Paid Search
+C12425,2025-05-05,Consumer,North,Paid Search
+C12426,2025-02-27,Small Business,West,Organic
+C12427,2024-06-24,Corporate,North,Organic
+C12428,2025-07-19,Consumer,East,Organic
+C12429,2025-01-22,Consumer,East,Organic
+C12430,2025-01-16,Corporate,West,Social
+C12431,2024-08-10,Consumer,North,Organic
+C12432,2024-01-08,Consumer,North,Referral
+C12433,2025-01-22,Corporate,West,Email
+C12434,2024-08-29,Consumer,East,Organic
+C12435,2025-04-06,Consumer,South,Organic
+C12436,2024-09-12,Corporate,West,Paid Search
+C12437,2025-11-11,Small Business,West,Email
+C12438,2025-04-21,Consumer,South,Paid Search
+C12439,2024-11-14,Small Business,West,Organic
+C12440,2025-05-10,Small Business,North,Email
+C12441,2025-03-29,Consumer,West,Paid Search
+C12442,2025-03-10,Consumer,North,Paid Search
+C12443,2025-02-08,Small Business,South,Email
+C12444,2025-10-14,Consumer,North,Email
+C12445,2024-08-10,Small Business,West,Paid Search
+C12446,2024-10-29,Consumer,West,Paid Search
+C12447,2024-06-26,Consumer,South,Paid Search
+C12448,2025-02-02,Consumer,South,Organic
+C12449,2025-11-22,Consumer,South,Paid Search
+C12450,2025-03-01,Small Business,North,Organic
+C12451,2024-05-24,Consumer,West,Social
+C12452,2025-10-07,Small Business,North,Referral
+C12453,2025-07-07,Consumer,West,Email
+C12454,2024-11-04,Small Business,West,Referral
+C12455,2024-04-12,Small Business,North,Organic
+C12456,2024-10-08,Consumer,East,Organic
+C12457,2025-07-17,Consumer,West,Paid Search
+C12458,2025-02-07,Small Business,West,Organic
+C12459,2024-05-10,Small Business,East,Organic
+C12460,2024-04-20,Consumer,North,Referral
+C12461,2025-11-08,Consumer,North,Paid Search
+C12462,2024-11-09,Small Business,West,Organic
+C12463,2025-04-25,Consumer,South,Paid Search
+C12464,2024-09-09,Corporate,East,Email
+C12465,2024-03-04,Consumer,West,Social
+C12466,2024-10-15,Consumer,South,Organic
+C12467,2025-04-30,Small Business,North,Paid Search
+C12468,2024-08-21,Consumer,South,Email
+C12469,2025-02-26,Small Business,West,Organic
+C12470,2024-11-02,Consumer,South,Social
+C12471,2024-08-24,Consumer,North,Social
+C12472,2024-06-27,Consumer,West,Social
+C12473,2024-07-01,Consumer,East,Organic
+C12474,2024-06-27,Small Business,East,Email
+C12475,2025-05-18,Corporate,West,Paid Search
+C12476,2024-08-24,Small Business,South,Organic
+C12477,2025-06-02,Consumer,West,Organic
+C12478,2024-08-05,Consumer,West,Paid Search
+C12479,2024-08-17,Consumer,South,Organic
+C12480,2025-10-08,Small Business,South,Referral
+C12481,2025-09-05,Consumer,South,Email
+C12482,2024-10-07,Consumer,East,Organic
+C12483,2024-07-07,Consumer,East,Referral
+C12484,2025-05-15,Consumer,East,Email
+C12485,2024-02-18,Corporate,West,Organic
+C12486,2024-11-15,Corporate,South,Social
+C12487,2025-02-23,Small Business,West,Email
+C12488,2025-04-18,Consumer,East,Referral
+C12489,2024-03-15,Consumer,South,Paid Search
+C12490,2024-01-03,Consumer,North,Email
+C12491,2024-07-12,Small Business,East,Social
+C12492,2024-03-24,Corporate,East,Organic
+C12493,2024-12-21,Consumer,North,Organic
+C12494,2025-10-05,Small Business,West,Paid Search
+C12495,2024-07-19,Consumer,South,Paid Search
+C12496,2024-11-13,Consumer,South,Paid Search
+C12497,2024-05-30,Consumer,West,Organic
+C12498,2024-01-31,Consumer,South,Referral
+C12499,2025-05-07,Small Business,East,Social
+C12500,2024-06-28,Corporate,East,Paid Search
+C12501,2025-01-17,Small Business,North,Organic
+C12502,2025-04-23,Small Business,South,Organic
+C12503,2025-08-10,Small Business,South,Organic
+C12504,2024-05-09,Consumer,North,Social
+C12505,2025-02-10,Consumer,East,Organic
+C12506,2025-09-29,Consumer,North,Email
+C12507,2024-12-04,Small Business,West,Organic
+C12508,2024-01-29,Small Business,South,Organic
+C12509,2024-07-01,Small Business,South,Email
+C12510,2025-07-10,Consumer,West,Paid Search
+C12511,2025-07-08,Consumer,South,Paid Search
+C12512,2024-08-08,Small Business,East,Organic
+C12513,2024-05-17,Consumer,East,Social
+C12514,2024-07-23,Consumer,West,Paid Search
+C12515,2024-06-18,Consumer,North,Referral
+C12516,2025-06-02,Consumer,North,Social
+C12517,2025-08-12,Corporate,West,Email
+C12518,2024-02-02,Small Business,North,Social
+C12519,2025-06-02,Small Business,East,Referral
+C12520,2025-06-10,Consumer,East,Social
+C12521,2025-03-05,Consumer,East,Paid Search
+C12522,2025-09-01,Small Business,West,Social
+C12523,2024-01-28,Consumer,West,Social
+C12524,2025-05-04,Consumer,North,Organic
+C12525,2024-03-30,Corporate,East,Social
+C12526,2025-09-19,Consumer,East,Organic
+C12527,2024-12-15,Consumer,South,Paid Search
+C12528,2024-03-04,Small Business,West,Organic
+C12529,2025-06-06,Corporate,South,Organic
+C12530,2025-06-08,Consumer,North,Organic
+C12531,2024-11-20,Consumer,West,Organic
+C12532,2024-08-05,Small Business,West,Organic
+C12533,2024-01-13,Corporate,North,Organic
+C12534,2025-09-27,Corporate,West,Social
+C12535,2024-05-08,Consumer,North,Paid Search
+C12536,2025-08-12,Small Business,North,Email
+C12537,2025-02-16,Small Business,South,Referral
+C12538,2025-04-24,Consumer,West,Organic
+C12539,2025-04-30,Consumer,North,Paid Search
+C12540,2025-08-23,Corporate,North,Paid Search
+C12541,2024-01-24,Small Business,West,Paid Search
+C12542,2025-11-24,Small Business,South,Paid Search
+C12543,2024-01-31,Small Business,North,Social
+C12544,2025-11-30,Corporate,South,Social
+C12545,2024-07-01,Consumer,West,Paid Search
+C12546,2025-08-15,Consumer,East,Social
+C12547,2024-02-28,Small Business,West,Organic
+C12548,2024-11-18,Consumer,North,Referral
+C12549,2025-01-14,Consumer,South,Email
+C12550,2025-10-30,Corporate,West,Organic
+C12551,2024-03-27,Consumer,South,Referral
+C12552,2024-01-26,Small Business,North,Referral
+C12553,2025-03-29,Consumer,South,Paid Search
+C12554,2024-02-04,Consumer,South,Organic
+C12555,2025-06-28,Consumer,North,Referral
+C12556,2024-01-27,Corporate,West,Paid Search
+C12557,2025-11-10,Small Business,South,Organic
+C12558,2025-01-07,Consumer,East,Social
+C12559,2025-10-25,Consumer,North,Paid Search
+C12560,2024-03-29,Consumer,East,Organic
+C12561,2024-07-10,Corporate,East,Email
+C12562,2024-11-14,Small Business,West,Organic
+C12563,2024-01-21,Small Business,South,Paid Search
+C12564,2024-03-13,Consumer,West,Social
+C12565,2024-08-18,Corporate,South,Organic
+C12566,2025-05-30,Consumer,East,Social
+C12567,2025-05-10,Consumer,West,Social
+C12568,2024-03-01,Consumer,East,Paid Search
+C12569,2024-02-11,Consumer,East,Paid Search
+C12570,2025-04-04,Consumer,West,Email
+C12571,2024-09-08,Small Business,West,Email
+C12572,2025-07-08,Consumer,North,Organic
+C12573,2024-07-27,Small Business,North,Paid Search
+C12574,2024-09-10,Small Business,East,Paid Search
+C12575,2024-06-02,Consumer,West,Email
+C12576,2024-07-05,Consumer,South,Referral
+C12577,2025-05-09,Small Business,South,Paid Search
+C12578,2024-11-25,Consumer,East,Email
+C12579,2025-04-06,Consumer,North,Paid Search
+C12580,2024-02-25,Consumer,North,Organic
+C12581,2025-01-09,Small Business,North,Social
+C12582,2024-11-17,Small Business,North,Paid Search
+C12583,2025-09-29,Small Business,West,Social
+C12584,2024-10-23,Corporate,South,Paid Search
+C12585,2024-03-13,Consumer,North,Referral
+C12586,2025-05-03,Small Business,South,Email
+C12587,2024-04-14,Small Business,South,Organic
+C12588,2025-09-28,Consumer,South,Paid Search
+C12589,2024-09-25,Small Business,South,Social
+C12590,2025-07-03,Small Business,North,Organic
+C12591,2025-04-04,Consumer,East,Referral
+C12592,2024-11-21,Consumer,North,Social
+C12593,2025-02-12,Consumer,North,Organic
+C12594,2024-05-07,Small Business,North,Email
+C12595,2024-02-21,Consumer,South,Paid Search
+C12596,2025-06-20,Consumer,North,Organic
+C12597,2025-11-01,Corporate,South,Organic
+C12598,2025-08-26,Small Business,South,Referral
+C12599,2024-08-01,Small Business,North,Email
+C12600,2024-09-07,Small Business,West,Paid Search
+C12601,2024-09-08,Consumer,South,Organic
+C12602,2025-05-06,Consumer,North,Organic
+C12603,2025-03-12,Corporate,East,Social
+C12604,2025-07-11,Consumer,North,Paid Search
+C12605,2025-10-23,Consumer,West,Paid Search
+C12606,2024-10-01,Small Business,North,Paid Search
+C12607,2025-04-08,Consumer,South,Paid Search
+C12608,2024-12-16,Corporate,West,Social
+C12609,2025-10-30,Corporate,North,Paid Search
+C12610,2024-09-04,Small Business,North,Organic
+C12611,2024-05-11,Consumer,East,Paid Search
+C12612,2024-09-22,Consumer,West,Paid Search
+C12613,2025-03-09,Consumer,South,Paid Search
+C12614,2025-10-29,Corporate,East,Organic
+C12615,2025-08-03,Consumer,North,Organic
+C12616,2024-01-13,Consumer,East,Paid Search
+C12617,2024-12-22,Small Business,South,Organic
+C12618,2024-04-21,Consumer,East,Social
+C12619,2024-09-10,Consumer,North,Paid Search
+C12620,2025-10-22,Consumer,East,Organic
+C12621,2025-11-20,Consumer,South,Social
+C12622,2024-04-17,Consumer,East,Paid Search
+C12623,2024-04-08,Consumer,West,Organic
+C12624,2025-05-02,Small Business,West,Referral
+C12625,2024-10-14,Small Business,West,Paid Search
+C12626,2024-10-29,Corporate,South,Email
+C12627,2025-09-03,Corporate,East,Organic
+C12628,2025-10-06,Small Business,North,Email
+C12629,2025-09-22,Small Business,West,Referral
+C12630,2025-07-02,Consumer,East,Organic
+C12631,2025-11-17,Consumer,South,Paid Search
+C12632,2025-05-18,Corporate,South,Social
+C12633,2025-09-11,Small Business,West,Paid Search
+C12634,2025-01-13,Consumer,West,Paid Search
+C12635,2024-02-05,Consumer,West,Email
+C12636,2025-07-25,Consumer,South,Social
+C12637,2025-10-12,Consumer,South,Email
+C12638,2024-08-06,Corporate,West,Referral
+C12639,2024-10-26,Consumer,East,Referral
+C12640,2025-02-04,Small Business,East,Social
+C12641,2025-04-01,Small Business,East,Social
+C12642,2025-04-17,Consumer,East,Email
+C12643,2024-10-02,Small Business,East,Social
+C12644,2025-08-21,Small Business,East,Organic
+C12645,2025-07-23,Consumer,West,Social
+C12646,2025-10-21,Consumer,West,Organic
+C12647,2025-02-07,Small Business,South,Email
+C12648,2024-02-24,Consumer,North,Social
+C12649,2025-08-14,Consumer,East,Social
+C12650,2024-02-25,Consumer,East,Organic
+C12651,2024-05-15,Consumer,East,Paid Search
+C12652,2024-07-18,Corporate,West,Paid Search
+C12653,2024-05-09,Consumer,North,Social
+C12654,2025-05-21,Corporate,South,Social
+C12655,2024-11-04,Consumer,West,Paid Search
+C12656,2024-06-02,Small Business,West,Organic
+C12657,2024-01-04,Consumer,South,Paid Search
+C12658,2024-05-31,Small Business,North,Paid Search
+C12659,2025-04-29,Small Business,South,Email
+C12660,2025-07-10,Consumer,South,Email
+C12661,2024-07-26,Corporate,South,Referral
+C12662,2024-02-21,Consumer,South,Paid Search
+C12663,2025-01-25,Small Business,South,Organic
+C12664,2025-07-02,Corporate,East,Email
+C12665,2024-02-19,Consumer,East,Email
+C12666,2025-07-10,Consumer,East,Organic
+C12667,2024-04-29,Consumer,South,Social
+C12668,2024-06-29,Small Business,South,Paid Search
+C12669,2025-03-12,Small Business,South,Organic
+C12670,2024-02-05,Consumer,West,Email
+C12671,2024-08-01,Consumer,South,Email
+C12672,2024-04-07,Consumer,East,Email
+C12673,2024-05-30,Consumer,East,Organic
+C12674,2025-06-25,Consumer,West,Paid Search
+C12675,2024-06-09,Consumer,South,Email
+C12676,2024-01-31,Small Business,South,Social
+C12677,2024-05-30,Consumer,West,Paid Search
+C12678,2024-03-01,Corporate,North,Paid Search
+C12679,2025-03-11,Consumer,East,Organic
+C12680,2025-11-11,Consumer,South,Social
+C12681,2024-04-27,Corporate,West,Email
+C12682,2025-05-25,Consumer,West,Organic
+C12683,2024-09-10,Consumer,North,Organic
+C12684,2024-02-20,Small Business,West,Paid Search
+C12685,2025-04-26,Small Business,East,Social
+C12686,2024-05-26,Corporate,East,Paid Search
+C12687,2024-12-25,Consumer,South,Organic
+C12688,2024-12-20,Consumer,North,Social
+C12689,2025-02-22,Consumer,East,Organic
+C12690,2024-04-04,Small Business,South,Social
+C12691,2024-06-24,Small Business,West,Social
+C12692,2025-05-31,Consumer,South,Paid Search
+C12693,2025-10-14,Small Business,East,Social
+C12694,2024-01-09,Consumer,South,Social
+C12695,2024-10-16,Consumer,East,Social
+C12696,2025-09-08,Consumer,North,Social
+C12697,2024-07-19,Consumer,South,Paid Search
+C12698,2024-11-09,Small Business,North,Paid Search
+C12699,2025-09-25,Small Business,East,Paid Search
+C12700,2025-11-09,Consumer,South,Paid Search
+C12701,2025-04-03,Consumer,West,Paid Search
+C12702,2025-04-30,Consumer,North,Organic
+C12703,2025-03-05,Consumer,East,Social
+C12704,2024-07-17,Consumer,East,Organic
+C12705,2025-09-12,Consumer,North,Email
+C12706,2024-01-24,Consumer,North,Social
+C12707,2024-02-10,Consumer,South,Organic
+C12708,2025-02-25,Consumer,East,Social
+C12709,2025-08-09,Small Business,West,Paid Search
+C12710,2025-07-23,Consumer,North,Email
+C12711,2025-04-19,Consumer,East,Email
+C12712,2024-09-20,Consumer,East,Referral
+C12713,2024-09-08,Corporate,East,Social
+C12714,2024-10-24,Consumer,South,Email
+C12715,2024-06-28,Consumer,West,Social
+C12716,2024-10-20,Corporate,South,Email
+C12717,2024-03-14,Corporate,West,Organic
+C12718,2024-08-11,Consumer,South,Email
+C12719,2025-10-20,Consumer,West,Social
+C12720,2025-05-09,Small Business,West,Paid Search
+C12721,2024-04-09,Consumer,West,Email
+C12722,2024-07-19,Consumer,South,Social
+C12723,2024-06-30,Consumer,West,Email
+C12724,2024-07-16,Consumer,North,Organic
+C12725,2025-04-28,Corporate,East,Social
+C12726,2025-09-18,Corporate,South,Social
+C12727,2025-05-12,Consumer,East,Organic
+C12728,2024-12-07,Corporate,South,Referral
+C12729,2024-04-22,Consumer,North,Social
+C12730,2024-04-10,Small Business,South,Organic
+C12731,2025-07-23,Consumer,North,Social
+C12732,2025-04-19,Consumer,South,Organic
+C12733,2024-12-23,Corporate,West,Referral
+C12734,2025-02-08,Consumer,West,Email
+C12735,2025-08-16,Consumer,West,Paid Search
+C12736,2025-07-23,Consumer,West,Paid Search
+C12737,2024-03-02,Corporate,South,Paid Search
+C12738,2024-10-03,Consumer,South,Paid Search
+C12739,2024-01-30,Corporate,South,Email
+C12740,2024-09-26,Small Business,North,Paid Search
+C12741,2025-03-21,Corporate,East,Paid Search
+C12742,2024-05-25,Consumer,West,Organic
+C12743,2024-04-15,Small Business,East,Social
+C12744,2024-12-09,Consumer,West,Referral
+C12745,2025-01-02,Small Business,North,Organic
+C12746,2025-05-14,Corporate,West,Organic
+C12747,2024-01-10,Consumer,North,Organic
+C12748,2024-06-22,Small Business,West,Organic
+C12749,2025-06-29,Consumer,South,Paid Search
+C12750,2025-04-22,Consumer,South,Referral
+C12751,2025-09-21,Consumer,South,Paid Search
+C12752,2025-07-24,Corporate,South,Organic
+C12753,2025-08-10,Corporate,South,Social
+C12754,2024-12-23,Small Business,North,Referral
+C12755,2025-11-01,Consumer,East,Paid Search
+C12756,2024-10-18,Corporate,West,Organic
+C12757,2025-09-24,Corporate,South,Referral
+C12758,2024-10-01,Corporate,South,Organic
+C12759,2024-11-06,Consumer,West,Referral
+C12760,2025-04-24,Consumer,South,Referral
+C12761,2024-10-05,Small Business,West,Email
+C12762,2024-04-12,Consumer,South,Organic
+C12763,2025-09-19,Consumer,South,Organic
+C12764,2024-11-13,Consumer,North,Email
+C12765,2025-10-10,Consumer,North,Paid Search
+C12766,2024-10-06,Consumer,East,Paid Search
+C12767,2025-11-11,Consumer,West,Social
+C12768,2025-02-26,Corporate,North,Organic
+C12769,2025-06-21,Small Business,West,Social
+C12770,2025-06-12,Consumer,South,Email
+C12771,2024-05-21,Consumer,South,Social
+C12772,2025-07-24,Small Business,West,Paid Search
+C12773,2025-10-23,Consumer,West,Email
+C12774,2025-04-07,Small Business,East,Social
+C12775,2025-10-24,Consumer,South,Organic
+C12776,2025-08-15,Consumer,North,Social
+C12777,2025-04-11,Consumer,South,Organic
+C12778,2024-11-30,Consumer,West,Paid Search
+C12779,2025-08-23,Small Business,South,Social
+C12780,2024-05-09,Consumer,East,Organic
+C12781,2025-01-27,Small Business,North,Organic
+C12782,2025-07-25,Small Business,South,Social
+C12783,2025-10-22,Small Business,South,Organic
+C12784,2024-07-05,Small Business,South,Paid Search
+C12785,2024-03-06,Consumer,East,Organic
+C12786,2024-08-21,Consumer,West,Social
+C12787,2025-08-27,Small Business,West,Email
+C12788,2025-01-01,Consumer,East,Organic
+C12789,2024-02-08,Consumer,North,Referral
+C12790,2024-03-24,Consumer,West,Organic
+C12791,2024-08-25,Consumer,West,Paid Search
+C12792,2024-08-27,Small Business,West,Paid Search
+C12793,2024-04-04,Consumer,South,Organic
+C12794,2024-12-11,Corporate,North,Organic
+C12795,2024-12-01,Small Business,West,Referral
+C12796,2024-05-19,Consumer,South,Referral
+C12797,2024-06-11,Small Business,South,Email
+C12798,2025-04-10,Consumer,South,Email
+C12799,2025-10-28,Consumer,East,Paid Search
+C12800,2025-11-28,Consumer,South,Organic
+C12801,2025-01-26,Consumer,East,Organic
+C12802,2024-01-27,Consumer,East,Paid Search
+C12803,2025-09-20,Consumer,South,Email
+C12804,2025-10-27,Consumer,North,Organic
+C12805,2024-07-13,Consumer,West,Organic
+C12806,2024-10-07,Corporate,South,Paid Search
+C12807,2024-01-19,Consumer,South,Email
+C12808,2025-07-14,Small Business,South,Paid Search
+C12809,2025-06-26,Small Business,South,Social
+C12810,2024-01-15,Corporate,East,Paid Search
+C12811,2025-05-06,Consumer,North,Paid Search
+C12812,2024-10-15,Corporate,West,Paid Search
+C12813,2025-01-16,Corporate,North,Referral
+C12814,2024-06-01,Small Business,West,Referral
+C12815,2025-07-24,Small Business,East,Paid Search
+C12816,2024-10-10,Consumer,North,Organic
+C12817,2025-08-11,Corporate,East,Organic
+C12818,2024-04-13,Small Business,South,Organic
+C12819,2025-02-15,Consumer,West,Organic
+C12820,2024-08-05,Consumer,West,Organic
+C12821,2025-11-07,Corporate,South,Social
+C12822,2025-01-24,Corporate,South,Referral
+C12823,2025-05-18,Consumer,West,Social
+C12824,2024-03-01,Consumer,East,Social
+C12825,2025-04-18,Consumer,South,Email
+C12826,2024-03-11,Consumer,South,Email
+C12827,2024-09-09,Small Business,South,Organic
+C12828,2024-06-04,Small Business,East,Organic
+C12829,2024-01-02,Consumer,East,Organic
+C12830,2025-02-14,Consumer,West,Email
+C12831,2024-06-17,Small Business,East,Organic
+C12832,2024-12-24,Corporate,East,Paid Search
+C12833,2025-06-18,Consumer,South,Paid Search
+C12834,2024-05-04,Consumer,West,Social
+C12835,2025-05-11,Consumer,South,Social
+C12836,2024-07-26,Small Business,West,Referral
+C12837,2024-08-19,Corporate,South,Social
+C12838,2025-02-07,Consumer,East,Email
+C12839,2025-03-13,Small Business,West,Organic
+C12840,2025-04-03,Corporate,West,Email
+C12841,2024-05-16,Small Business,South,Social
+C12842,2025-02-09,Consumer,East,Organic
+C12843,2024-07-03,Consumer,North,Email
+C12844,2024-07-12,Small Business,North,Email
+C12845,2025-10-25,Small Business,West,Referral
+C12846,2024-03-11,Small Business,West,Email
+C12847,2024-10-16,Small Business,North,Paid Search
+C12848,2024-11-03,Consumer,West,Organic
+C12849,2024-06-20,Consumer,South,Organic
+C12850,2025-07-03,Consumer,West,Email
+C12851,2024-12-06,Small Business,West,Referral
+C12852,2025-05-18,Consumer,West,Email
+C12853,2024-09-27,Small Business,West,Referral
+C12854,2025-09-19,Small Business,West,Social
+C12855,2025-05-25,Small Business,East,Organic
+C12856,2024-08-21,Small Business,South,Organic
+C12857,2025-11-04,Consumer,South,Paid Search
+C12858,2025-08-28,Consumer,West,Referral
+C12859,2025-02-18,Small Business,North,Organic
+C12860,2024-01-12,Consumer,West,Email
+C12861,2025-02-17,Consumer,North,Social
+C12862,2025-04-28,Small Business,West,Paid Search
+C12863,2024-09-12,Corporate,South,Email
+C12864,2024-04-10,Consumer,West,Social
+C12865,2025-01-30,Consumer,West,Social
+C12866,2025-07-15,Consumer,South,Paid Search
+C12867,2024-08-11,Small Business,East,Paid Search
+C12868,2024-11-15,Corporate,South,Organic
+C12869,2024-01-01,Consumer,West,Paid Search
+C12870,2025-05-07,Consumer,West,Referral
+C12871,2025-08-29,Small Business,South,Email
+C12872,2025-06-27,Small Business,North,Email
+C12873,2024-10-27,Consumer,South,Organic
+C12874,2024-02-01,Corporate,North,Email
+C12875,2024-12-10,Consumer,West,Organic
+C12876,2025-10-20,Consumer,South,Organic
+C12877,2024-02-28,Consumer,West,Social
+C12878,2024-05-29,Consumer,West,Email
+C12879,2025-08-08,Consumer,West,Email
+C12880,2025-02-01,Consumer,East,Referral
+C12881,2024-04-29,Consumer,South,Organic
+C12882,2024-01-17,Consumer,West,Organic
+C12883,2024-10-14,Consumer,East,Organic
+C12884,2025-02-20,Corporate,West,Social
+C12885,2025-08-11,Consumer,South,Paid Search
+C12886,2025-09-10,Consumer,North,Organic
+C12887,2024-11-16,Small Business,West,Paid Search
+C12888,2024-10-22,Consumer,West,Social
+C12889,2025-10-13,Small Business,South,Social
+C12890,2025-06-27,Corporate,West,Paid Search
+C12891,2024-05-26,Corporate,North,Paid Search
+C12892,2025-04-21,Consumer,East,Social
+C12893,2025-05-15,Consumer,South,Social
+C12894,2024-06-12,Small Business,South,Organic
+C12895,2025-11-15,Small Business,South,Organic
+C12896,2024-07-26,Consumer,South,Email
+C12897,2025-01-19,Small Business,South,Referral
+C12898,2024-12-11,Consumer,South,Organic
+C12899,2025-04-29,Small Business,South,Social
+C12900,2025-09-23,Small Business,East,Social
+C12901,2024-10-02,Consumer,East,Organic
+C12902,2024-09-26,Small Business,East,Organic
+C12903,2025-06-09,Small Business,South,Email
+C12904,2025-10-28,Corporate,North,Paid Search
+C12905,2025-09-28,Consumer,West,Organic
+C12906,2025-06-10,Small Business,West,Referral
+C12907,2025-05-07,Corporate,West,Paid Search
+C12908,2025-06-22,Consumer,West,Social
+C12909,2025-10-17,Small Business,East,Organic
+C12910,2024-01-08,Consumer,West,Organic
+C12911,2025-02-16,Small Business,South,Organic
+C12912,2024-01-24,Corporate,West,Email
+C12913,2025-02-07,Consumer,West,Social
+C12914,2024-10-03,Small Business,West,Referral
+C12915,2024-08-01,Consumer,South,Organic
+C12916,2025-09-15,Consumer,South,Referral
+C12917,2025-05-11,Consumer,South,Paid Search
+C12918,2025-02-01,Consumer,South,Social
+C12919,2025-09-09,Corporate,West,Paid Search
+C12920,2024-03-09,Consumer,East,Social
+C12921,2025-03-28,Small Business,South,Organic
+C12922,2024-04-19,Small Business,East,Organic
+C12923,2024-06-12,Small Business,South,Referral
+C12924,2024-05-09,Consumer,East,Organic
+C12925,2025-01-15,Corporate,South,Organic
+C12926,2025-03-16,Consumer,East,Email
+C12927,2025-06-13,Small Business,West,Organic
+C12928,2024-11-04,Consumer,West,Social
+C12929,2025-10-19,Small Business,West,Referral
+C12930,2024-09-18,Consumer,South,Social
+C12931,2024-04-19,Consumer,East,Organic
+C12932,2024-01-26,Small Business,South,Social
+C12933,2024-03-30,Consumer,South,Paid Search
+C12934,2024-11-07,Small Business,East,Paid Search
+C12935,2024-10-16,Small Business,East,Referral
+C12936,2025-08-20,Consumer,West,Email
+C12937,2024-03-28,Consumer,South,Organic
+C12938,2024-07-02,Consumer,West,Organic
+C12939,2025-11-17,Small Business,South,Social
+C12940,2024-01-20,Small Business,East,Paid Search
+C12941,2024-10-24,Consumer,West,Referral
+C12942,2024-05-18,Corporate,West,Organic
+C12943,2025-01-08,Consumer,West,Organic
+C12944,2025-11-12,Corporate,West,Social
+C12945,2024-06-07,Small Business,South,Email
+C12946,2024-09-16,Small Business,West,Organic
+C12947,2024-11-10,Consumer,West,Email
+C12948,2025-07-12,Consumer,South,Paid Search
+C12949,2025-11-20,Consumer,North,Organic
+C12950,2024-03-08,Consumer,South,Paid Search
+C12951,2024-12-08,Consumer,West,Organic
+C12952,2025-06-10,Small Business,West,Social
+C12953,2024-01-07,Consumer,West,Organic
+C12954,2025-07-18,Consumer,South,Paid Search
+C12955,2024-06-18,Corporate,North,Organic
+C12956,2024-12-28,Consumer,South,Referral
+C12957,2025-11-15,Consumer,South,Email
+C12958,2025-03-20,Small Business,North,Paid Search
+C12959,2025-11-23,Consumer,North,Paid Search
+C12960,2025-02-26,Consumer,North,Email
+C12961,2024-05-27,Consumer,North,Organic
+C12962,2025-04-29,Consumer,West,Referral
+C12963,2025-03-06,Consumer,South,Social
+C12964,2024-08-05,Consumer,South,Email
+C12965,2024-02-23,Consumer,East,Organic
+C12966,2025-03-29,Small Business,West,Organic
+C12967,2025-02-08,Consumer,West,Paid Search
+C12968,2025-06-25,Consumer,East,Organic
+C12969,2024-03-29,Consumer,West,Organic
+C12970,2025-01-12,Small Business,East,Email
+C12971,2025-07-27,Consumer,East,Organic
+C12972,2025-09-15,Small Business,South,Organic
+C12973,2025-10-19,Consumer,East,Organic
+C12974,2024-05-28,Small Business,South,Paid Search
+C12975,2024-05-01,Consumer,South,Paid Search
+C12976,2025-02-07,Consumer,South,Organic
+C12977,2024-11-19,Consumer,South,Referral
+C12978,2024-06-13,Consumer,South,Referral
+C12979,2024-03-12,Small Business,East,Organic
+C12980,2024-04-10,Corporate,South,Referral
+C12981,2024-08-25,Corporate,North,Paid Search
+C12982,2025-06-01,Consumer,South,Paid Search
+C12983,2024-02-15,Corporate,South,Email
+C12984,2024-03-14,Consumer,East,Email
+C12985,2024-07-04,Small Business,South,Paid Search
+C12986,2025-09-03,Corporate,North,Paid Search
+C12987,2025-11-24,Consumer,North,Organic
+C12988,2024-11-04,Small Business,South,Paid Search
+C12989,2024-02-01,Consumer,North,Social
+C12990,2024-01-09,Consumer,South,Organic
+C12991,2025-08-24,Consumer,East,Email
+C12992,2024-11-07,Corporate,West,Social
+C12993,2024-02-24,Consumer,East,Organic
+C12994,2025-08-06,Consumer,North,Email
+C12995,2025-01-05,Small Business,South,Social
+C12996,2024-09-01,Consumer,West,Paid Search
+C12997,2024-11-12,Corporate,South,Paid Search
+C12998,2024-06-06,Consumer,West,Email
+C12999,2025-10-14,Consumer,East,Email
